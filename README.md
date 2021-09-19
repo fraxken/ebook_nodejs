@@ -1,2 +1,6 @@
-# ebook_nodejs
-Ebook - Become a Node.js developer
+# Node.js Ebook
+
+An Ebook by GENTILHOMME Thomas.
+
+- [French Version](./fr/README.md)
+- English Version (**coming soon**)
