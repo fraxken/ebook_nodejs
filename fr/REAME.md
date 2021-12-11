@@ -13,4 +13,3 @@ Ce document n’est pas figé et il évoluera autant que je l’estime nécessai
     - 👊 Pour qui ?
     - 💬 Pourquoi ?
     - 😬 L’investissement nécessaire
-    - 👯 Mentoring (bonus)

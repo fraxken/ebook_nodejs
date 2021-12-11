@@ -15,6 +15,7 @@ Les liens suivant vous permettront d’effectuer un ensemble de workshops et cha
 
 - **[Débutant]** [freecodecamp](https://www.freecodecamp.org/) - Apprenez à coder - gratuitement.
 - **[Débutant]** [nodeschool](https://nodeschool.io/) - Il y a plus d’une dizaine de workshops vraiment très intéressants à faire, **voir la section suivante**
+- **[Débutant]** [JavaScript Algorithms Crash Course - Learn Algorithms & "Big O" from the Ground Up!](https://www.youtube.com/watch?v=JgWm6sQwS_I) - Apprendre les bases de l'ago.
 - **[Intermédiaire]** [jskatas](https://jskatas.org/) - Apprenez JavaScript (le langage et plus encore) en le pratiquant. Corrigez les tests défaillants.
 - **[Intermédiaire]** [warriorjs](https://warriorjs.com/) - Codez votre chemin à travers les donjons
 - **[Intermédiaire]** [“Build Your Own Array in Javascript!”](https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js)

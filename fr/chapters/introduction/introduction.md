@@ -49,11 +49,3 @@ Ce document aura justement pour mission de vous offrir un ensemble de référenc
 Sortir d’une formation accélérée ne vous aidera probablement pas (et croire le contraire vous assurera un échec quasiment certain 😟). Les formateurs sont bien souvent peu qualifiés et sous-payés et les taux d’embauches après formation bien plus faibles que ce que l'on vous a vendu (voir inexistant selon le degré de médiocrité du programme). Beaucoup idéalisent le métier et ne sont pas psychologiquement prêt à vivre le quotidien d’un réel développeur 🙉🙈. 
 
 Bref, il vous faut absolument fournir de très grands efforts pour vous en sortir et espérer décrocher un premier emploi (si c’est votre objectif). Je vous invite par ailleurs à lire l’excellent article de Rayed sur [Devenir développeur après une reconversion](https://practicalprogramming.fr/devenir-developpeur).
-
-## 👯 Mentoring (bonus)
-
-J’ai moi-même construit ce document dans l’objectif de pouvoir guider 🔮 les développeurs moins expérimentés au travers de mon expérience et mes références. Si vous êtes seul, il peut être difficile de ne pas se noyer dans l’immensité des sujets qui seront abordés dans les chapitres ci-dessous (ni même vraiment savoir s'il y a un ordre en particulier à respecter).
-
-Il peut être très bénéfique pour vous de trouver un mentor qui sera en capacité de vous conseiller sur le chemin à suivre. C’est un rôle que j’essaye d’ailleurs de tenir le plus possible à travers les communautés ou mes projets personnels (N’hésitez donc pas à prendre contact avec moi si vous êtes en recherche d’un mentor en Node.js).
-
-Il n’est pas non plus impossible de réussir à s’en sortir seul 💪. Ayez confiance en vous et prenez le temps de souffler... Cela m’a pris 7 à 8 ans de travail intensif pour en arriver là (et je n’ai peut-être même pas commencé LOL 😅). **Il n’est donc pas question d’acquérir des connaissances du jour au lendemain**.
