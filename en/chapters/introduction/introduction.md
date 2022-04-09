@@ -14,6 +14,7 @@ Beyond that I am also active in various projects, communities and groups:
 - Lead maintainer of a large open-source project: [SlimIO](https://github.com/SlimIO) 😍. (A monitoring solution in Node.js and C++).
 - Node.js contributor 🐢 (Member of the [Security Working Group](https://github.com/nodejs/security-wg) 🔓). I work in on open-source projects related to security on Node.js: [Node-secure](https://github.com/ES-Community/nsecure), [JS-X-Ray](https://github.com/NodeSecure/js-x-ray)
 
+&nbsp;
 ## 👊 For whom?
 
 This document is mainly aimed at developers (beginners or not 🐣) who want to move towards a **Node.js back-end** career. Potentially to people wishing to establish a cross-functional career with the motivation to undergo a rise in skills both back and front.
@@ -23,12 +24,14 @@ This document is mainly aimed at developers (beginners or not 🐣) who want to 
 
 The document is not necessarily intended to be a vulgarization of existing resources that already do that very well (unless I think I have the opportunity and the skills to do it better). I prefer to see it as a **portal to a much better set of references**.
 
+&nbsp;
 ## 💬 Why?
 
 It is always a pleasure for me to help others and share my knowledge and references ❤️. I already do this on a daily basis through the various communities and groups I am active in.
 
 It is also an opportunity for me to work on building a document that brings together much of what has made up my journey 📚 (**and potentially challenge myself and do some new research**). This should make it much easier for me personally to train juniors and mentees by helping them with my own document 💡.
 
+&nbsp;
 ## 😬 The required investment
 
 Becoming a Node.js back-end developer requires a lot of courage 😳 and an investment often much more focused **on JavaScript** as well as various notions like architecture, testing etc. The front-end is very largely dominant in the JavaScript ecosystem and sometimes this can be a source of pressure for a beginner (even at my level of expertise it's not always obvious... Last year I was recommended to do front-end to have more missions 😒).
