@@ -12,6 +12,7 @@ Parmis les références que je vous recommande de lire 👇:
 - **[Débutant]** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) par [Kyle Simpson](https://github.com/getify)
 - **[Débutant]** [Eloquent JavaScript](https://eloquentjavascript.net/) par [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 - **[Débutant]** [JavaScript de ES1 à ES5](http://speakingjs.com/) par [Axel Rauschmayer](http://dr-axel.de/)
+- **[Intermédiaire]** [Speaking JavaScript: An In-Depth Guide](https://github.com/getify/Functional-Light-JS/) par [Axel Rauschmayer](http://dr-axel.de/)
 - **[Intermédiaire]** [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/) par [Kyle Simpson](https://github.com/getify)
 - **[Avancé]** [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html) par [Axel Rauschmayer](http://dr-axel.de/)
 
