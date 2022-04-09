@@ -25,4 +25,5 @@ It is also possible to train effectively with the help of a book 😉. Just get 
 
 ---
 
-[Next Page](./challenge.md)
+[Previous](./introduction.md)
+[Next](./challenge.md)

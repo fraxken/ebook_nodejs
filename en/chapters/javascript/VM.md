@@ -47,3 +47,8 @@ As hard as it may be to hear, I think that someone without a solid knowledge of 
 And even people with a lot of experience (including the contributors to the engines themselves) are always in doubt and prefer to take a pinch of salt for each of their conclusions. That's how difficult it is... whether you're going to do for-in, for-of or .forEach is not really relevant here.
 
 > “ 👉 Premature optimization is the root of all (or at least most) evils in programming..” (<u>Donald Knuth</u>) 
+
+---
+
+[Previous](./online-courses-talks-articles.md)
+[Next](../ecmascript/javascript-or-ecmascript.md)
