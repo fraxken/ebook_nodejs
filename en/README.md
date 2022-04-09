@@ -14,6 +14,7 @@ This document is not set in stone and will evolve as much as I deem necessary ov
     - [👊 For whom?](./chapters/introduction/introduction.md#-For-whom-)
     - [💬 Why?](./chapters/introduction/introduction.md#-Why-)
     - [😬 The required investment](./chapters/introduction/introduction.md#-The-required-investment-)
+    - [📌 Legends](./chapters/introduction/introduction.md#📌-legends)
 - [JavaScript](./chapters/javascript/introduction.md)
   - [📕 Dedicate a daily time to reading](./chapters/javascript/reading.md)
     - [📖📐 Practice with a book](./chapters/javascript/reading.md#📖📐-practice-with-a-book)

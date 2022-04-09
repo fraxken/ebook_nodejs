@@ -41,3 +41,22 @@ There are inevitably fewer opportunities than on the front end, but on the other
 Obviously you will have to invest a lot of time in learning and practicing to prove your motivation with actions. Nowadays this often starts by breaking the belief that doing a CRUD API with "**express**" will be enough to get you a job (this is less and less the case ⛔).
 
 The purpose of this document is to provide you with a set of references that will help you along the way (at least as much as possible... this document remains impregnated with my own strengths and weaknesses).
+
+## 📌 Legends
+
+The document includes a set of references (links) to videos and articles that are segmented by level of difficulty and language (FR French or EN English). 
+
+[Beginner]
+These are often popularization or information resources accessible to beginners. Be careful on certain tough subjects, the notion of a beginner can nevertheless imply that you have acquired skills.
+
+[Intermediate]
+These are resources that require a certain foundation to be able to approach them. However, this does not mean that they will technically require a long time to be addressed.
+
+[Advanced]
+Unlike intermediate, advanced resources are much more technically and practically hairy.
+
+[To know]
+These are links dealing with subjects that are interesting to know (often details on the functioning and behaviors that are not well understood, etc.). These are often beginner/intermediate resources.
+
+The ratings are not perfect and they are here mainly to try to guide you as much as possible.
+
