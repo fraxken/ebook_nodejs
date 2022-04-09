@@ -18,4 +18,6 @@ I think it is important to say that here we are talking about strict TypeScript 
 It is true that when a code is properly annotated with interfaces and types, it is often easier to maintain the code (and certainly easier to read and understand for developers with less experience). Finally, this is obviously a feeling that is certainly not concrete (you also have to trust your colleagues... nothing says that they have annotated the code correctly ^^).
 
 ---
+
+[Previous](../ecmascript/tc39.md)
 [Next](./README.md)

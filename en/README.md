@@ -36,3 +36,5 @@ This document is not set in stone and will evolve as much as I deem necessary ov
   - [ECMAScript 6 (ES2015)](./chapters/ecmascript/ecmascript-6.md)
   - [JavaScript: 20 years](./chapters/ecmascript/javascript-20years.md)
   - [TC39](./chapters/ecmascript/tc39.md)
+- [TypeScript](./chapters/typescript/introduction.md)
+  - [related](chapters/typescript/README.md)

@@ -7,3 +7,8 @@ JavaScript was invented in 1995 by Brendan Eich while he was an employee of the 
 The specification was then validated by the Ecma International organization in June 1997 under the name ECMAScript, standard ECMA-262.
 
 The term JavaScript has remained in the common vocabulary, but in fact it is ECMAScript.
+
+---
+
+[Previous](../javascript/VM.md)
+[Next](./ecmascript-6.md)
