@@ -8,7 +8,7 @@ Je rencontre tous les jours des développeurs qui passent leur temps à galérer
 
 Il est donc nécessaire de vous entraîner et vous former bien plus intensivement que vos collègues qui aspirent à devenir “**majoritairement**” développeur front-end (Même si le front-end lui aussi devient de plus en plus technique avec quelquefois des frameworks qui demandent une maîtrise importante de JavaScript).
 
-Les entretiens **se jouent majoritairement sur votre maîtrise du langage** (plus vous êtes à l’aise et plus vous aurez une chance d’obtenir le boulot). Que ce soit pour un algorithme, un challenge ou même la création d’un projet (une API http par exemple). 
+Les entretiens **se jouent majoritairement sur votre maîtrise du langage** (plus vous êtes à l’aise et plus vous aurez une chance d’obtenir le boulot). Que ce soit pour un algorithme, un challenge ou même la création d’un projet (une API http par exemple).
 
 Si vous passez dix minutes pour vous souvenir de comment mettre une clé dans un objet, **alors il est fort probable que vous avez grillé votre entretien** 😭. Avoir de l’expérience avec un framework ou une librairie est une bonne chose, mais cela ne doit pas se faire au prix d’un manque de compétences en JavaScript.
 

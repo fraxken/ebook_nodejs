@@ -1,4 +1,4 @@
-# JavaScript 
+# JavaScript
 
 ## 📕 Dédier un temps quotidien à la lecture
 
