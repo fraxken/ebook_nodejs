@@ -14,3 +14,6 @@ This document is not set in stone and will evolve as much as I deem necessary ov
     - 👊 For whom?
     - 💬 Why?
     - 😬 The required investment
+- [JavaScript](./chapters/javascript/introduction.md)
+  - [📕 Dedicate a daily time to reading](./chapters/javascript/reading.md)
+  - [💪 Challenge yourself regularly](./chapters/javascript/challenge.md)

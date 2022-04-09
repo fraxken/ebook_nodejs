@@ -3,4 +3,4 @@
 An Ebook by GENTILHOMME Thomas.
 
 - [French Version](./fr/README.md)
-- English Version (**coming soon**)
+- [English Version](./en/README.md)
