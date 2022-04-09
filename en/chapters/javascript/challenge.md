@@ -69,3 +69,6 @@ This is a field that will require you to work very seriously on mathematics and 
 
 > 👀 Please note that my own goal is to climb the Codeforces ranking and to participate in several rounds in the coming years.
 
+---
+
+[Next Page](./online-courses-talks-articles.md)

@@ -19,7 +19,7 @@ Among the references I recommend you to read 👇:
 Dr. Axel Rauschmayer has a style that differs from Kyle Simpson. I invite you to choose the writing style that suits you best. Beware of Kyle who often has ideas and a code style that is considered quite "extreme".
 
 &nbsp;
-## 📖📐 Practice with a book
+### 📖📐 Practice with a book
 
 It is also possible to train effectively with the help of a book 😉. Just get into the habit of experimenting with features as you discover them. Axel Rauschmayer's writing style is pretty conducive to this (the online version of these books and articles is really cool).
 
