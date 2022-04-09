@@ -13,6 +13,7 @@ Take the time to build a foundation in JavaScript to better understand the advan
 >
 >  My goal is to warn about the shortcuts that are often made and that will potentially harm the watch of the most beginners. ✨
 
+&nbsp;
 ## 🐲 Ressources sur l’écriture d’annotation de types
 
 I now realize that it is difficult for me to offer you a maximum of resources on the subject, as I have lived and worked with the different versions of TypeScript as they have been released (since version 1.1).
