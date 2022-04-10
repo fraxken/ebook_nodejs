@@ -41,5 +41,32 @@ Parmis les workshops que je vous recommande (plus ou moins dans l’ordre) :
 - [Bytewiser](https://github.com/maxogden/bytewiser) 
 - [Stream Adventure](https://www.github.com/substack/stream-adventure) (un peu plus difficile)
 
+### 🔎 Les autres sites
+
+Divers sites internet proposant divers challenges et exercices:
+
+- EN  [https://www.codingame.com/](https://www.codingame.com/)
+- EN  [https://www.codewars.com/](https://www.codewars.com/)
+- EN  [https://leetcode.com/](https://leetcode.com/)
+- EN  [https://www.hackerrank.com/](https://www.hackerrank.com/) (Il y a notamment des catégories pour les Mathématiques et Algo).
+
+Je n'ai pas forcément de recommandation pour ceux-ci (en ce qui me concerne je n’accroche pas forcément avec ces sites).
+
+### 🏆 Competitive programming
+
+Si certains d’entre vous sont des grands motivés et que vous souhaitez vous orienter dans les compétitions de code (ou que les mathématiques et la résolution d’algorithmes c’est votre truc ^^) eh bien je vous recommande les liens suivants :
+
+- EN  [What is Competitive Programming?](https://www.youtube.com/watch?v=ueNT-w7Oluw)
+- EN  [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+- EN  [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc)
+- EN  [How to start Competitive Programming? For beginners!](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+- EN  [Fundamentals of algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- EN  [Codeforces](https://codeforces.com/)
+
+C’est un domaine qui vous demandera de travailler très sérieusement les mathématiques et d’étudier très longuement les diverses structures et algorithmes existants.
+
+> 👀 À noter que j’ai moi-même pour objectif de monter dans le classement du site Codeforces et de participer à plusieurs rounds dans les prochaines années.
+
 ---
-[Page Suivante](./challenge.md)
+[Page précédente](./lecture.md)
+[Page Suivante](./online-courses-talks-articles.md)
