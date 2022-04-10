@@ -9,7 +9,7 @@ If you are using VSCode to write JavaScript then TypeScript is also doing you a 
 
 You can see [here](https://octoverse.github.com/) that JavaScript is the most popular language while TypeScript is fourth.
 
-<img src="./../../../assets/typescript/Octoverse-state.png" alt="Popular languages" width="800"/>
+<img src="./../../../assets/typescript/Octoverse-state.png" alt="Octoverse state" width="800"/>
 
 There are a good number of debates on the Internet about the advantages and disadvantages of TypeScript. Like everything in life, nothing is black and white and you have to keep your feet on the ground. As far as I'm concerned, I like to juggle between projects in JavaScript and projects in TypeScript (depending on the context and the project).
 

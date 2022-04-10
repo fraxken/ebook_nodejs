@@ -31,7 +31,7 @@ This document is not set in stone and will evolve as much as I deem necessary ov
     - [📺 Talks](./chapters/javascript/online-courses-talks-articles.md#📺-talks)
   - [🔧 Engine & VM JavaScript (V8 etc)](./chapters/javascript/VM.md)
     - [😡 The dangerous hype of benchmarks](./chapters/javascript/VM.md#😡-the-dangerous-hype-of-benchmarks)
-- ⚡ ECMAScript
+- **⚡ ECMAScript**
   - [JavaScript or ECMAScript ?](./chapters/ecmascript/javascript-or-ecmascript.md)
   - [ECMAScript 6 (ES2015)](./chapters/ecmascript/ecmascript-6.md)
   - [JavaScript: 20 years](./chapters/ecmascript/javascript-20years.md)
@@ -55,3 +55,10 @@ This document is not set in stone and will evolve as much as I deem necessary ov
   - [👽 Native API (native addon creation in C and C++)](./chapters/nodejs/native-api.md)
   - [📟 CLI](./chapters/nodejs/cli.md)
   - [📦 Packages](./chapters/nodejs/packages.md)
+  - [🔍 Debugging & Profiling](./chapters/nodejs/debugging-and-profiling.md)
+  - [Modules (CJS & ESM)](./chapters/nodejs/modules.md)
+  - [WebSocket](./chapters/nodejs/websocket.md)
+  - [📊 Unit testing and coverage](./chapters/nodejs/unit-testing-and-coverage.md)
+    - [💃 Méthodologies](./chapters/nodejs/unit-testing-and-coverage.md#💃-méthodologies)
+  - **🌟 Les différents modules core**
+    - [Console](chapters/nodejs/core-modules/console.md)

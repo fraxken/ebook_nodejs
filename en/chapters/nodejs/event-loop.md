@@ -9,7 +9,7 @@ When you want to become better in Node.js it is important to understand at least
 
 Can you guess the order of the logs?
 
-<img src="./../../../assets/nodejs/event-loop/event-loop.png" alt="Popular languages" width="400"/>
+<img src="./../../../assets/nodejs/event-loop/event-loop.png" alt="event loop" width="400"/>
 
 &nbsp;
 ### Reactor pattern
@@ -20,7 +20,7 @@ In the context of an Event-loop/Reactor we often also speak of [Round-robin](htt
 
 Simple diagram of a Reactor (events loop).
 
-<img src="./../../../assets/nodejs/event-loop/reactor-event-loop.png" alt="Popular languages" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/reactor-event-loop.png" alt="reactor event loop" width="600"/>
 
 The reactor takes as input an event (reading a file, sending a packet on the network) which will have a predefined life cycle within the loop depending on its nature (and on the implementation). Blocking I/O will, most of the time, be managed within low-level abstractions provided by the system like epoll, kqueue and event ports (depending on the targeted operating system). When it is not possible to use system resources, threads will often be created.
 
@@ -31,7 +31,7 @@ Bonus link for motivated people: EN [Reactor - An Object Behavioral Pattern for 
 &nbsp;
 ### 🎥 A bit of history
 
-<img src="./../../../assets/nodejs/event-loop/event-loop-history.png" alt="Popular languages" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/event-loop-history.png" alt="event loop history" width="600"/>
 
 The notion of [event](https://en.wikipedia.org/wiki/Event_(computing)), event-driven and [event-loop](https://en.wikipedia.org/wiki/Event_loop) is not new and the first appearances date back to the 80's (even if the pattern has become very popular in the last ten years thanks to the appearance of libs like Libuv or more recently [Tokio](https://github.com/tokio-rs/tokio) on Rust).
 
@@ -50,7 +50,7 @@ It is important to understand how it works at least because the execution of the
 
 The diagram below is a diagram I built to represent the different phases of the event-loop (you will notice the clear separation between your code, the loop and the operating system).
 
-<img src="./../../../assets/nodejs/event-loop/event-loop-phase.png" alt="Popular languages" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/event-loop-phase.png" alt="event loop phase" width="600"/>
 
 On the subject I recommend you to read first the following pages:
 
@@ -63,7 +63,7 @@ On the subject I recommend you to read first the following pages:
 
 Node.js event-loop chart by me ([HD version here](https://docs.google.com/drawings/d/1UOJqpU8Zwju7kaPRFBOtbO0iRGBuzW_gr2zzKFOHaAU/edit?usp=sharing)).
 
-<img src="./../../../assets/nodejs/event-loop/Libuv-Event-loop-phases.png" alt="Popular languages" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/Libuv-Event-loop-phases.png" alt="Libuv event loop phases" width="600"/>
 
 Various popular articles. They can help you to better understand various subjects seen above in a more affordable way:
 

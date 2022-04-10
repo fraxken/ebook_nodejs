@@ -7,7 +7,7 @@
 
 It is quite common for new developers to start with [express](https://expressjs.com/fr/) because it is the framework that is directly sold to us as "the most popular" (and obviously the most present in the various tutorials available on the surface).
 
-<img src="./../../../assets/nodejs/download-framework.png" alt="Popular languages" width="600"/>
+<img src="./../../../assets/nodejs/download-framework.png" alt="download framework" width="600"/>
 
 However [it's not necessarily the best choice](https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711) because the team behind **express** hardly maintains the framework! (**a V5 expected for six years** 🙊) Moreover, many of the patterns they recommend are completely outdated (still no async/await support ...). You'll be writing code that doesn't include any of the modern practices.
 
