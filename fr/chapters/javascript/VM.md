@@ -26,7 +26,6 @@ Quelques talks en plus pour votre plus grand bonheur:
 - EN [Parsing JavaScript - better lazy than eager?](https://www.youtube.com/watch?v=Fg7niTmNNLg&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=10)
 - EN [Essentials of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
 
-
 ### 😡 La dangereuse mode des benchmarks
 
 Je pense qu’il est important d’aborder le sujet des benchmarks pendant que nous sommes dans la section engine JS. Les développeurs adorent les utiliser comme argument pour justifier divers choix ou idéologies 😰…
