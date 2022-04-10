@@ -14,5 +14,5 @@ If you spend ten minutes remembering how to set a key in an object, **then you'v
 
 ---
 
-[Previous](../../README.md)
+[Previous](../introduction/introduction.md)
 [Next](./reading.md)

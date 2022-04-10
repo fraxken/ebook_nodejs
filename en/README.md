@@ -46,7 +46,7 @@ This document is not set in stone and will evolve as much as I deem necessary ov
     - [✈️ Framework Big scope](./chapters/nodejs/node-http-ecosystem.md#✈️-framework-big-scope)
     - [🌠 Framework Full-stack](./chapters/nodejs/node-http-ecosystem.md#🌠-framework-full-stack)
     - [🎯 How to choose](./chapters/nodejs/node-http-ecosystem.md#🎯-how-to-choose)
-  - [📰 Conférences et Articles](./chapters/nodejs/conf-and-articles.md)
+  - [📰 Conferences and Articles](./chapters/nodejs/conf-and-articles.md)
   - [🎡 Event-loop](./chapters/nodejs/event-loop.md#introduction)
     - [Reactor pattern](./chapters/nodejs/event-loop.md#reactor-pattern)
     - [🎥 A bit of history](./chapters/nodejs/event-loop.md#🎥-a-bit-of-history)
@@ -60,5 +60,5 @@ This document is not set in stone and will evolve as much as I deem necessary ov
   - [WebSocket](./chapters/nodejs/websocket.md)
   - [📊 Unit testing and coverage](./chapters/nodejs/unit-testing-and-coverage.md)
     - [💃 Méthodologies](./chapters/nodejs/unit-testing-and-coverage.md#💃-méthodologies)
-  - **🌟 Les différents modules core**
+  - **🌟 The different core modules**
     - [Console](chapters/nodejs/core-modules/console.md)

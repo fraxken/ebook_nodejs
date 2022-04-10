@@ -46,17 +46,21 @@ The purpose of this document is to provide you with a set of references that wil
 
 The document includes a set of references (links) to videos and articles that are segmented by level of difficulty and language (FR French or EN English). 
 
-[Beginner]
+**[Beginner]**
 These are often popularization or information resources accessible to beginners. Be careful on certain tough subjects, the notion of a beginner can nevertheless imply that you have acquired skills.
 
-[Intermediate]
+**[Intermediate]**
 These are resources that require a certain foundation to be able to approach them. However, this does not mean that they will technically require a long time to be addressed.
 
-[Advanced]
+**[Advanced]**
 Unlike intermediate, advanced resources are much more technically and practically hairy.
 
-[To know]
+**[To know]**
 These are links dealing with subjects that are interesting to know (often details on the functioning and behaviors that are not well understood, etc.). These are often beginner/intermediate resources.
 
 The ratings are not perfect and they are here mainly to try to guide you as much as possible.
 
+---
+
+[Previous](../../README.md)
+[Next](./../javascript/introduction.md)
