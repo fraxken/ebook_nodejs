@@ -33,7 +33,6 @@ For example, learning TDD and other methodologies will be beneficial to add stri
 
 Here are some links to help you make a first "opinion":
 
-- [BDD, DDD, ATDD et TDD expliqués !](https://www.youtube.com/watch?v=jxBmKvS7lAo)
 - [Why Most Unit Testing is Waste](https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
 - [Test-induced design damage.](https://dhh.dk/2014/test-induced-design-damage.html)
 - [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)

@@ -1,6 +1,8 @@
 # 🐢 Node.js
 
-## Console
+## 🌟 Les différents modules core
+
+### Console
 
 The [console](https://nodejs.org/api/console.html) module is the one we use the most (through the console.log and console.error methods for example). Obviously here the objective is to simulate the browser as much as possible so as not to have to manage the stdout and stderr outputs directly ourselves through the process variable (which still can be interesting, I invite you to go see the [TTY](https://nodejs.org/api/tty.html) doc to discover much more advanced manipulations of the standard output).
 

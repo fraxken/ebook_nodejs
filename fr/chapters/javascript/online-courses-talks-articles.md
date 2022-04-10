@@ -100,12 +100,12 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 - EN  **[A savoir]** [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
 - EN  **[A savoir]** [Quick tip: reusable Array search predicates](https://jasonformat.com/reusable-array-search-predicates/)
 - EN  **[A savoir]** [Javascript and the next decade of data programming](<https://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/>)
-- EN  **[Intermediate]** [What I Talk About When I Talk About Sorting: Untangling Array#sort](https://alistapart.com/article/what-i-talk-about-when-i-talk-about-sorting/)
-- EN  **[Intermediate]** [This in JavaScript](https://zellwk.com/blog/this/)
-- EN  **[Intermediate]** [The global `Reflect` object, its use cases and things to watch out for](https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/)
-- EN  **[Intermediate]** [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
-- EN  **[Intermediate]** [Localized Number Parsing](https://observablehq.com/@mbostock/localized-number-parsing)
-- EN  **[Intermediate]** [Sorting JavaScript Arrays By Nested Properties](https://elijahmanor.com/byte/js-array-sort-nest)
+- EN  **[Intermédiaire]** [What I Talk About When I Talk About Sorting: Untangling Array#sort](https://alistapart.com/article/what-i-talk-about-when-i-talk-about-sorting/)
+- EN  **[Intermédiaire]** [This in JavaScript](https://zellwk.com/blog/this/)
+- EN  **[Intermédiaire]** [The global `Reflect` object, its use cases and things to watch out for](https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/)
+- EN  **[Intermédiaire]** [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
+- EN  **[Intermédiaire]** [Localized Number Parsing](https://observablehq.com/@mbostock/localized-number-parsing)
+- EN  **[Intermédiaire]** [Sorting JavaScript Arrays By Nested Properties](https://elijahmanor.com/byte/js-array-sort-nest)
 - EN  **[Advanced]** [JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
 - EN  **[Advanced]** [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 - EN  **[Advanced]** [JavaScript async iteratorrs](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
@@ -116,22 +116,22 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 
 J’ai toujours beaucoup apprécié Christophe PORTENEUVE en tant qu’orateur 😍. Je vous recommande donc quelques-uns de ces talks:
 
-- FR  [**Débutant] [ES6+ maintenant!](https://www.youtube.com/watch?v=KJzlllc7Jq8)
-- FR  [**Débutant**] [Deep dive dans async/await](https://www.youtube.com/watch?v=2P9fbuNEM5w)
-- FR  [**Débutant**] [Alors, quoi de neuf en ES2022 ?](https://www.youtube.com/watch?v=L2Ul--lVML4)
-- FR  [**Débutant**] [Writing Modern Async JavaScript (par Christophe Porteneuve)](https://screencasts.delicious-insights.com/writing-modern-async-javascript)
+- FR  **[Débutant]** [ES6+ maintenant!](https://www.youtube.com/watch?v=KJzlllc7Jq8)
+- FR  **[Débutant]** [Deep dive dans async/await](https://www.youtube.com/watch?v=2P9fbuNEM5w)
+- FR  **[Débutant]** [Alors, quoi de neuf en ES2022 ?](https://www.youtube.com/watch?v=L2Ul--lVML4)
+- FR  **[Débutant]** [Writing Modern Async JavaScript (par Christophe Porteneuve)](https://screencasts.delicious-insights.com/writing-modern-async-javascript)
 - FR  [**Intermédiaire**] [Christophe Porteneuve - Fun and Games With ES Proxies](https://vimeo.com/364362111)
 
 Les autres talks
 
-- EN  [Beginner] [Apprentissage de la programmation fonctionnelle avec JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
-- EN  [Beginner] [Immutable data structures for functional JS](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
-- EN  [Beginner] [Wes Bos - Async + Await](https://www.youtube.com/watch?v=9YkUCxvaLEk)
-- EN  [Beginner] [!!Con 2019- Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=-PX0BV9hGZY&feature=youtu.be)
-- EN  [To know] [Navigating Numbers in JavaScript by Meggan Turner](https://www.youtube.com/watch?v=4zveh5TzB6U&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3&index=20)
-- FR  [Intermediate] [Les bases des fonctions generators (de moi et tonygo_)](https://www.youtube.com/watch?v=nrGpYTQW_O0&t=199s)
-- EN  [Intermediate] [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
-- EN  [Advanced] [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
+- EN  **[Débutant]** [Apprentissage de la programmation fonctionnelle avec JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
+- EN  **[Débutant]** [Immutable data structures for functional JS](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
+- EN  **[Débutant]** [Wes Bos - Async + Await](https://www.youtube.com/watch?v=9YkUCxvaLEk)
+- EN  **[Débutant]** [!!Con 2019- Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=-PX0BV9hGZY&feature=youtu.be)
+- EN  **[À savoir]** [Navigating Numbers in JavaScript by Meggan Turner](https://www.youtube.com/watch?v=4zveh5TzB6U&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3&index=20)
+- FR  **[Intermédiaire]** [Les bases des fonctions generators (de moi et tonygo_)](https://www.youtube.com/watch?v=nrGpYTQW_O0&t=199s)
+- EN  **[Intermédiaire]** [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
+- EN  **[Avancé]** [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
 
 > Les épisodes du podcast EN [OpenHive.js](https://www.youtube.com/watch?v=OPLUfbaOYLQ&list=PL0CdgOSSGlBZZu6UQ8r0kAjf-EfyJTC2u) sont aussi assez intéressants à suivre (avec des interlocuteurs d’une très grande expertise à chaque fois).
 

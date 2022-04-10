@@ -8,10 +8,10 @@ Ce n'est clairement pas un investissement à la portée d’un débutant mais pl
 
 Parmis les articles que je vous recommande très fortement de lire:
 
-- EN [**Débutant**] [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-- EN [**Débutant**] <https://mathiasbynens.be/notes/shapes-ics>
-- EN [**Débutant**] <https://mathiasbynens.be/notes/prototypes>
-- EN [**Intermédiaire**] [Whats up with monomorphism](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
+- EN **[Débutant]** [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+- EN **[Débutant]** <https://mathiasbynens.be/notes/shapes-ics>
+- EN **[Débutant]** <https://mathiasbynens.be/notes/prototypes>
+- EN **[Intermédiaire]** [Whats up with monomorphism](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
 
 Il existe néanmoins des dizaines d’articles tous aussi passionnants que j’ai pris la peine de rassembler ici 👀: <https://github.com/fraxken/VM-Resources>
 
