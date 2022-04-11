@@ -13,5 +13,6 @@ Autres talks en lien avec les Abstract Syntax Trees :
 - EN [What the AST ?](https://www.youtube.com/watch?v=BtD2OrlLBhI&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=36)
 
 ---
-[Page précédente](./faille-securite-courante.md)
-[Page suivante](./liens-et-ressources.md)
+
+⬅️ [🔐 Sécurité: Faille de sécurité courante](./faille-securite-courante.md) |
+➡️ [🔐 Sécurité: Liens et ressources complémentaires à lire](./liens-et-ressources.md)

@@ -49,5 +49,6 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[Avancé]** [Our Journey to a High-Performance Node.js Library](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)
 
 ---
-[Page précédente](./ecosysteme-http-node.md)
-[Page suivante](./event-loop.md)
+
+⬅️ [🐢 Node.js: 🌐 Découverte de l’écosystème HTTP Node.js](./ecosysteme-http-node.md) |
+➡️ [🐢 Node.js: 🎡 Event-loop](./event-loop.md)

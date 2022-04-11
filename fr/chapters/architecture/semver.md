@@ -8,7 +8,7 @@ Je ne vais pas vulgariser le sujet car cela est déjà fait [ici](https://semver
 
 Autres ressources utiles :
 
-- https://semver.npmjs.com/
+- <https://semver.npmjs.com/>
 - [semver npm package](https://github.com/npm/node-semver#readme)
 - [semver npm doc](https://docs.npmjs.com/cli/v6/using-npm/semver)
 - [Semver cheatsheet](https://devhints.io/semver)
@@ -19,5 +19,5 @@ J’entends de plus en plus parler de [Calendar Versioning](https://calver.org/)
 
 ---
 
-[Page précédente](../git/git.md)
-[Page Suivante](./jsonschema.md)
+⬅️ [GIT](../git/git.md) |
+➡️ [🌇 Architecture & Paradigmes: JSON Schema](./jsonschema.md)

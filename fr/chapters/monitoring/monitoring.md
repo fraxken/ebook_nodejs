@@ -24,5 +24,6 @@ Liens et ressources pour du monitoring d’API HTTP :
 - [Health Check Response Format for HTTP APIs](https://tools.ietf.org/id/draft-inadarei-api-health-check-01.html)
 
 ---
-[Page précédente](../architecture/others.md)
-[Page suivante](../system/system.md)
+
+⬅️ [🌇 Architecture & Paradigmes: Autres](../architecture/others.md) |
+➡️ [💻 Système](../system/system.md)

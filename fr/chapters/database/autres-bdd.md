@@ -12,5 +12,6 @@ Une  liste d’autres solutions que vous pouvez explorer :
 N’hésitez pas non plus à consulter [l’awesome liste suivante](https://github.com/agarcialeon/awesome-database) qui contient bon nombre de solutions de bases de données.
 
 ---
-[Page précédente](./sqlite.md)
-[Page suivante](./orm.md)
+
+⬅️ [💾 Database: SQLite](./sqlite.md) |
+➡️ [💾 Database: ORM ou non ?](./orm.md)

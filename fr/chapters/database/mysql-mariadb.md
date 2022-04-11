@@ -16,5 +16,6 @@ Les drivers disponibles et **actif** :
 > MariaDB est largement moins impactée par mon constat. Donc si vous avez le choix ne prenez pas MySQL.
 
 ---
-[Page précédente](./postgres.md)
-[Page suivante](./mongodb.md)
+
+⬅️ [💾 Database: PostgreSQL](./postgres.md) |
+➡️ [💾 Database: MongoDB](./mongodb.md)

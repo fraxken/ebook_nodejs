@@ -6,7 +6,7 @@ L’utilisation et la création de packages dans l’écosystème JavaScript est
 
 (comptage des modules par écosystème)
 
-<img src="./../../../assets/nodejs/module-count.png" alt="Module count" width="800"/>
+<img src="./../../../assets/nodejs/module-count.png" alt="Module count" width="556"/>
 
 Malheureusement beaucoup n’arrivent pas à y voir l’émergence d’un pattern qui est de pouvoir segmenter des projets très simplement en différents modules qui seront bien plus facilement maintenables et testables sur long terme. La majorité des développeurs ne réalisent pas la puissance même du système de modules qu’ils ont entre les mains (et il n’est ici pas uniquement question d’open-source ou de npm).
 
@@ -28,7 +28,7 @@ Si vous avez l’occasion ou une idée de packages alors je vous recommande fort
 
 Il est possible d’utiliser la commande [npm link](https://docs.npmjs.com/cli/v6/commands/npm-link) pour travailler avec des packages ou des modules qui ne sont pas encore publiés sur le registre npm.
 
-### Workshops
+### 🆕 Workshops
 
 Vous êtes débutant et vous voulez vous entraîner ? N’hésite pas à découvrir le workshop suivant qui est vraiment simple: EN [How to npm](https://github.com/workshopper/how-to-npm)
 
@@ -47,5 +47,6 @@ C’est une solution très intéressante notamment pour n’avoir qu’un seul r
 Je commence pour ma part à peine à les utiliser à travers différents projets, donc je compléterai la section au cours des prochains mois.
 
 ---
-[Page précédente](./cli.md)
-[Page suivante](./debugging-profiling.md)
+
+⬅️ [🐢 Node.js: 📟 CLI)](./cli.md) |
+➡️ [🐢 Node.js: 🔍 Debugging & Profiling](./debugging-profiling.md)

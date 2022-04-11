@@ -2,7 +2,7 @@
 
 ## 🔧 Engine & VM JavaScript (V8 etc)
 
-Lorsque **vous serez plus à l’aise avec JavaScript** il vous sera nécessaire d’étudier un minimum le fonctionnement des moteurs modernes comme V8, JS Core, SpiderMonkey etc (ce sont eux qui ont la responsabilité d'interpréter et exécuter votre code JavaScript que ce soit dans Node.js ou même dans le navigateur).
+Lorsque **<u>vous serez plus à l’aise avec JavaScript</u>** il vous sera nécessaire d’étudier un minimum le fonctionnement des moteurs modernes comme V8, JS Core, SpiderMonkey etc (ce sont eux qui ont la responsabilité d'interpréter et exécuter votre code JavaScript que ce soit dans Node.js ou même dans le navigateur).
 
 Ce n'est clairement pas un investissement à la portée d’un débutant mais plutôt d’un développeur de niveau intermédiaire ou expérimenté 📚. Pour pouvoir mieux comprendre comment votre code sera géré et optimisé il vous sera donc nécessaire d’apprendre les rouages de la machine 😈.
 
@@ -42,13 +42,13 @@ Voici quelques articles pour vous éveiller au sujet:
 
 Même si cela peut paraître difficile à entendre, je pense qu’une personne n’ayant pas de solide connaissance sur le fonctionnement des moteurs JavaScript n’a pas de légitimité à formuler des conclusions à partir des résultats d’un benchmark 💥.
 
-> “The hardest thing of all is to find which operation is more expensive inside the darkness of VM, especially when no operation is performed.” (Vyacheslav Egorov)
+> “The hardest thing of all is to find which operation is more expensive inside the darkness of VM, especially when no operation is performed.” <u>(Vyacheslav Egorov)</u>
 
 Et même les personnes ayant beaucoup d’expérience (dont notamment les contributeurs des moteurs eux-mêmes) ont toujours le doute et préfèrent prendre des pincettes pour chacune de leurs conclusions 😯. C’est vous dire la difficulté de la tâche… savoir si vous allez faire for-in, for-of ou .forEach n’a pas vraiment grand intérêt ici.
 
-> “ 👉 L'optimisation prématurée est la racine de tous les maux (ou, du moins, la plupart d'entre eux) en programmation.” (Donald Knuth)
+> “ 👉 L'optimisation prématurée est la racine de tous les maux (ou, du moins, la plupart d'entre eux) en programmation.” <u>(Donald Knuth)</u>
 
 ---
 
-[Page précédente](./online-courses-talks-articles.md)
-[Page suivante](../ecmascript/javascript-or-ecmascript.md)
+⬅️ [JavaScript: 🌌 Cours en ligne, talks et articles](./online-courses-talks-articles.md) |
+➡️ [⚡ ECMAscript](../ecmascript/javascript-or-ecmascript.md)

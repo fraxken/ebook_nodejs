@@ -11,5 +11,6 @@ Les bases de données qui seront citées dans les chapitres suivants sont pour m
 Cela ne sous-entend à aucun moment qu’il n’est pas possible d’utiliser une autre base (soyons clair).
 
 ---
-[Page précédente](./introduction.md)
-[Page suivante](./importance-apprendre-sql.md)
+
+⬅️ [💾 Database: Introduction](./introduction.md) |
+➡️ [💾 Database: L’importance d’apprendre SQL](./importance-apprendre-sql.md)

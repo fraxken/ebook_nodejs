@@ -1,6 +1,6 @@
 # 🔐 Sécurité
 
-## Introduction 
+## Introduction
 
 Il est important de rester conscient des faiblesses du runtime Node.js (ainsi que les éléments composant Node.js: [V8](https://v8.dev/), [Libuv](https://github.com/libuv/libuv), HTTP etc…) Cela vous permettra de mieux comprendre et identifier les risques potentiels au sein de vos projets.
 
@@ -9,5 +9,6 @@ Les risques d'attaques ne doivent pas être sous-estimés ou banalisés. Dans le
 L'utilisation de dépendances tierces, en particulier des "packages" ou des portions de code provenant de l'univers open source doit notamment faire l'objet d'une surveillance importante.
 
 ---
-[Page précédente](../mqtt/autres.md)
-[Page suivante](./audit.md)
+
+⬅️ [📡 MQTT (broker): Autres](../mqtt/autres.md) |
+➡️ [🔐 Sécurité: Audit](./audit.md)

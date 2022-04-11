@@ -44,5 +44,6 @@ Quelques liens pour vous faire une “opinion”:
 Dans notre domaine nous parlons très peu de cela tellement ils sont sujets à des tensions extrêmes entre nous. Je trouve quelquefois dommage que l'on ne puisse pas discuter sans y amener son lot de toxicité et d’ego.
 
 ---
-[Page précédente](./websocket.md)
-[Page suivante](./core-modules/console.md)
+
+⬅️ [🐢 Node.js: WebSocket](./websocket.md) |
+➡️ [🌟 Les différents modules core: Console](./core-modules/console.md)

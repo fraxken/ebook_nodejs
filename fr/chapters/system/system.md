@@ -16,8 +16,26 @@ Plus je m’enfonce dans le monde du Software, plus je me rend compte qu’il es
 
 Cela me permet en tant que développeur de faire le pont avec les membres de mon équipe qui vont gérer la DevOps etc… ; tout en conservant ma passion et mon intérêt car nous restons dans le domaine du développement.
 
-<img src="../../../assets/system/system.png" alt="Example de code" width="600" />
+```py
+function probeList {
+    OUTPUT="$($PU_PATH -u $LOGIN -p $PASSWORD controller probe_list '' '')"
+    case "$OUTPUT" in
+        *"$FAILED_PATTERN"* ) rc='0';;
+        * ) rc='1';;
+    esac
+    if [ "${rc}" -eq "1" ]; then
+        local _t=( $(echo "$OUTPUT" | grep -Eo "[a-zA-Z_]+[[:spave:]]+PDS_PDS") )
+        probeList_arr()
+        for str in "${_t[@]}"; do
+            if [ "$str" != "PDS_PDS" ] && [ "$str" != "hub" ] && [ "$str" != "controller" ] && [ "$str" != "hdb" ] && [ "$str" != "spooler" ]; then
+                probeList_arr+=($str)
+            fi
+        done
+    fi
+}
+```
 
 ---
-[Page précédente](../monitoring/monitoring.md)
-[Page Suivante](../remerciements/remerciements.md)
+
+⬅️ [🔬 Monitoring](../monitoring/monitoring.md) |
+➡️ [💖 Remerciements](../remerciements/remerciements.md)

@@ -10,8 +10,9 @@ Drivers disponible dans l’écosystème :
 
 - [sqlite3](https://github.com/mapbox/node-sqlite3)
 - [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) (attention complètement synchrone).
-- [esqlite](https://github.com/mscdex/esqlite) (driver en dev très récent par mscdex).
+- 🆕 [esqlite](https://github.com/mscdex/esqlite) (driver en dev très récent par mscdex).
 
 ---
-[Page précédente](./redis.md)
-[Page suivante](./autres-bdd.md)
+
+⬅️ [💾 Database: Redis](./redis.md) |
+➡️ [💾 Database: Autres bases de données](./autres-bdd.md)

@@ -2,16 +2,15 @@
 
 ## 🌌 Cours en ligne, talks et articles
 
-&nbsp;
 ### Udemy vs Frontend Masters
 
 Beaucoup de développeurs font l’erreur de choisir [Udemy](https://www.udemy.com/) comme plateforme d’apprentissage **pour JavaScript et Node.js**. La plateforme possède un modèle économique très peu recommandable et déjà plusieurs [scandales](https://www.troyhunt.com/the-piracy-paradox-at-udemy/) ont éclaté au travers du temps 😔.
 
-Il est important de comprendre, que quand votre objectif est de réussir à trouver un emploi dans les prochains mois, il est plutôt problématique de se baser sur du contenu ayant une qualité très variable, peu ou pas à jour depuis des années et quelquefois à la limite de l’éthique 😮 (**ce qui ne veut pas non plus dire qu’il n’y a pas du bon contenu j’entends bien**).
+Il est important de comprendre, que quand votre objectif est de réussir à trouver un emploi dans les prochains mois, il est plutôt problématique de se baser sur du contenu **ayant une qualité très variable, peu ou pas à jour depuis des années et quelquefois à la limite de l’éthique 😮 (<u>ce qui ne veut pas non plus dire qu’il n’y a pas du bon contenu j’entends bien</u>**).
 
-Un exemple plutôt flagrant des mauvaises formations est bien souvent des croyances du genre “Une fonction async / une promesse génère un thread en arrière-fond 💩” (**phrase que j’ai moi-même entendue dans un cours d’un formateur réputé “expérimenté”**). Beaucoup ont pour habitude de diminuer les impacts de ses fausses croyances.. Néanmoins elles [ont des impacts réels en production](<https://www.youtube.com/watch?v=XV-u_Ow47s0>).
+Un exemple plutôt flagrant des mauvaises formations est bien souvent des croyances du genre “Une fonction async / une promesse génère un thread en arrière-fond 💩” (**phrase que j’ai moi-même entendue dans un cours d’un formateur réputé “<u>expérimenté</u>”**). Beaucoup ont pour habitude de diminuer les impacts de ses fausses croyances.. Néanmoins elles [ont des impacts réels en production](<https://www.youtube.com/watch?v=XV-u_Ow47s0>).
 
-Je vous recommande plutôt d’investir sur un compte [Frontend Masters](https://frontendmasters.com/) qui vous permettra d’avoir accès à un ensemble de cours à jour avec [des experts qui sont reconnus et qualifiés dans leurs domaines respectifs](<https://frontendmasters.com/teachers/>) (c’est d’autant plus nécessaire si vous visez le front et le back).
+Je vous recommande plutôt d’investir sur un compte [Frontend Masters](https://frontendmasters.com/) qui vous permettra d’avoir accès à un ensemble de cours à jour avec [**des experts** qui sont reconnus et qualifiés dans leurs domaines respectifs](<https://frontendmasters.com/teachers/>) (c’est d’autant plus nécessaire si vous visez le front et le back).
 
 [Les étudiants auront d’ailleurs bien souvent le droit à six mois gratuits.](https://frontendmasters.com/welcome/github-student-developers/)
 
@@ -21,7 +20,6 @@ Quelques-uns de leur cours sur Javascript (je vous invite à regarder vous-même
 - EN [https://frontendmasters.com/courses/javascript-hard-parts-v2/](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 - EN [https://frontendmasters.com/courses/functional-js-fundamentals/](https://frontendmasters.com/courses/functional-js-fundamentals/)
 
-&nbsp;
 ### 📄 Articles
 
 #### Axel Rauschmayer
@@ -133,9 +131,9 @@ Les autres talks
 - EN  **[Intermédiaire]** [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
 - EN  **[Avancé]** [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
 
-> Les épisodes du podcast EN [OpenHive.js](https://www.youtube.com/watch?v=OPLUfbaOYLQ&list=PL0CdgOSSGlBZZu6UQ8r0kAjf-EfyJTC2u) sont aussi assez intéressants à suivre (avec des interlocuteurs d’une très grande expertise à chaque fois).
+> Les épisodes du podcast [OpenHive.js](https://www.youtube.com/watch?v=OPLUfbaOYLQ&list=PL0CdgOSSGlBZZu6UQ8r0kAjf-EfyJTC2u) sont aussi assez intéressants à suivre (avec des interlocuteurs d’une très grande expertise à chaque fois).
 
 ---
 
-[Page précédente](./challenge.md)
-[Page suivante](./VM.md)
+⬅️ [JavaScript: 💪 Mettez-vous au défi régulièrement](./challenge.md)
+➡️ [JavaScript: 🔧 Engine & VM JavaScript (V8 etc)](./VM.md)

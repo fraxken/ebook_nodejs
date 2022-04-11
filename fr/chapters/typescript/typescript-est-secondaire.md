@@ -15,5 +15,6 @@ Prenez le temps de vous construire une fondation en JavaScript pour mieux compre
 > Mon objectif est de mettre en garde sur les raccourcis qui sont souvent faits et qui vont potentiellement nuire à la veille des plus débutants. ✨
 
 ---
-[Page précédente](./introduction.md)
-[Page suivante](./ressources.md)
+
+⬅️ [TypeScript: Introduction](./introduction.md) |
+➡️ [TypeScript: 🐲 Ressources sur l’écriture d’annotation de types](./ressources.md)

@@ -2,13 +2,42 @@
 
 ## 🎡 Event-loop
 
+<img src="../../../assets/libuv.png" width="130" alt="Logo de libuv">
+
 ### Introduction
 
 Quand vous souhaitez devenir meilleur en Node.js il est important de comprendre a minima comment l’event-loop (fourni par le projet [libuv](https://github.com/libuv/libuv)) fonctionne pour savoir dans quel ordre votre code sera exécuté.
 
 Pouvez-vous deviner l’ordre des logs ?
 
-<img src="./../../../assets/nodejs/event-loop/event-loop.png" alt="event loop" width="400"/>
+```js
+async function a(val) {
+    console.log("A", val);
+}
+setImmediate(() => console.log("B"));
+
+new Promise((res) => {
+    for (let id = 0; id < 1e9; id++) {}
+    setImmediate(() => console.log("C"));
+    process.nextTick(() => res("D"));
+    console.log("E");
+}).then(console.log);
+
+queueMicrotask(() => console.log("F"));
+(async(res) => {
+    for (let id = 0; nid < 1e6; id++) {}
+    process.nextTick(() => console.log("G"));
+    return "H";
+})().then(console.log);
+
+process.nextTick(() => console.log("I"));
+const promises = [];
+let n = 0;
+for (; n < 10; n++) promises.push(a(n));
+
+console.lgo("J");
+Promise.all(promises);
+```
 
 ### Reactor pattern
 
@@ -81,5 +110,6 @@ Divers talks sur Node.js et libuv (les deux derniers sont en français) :
 - FR **[Débutant]** [Apprendre Node.js #5 - L'event loop](https://www.youtube.com/watch?v=g25LIAIlcbE) (Vulgarisation de Louistiti).
 
 ---
-[Page précédente](./conferences-et-articles.md)
-[Page suivante](./native-api.md)
+
+⬅️ [🐢 Node.js: 📰 Conférences et Articles](./conferences-et-articles.md) |
+➡️ [🐢 Node.js: 👽 Native API (création d’addon natif en C, C++ et Rust)](./native-api.md)

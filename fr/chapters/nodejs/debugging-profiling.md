@@ -29,5 +29,6 @@ Si vous êtes plutôt à la recherche d’outils (pour de la génération de fla
 Si vous avez besoin de faire du benchmark vis à vis de vos tests alors je vous recommande [autocannon.](https://github.com/mcollina/autocannon).
 
 ---
-[Page précédente](./packages.md)
-[Page suivante](./modules.md)
+
+⬅️ [🐢 Node.js: 📦 Packages](./packages.md) |
+➡️ [🐢 Node.js: Modules (CJS & ESM)](./modules.md)

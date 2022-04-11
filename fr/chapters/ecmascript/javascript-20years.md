@@ -7,5 +7,6 @@ Il n’y a pas si longtemps de ça, Brendan Eich et Allen Wirfs-brock ont coécr
 - EN [JavaScript: the first 20 years](https://dl.acm.org/doi/10.1145/3386327)
 
 ---
-[Page précédente](./ecmascript-6.md)
-[Page suivante](./tc39.md)
+
+⬅️ [⚡ ECMAscript: ECMAScript 6 (ES2015)](./ecmascript-6.md) |
+➡️ [⚡ ECMAscript: TC39](./tc39.md)

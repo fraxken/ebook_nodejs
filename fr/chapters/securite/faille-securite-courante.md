@@ -12,5 +12,6 @@ Il est important de comprendre et se former sur les attaques les plus courantes 
 En bonus je vous recommande d’aller consulter [le top 10 des attaques répertoriés par OWASP](https://owasp.org/www-project-top-ten/).
 
 ---
-[Page précédente](./dependances-directes-indirectes.md)
-[Page suivante](./analyse-statique-ast.md)
+
+⬅️ [🔐 Sécurité: Dépendances directes et indirectes](./dependances-directes-indirectes.md) |
+➡️ [🔐 Sécurité: Analyse statique & AST](./analyse-statique-ast.md)

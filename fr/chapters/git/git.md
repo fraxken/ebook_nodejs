@@ -23,5 +23,6 @@ Nous avons la chance en France d’avoir des articles, talks et formations de qu
 > 👀 Bien qu’il soit possible d’utiliser des interfaces graphiques, je vous recommande de prendre l’habitude d’en faire en ligne de commande pour ne pas vous contraindre / limiter dans le futur.
 
 ---
-[Page précédente](../securite/securite-domaine-interesse.md)
-[Page suivante](../architecture/semver.md)
+
+⬅️ [🔐 Sécurité: Si la sécurité est un domaine qui vous intéresse](../securite/securite-domaine-interesse.md) |
+➡️ [🌇 Architecture & Paradigmes: SemVer](../architecture/semver.md)

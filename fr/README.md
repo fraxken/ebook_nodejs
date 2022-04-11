@@ -6,6 +6,8 @@ Mon expérience et mes opinions vont fortement influencer l’écriture du docum
 
 Ce document n’est pas figé et il évoluera autant que je l’estime nécessaire à travers le temps.
 
+<img src="../assets/nodejs_logo.png" alt="Logo de Node.js" width="600">
+
 # Sommaire
 
 - [👋 Introduction](./chapters/introduction/introduction.md)

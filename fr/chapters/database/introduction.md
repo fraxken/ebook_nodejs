@@ -10,5 +10,6 @@ Il est assez complexe de les définir simplement tellement elles sont composées
 Chacune d’entre elles auront des forces et des faiblesses (que ce soit dans l’accessibilité des drivers, dans la gestion d’une donnée persistante ou volatile, dans la façon de structurer la donnée, de la filtrer etc). Elles forment des grandes familles tout comme les paradigmes en programmation (Relationnelle, In-memory, Graph etc).
 
 ---
-[Page précédente](../nodejs/archive-packages-npm.md)
-[Page suivante](./influence-node.md)
+
+⬅️ [🐢 Node.js: 📦 Archive de packages npm](../nodejs/archive-packages-npm.md) |
+➡️ [💾 Database: Influence de Node.js sur le chapitre](./influence-node.md)

@@ -5,5 +5,6 @@
 TBC
 
 ---
-[Page précédente](./rabbitmq.md)
-[Page suivante](../securite/introduction.md)
+
+⬅️ [📡 MQTT (broker): RabbitMQ, ZeroMQ](./rabbitmq.md) |
+➡️ [🔐 Sécurité: Introduction](../securite/introduction.md)

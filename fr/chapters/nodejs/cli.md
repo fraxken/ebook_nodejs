@@ -32,5 +32,6 @@ Quelques packages que je vous recommande :
 Si jamais vous souhaitez voir un cas concret je vous invite à regarder le CLI d’un de mes projets [Node-secure](https://github.com/ES-Community/nsecure) ou bien [npq](https://github.com/lirantal/npq) de Liran tal.
 
 ---
-[Page précédente](./native-api.md)
-[Page suivante](./packages.md)
+
+⬅️ [🐢 Node.js: 👽 Native API (création d’addon natif en C, C++ et Rust)](./native-api.md) |
+➡️ [🐢 Node.js: 📦 Packages](./packages.md)

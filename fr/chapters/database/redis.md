@@ -15,16 +15,17 @@ Pour en savoir plus, je vous recommande un article français de Nicolas Brodin: 
 
 Drivers dans l’écosystème :
 
-- [IO Redis](https://github.com/luin/ioredis) (**je vous recommande d’utiliser celui-ci**).
+- [IO Redis](https://github.com/luin/ioredis) (**<u>je vous recommande d’utiliser celui-ci</u>**).
 - [Redis](https://github.com/NodeRedis/node-redis)
 
 Articles ou talks:
 
 - EN [Solving Head-Of-Line blocking with auto pipelining, NearForm](https://www.youtube.com/watch?v=0L0ER4pZbX4)
-- EN [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
+- EN 🆕 [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
 
 Pour plus de talks autour de Redis n’hésitez pas à consulter la chaine Youtube [Redis Labs](https://www.youtube.com/c/Redislabs/featured).
 
 ---
-[Page précédente](./mongodb.md)
-[Page suivante](./sqlite.md)
+
+⬅️ [💾 Database: MongoDB](./mongodb.md) |
+➡️ [💾 Database: SQLite](./sqlite.md)

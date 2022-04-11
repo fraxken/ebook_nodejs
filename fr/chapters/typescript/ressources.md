@@ -30,5 +30,6 @@ Quelques articles du Dr. Axel Rauschmayer:
 - EN **[Intermédiaire]** [TypeScript: narrowing types via type guards and assertion functions](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html)
 
 ---
-[Page précédente](./introduction.md)
-[Page suivante](../nodejs/introduction.md)
+
+⬅️ [TypeScript: 🙊 TypeScript est secondaire](./typescript-est-secondaire.md) |
+➡️ [🐢 Node.js: 🌝 Introduction](../nodejs/introduction.md)

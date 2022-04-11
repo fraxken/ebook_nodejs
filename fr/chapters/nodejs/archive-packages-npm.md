@@ -28,5 +28,6 @@ Liste d’autres packages sur lesquels je garde un oeil :
 > 📌 Sentez-vous libre de me faire des propositions.
 
 ---
-[Page précédente](.code-modules/crypto.md)
-[Page suivante](../database/introduction.md)
+
+⬅️ [🌟 Les différents modules core: Crypto](./core-modules/crypto.md) |
+➡️ [💾 Database: Introduction](../database/introduction.md)

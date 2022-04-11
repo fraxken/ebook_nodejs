@@ -8,5 +8,5 @@ A partir de 2015 il est courant d’utiliser l’année pour désigner la versio
 
 ---
 
-[Previous](./javascript-or-ecmascript.md)
-[Next](./javascript-20years.md)
+⬅️ [⚡ ECMAscript: JavaScript ou ECMAScript ?](./javascript-or-ecmascript.md) |
+➡️ [⚡ ECMAscript: JavaScript: 20 ans 🎉](./javascript-20years.md)

@@ -15,4 +15,4 @@ Koko (mentor ES-Community).
 
 ---
 
-[Page précédente](../system/system.md)
+⬅️ [💻 Système](../system/system.md)

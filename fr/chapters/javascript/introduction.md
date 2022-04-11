@@ -16,4 +16,5 @@ Si vous passez dix minutes pour vous souvenir de comment mettre une clé dans un
 
 ---
 
-[Page Suivante](./lecture.md)
+⬅️ [👋 Introduction](../introduction/introduction.md) |
+➡️ [JavaScript: 📕 Dédier un temps quotidien à la lecture](./lecture.md)

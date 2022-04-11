@@ -10,7 +10,7 @@ Des outils tels que [Snyk](https://snyk.io/), [sqreen](https://www.sqreen.com/),
 
 <img src="../../../assets/securite/intro.png" alt="Exemple" width="600">
 
-Les vulnérabilités détectées pendant la phase de **runtime** sont bien **évidemment prioritaires**(**puisqu’elles concernent les codes exécutés en production**). 
+Les vulnérabilités détectées pendant la phase de **runtime** sont bien **évidemment prioritaires**(**puisqu’elles concernent les codes exécutés en production**).
 
 > ⚠️ Cela ne veut pas pour autant dire que les vulnérabilités détectées sur les dépendances de développement ne sont pas importantes !
 
@@ -19,5 +19,6 @@ Vous pouvez ouvrir l'un des projets pour avoir plus d'informations sur les diff�
 <img src="../../../assets/securite/intro-2.png" alt="Exemple" width="600">
 
 ---
-[Page précédente](./introductionn.md)
-[Page suivante](./garder-sous-controle-environnement.md)
+
+⬅️ [🔐 Sécurité: Introduction](./introduction.md) |
+➡️ [🔐 Sécurité: Garder sous contrôle votre Environnement](./garder-sous-controle-environnement.md)

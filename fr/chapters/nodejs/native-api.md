@@ -14,6 +14,8 @@ Quelques exemples de packages NPM étant des addons natif :
 
 D’ailleurs pour installer ces packages, il vous est bien souvent nécessaire d’installer diverses dépendances pour être en capacité de les compiler. Je vous invite à consulter la section [installation](https://github.com/nodejs/node-gyp#installation) de Node-gyp si vous n’étiez pas au courant de cela. (Il y a aussi une option à l’installation de Node.js sur Windows).
 
+<img src="../../../assets/nodejs/setup.png">
+
 Si c’est un sujet qui vous intéresse j’ai [moi-même fait un talk en 2019](https://www.youtube.com/watch?v=rvmnnlYf3lk) pour vulgariser et expliquer mes premiers pas en création d’addons natif pour mon projet SlimIO.
 
 Voici néanmoins une liste complémentaire de ressources :
@@ -45,6 +47,6 @@ Divers liens pour faire des addons natif avec Rust plutôt que C et C++ :
 - EN [Supercharge Your Node.js With Rust](https://yieldcode.blog/supercharge-nodejs-with-rust/)
 
 ---
-[Page précédente](./event-loop.md)
-[Page suivante](./cli.md)
 
+⬅️ [🐢 Node.js: 🎡 Event-loop](./event-loop.mdd) |
+➡️ [🐢 Node.js: 📟 CLI](./cli.md)

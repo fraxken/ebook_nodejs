@@ -28,5 +28,5 @@ N’hésitez pas à rejoindre la [communauté JavaScript et Node.js](https://esc
 
 ---
 
-[Page précédente](./introduction.md)
-[Page Suivante](./challenge.md)
+⬅️ [JavaScript: 🌞 Introduction](./introduction.md) |
+➡️ [JavaScript: 💪 Mettez-vous au défi régulièrement](./challenge.md)

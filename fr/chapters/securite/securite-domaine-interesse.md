@@ -9,5 +9,6 @@ Si certains d’entre vous veulent découvrir et s’intéresser au monde de la 
 - Participation à des évènements comme [Insomni'Hack](https://www.insomnihack.ch/) (PS: plusieurs membres de la communauté JavaScript y participent souvent).
 
 ---
-[Page précédente](./liens-et-ressources.md)
-[Page suivante](../git/git.md)
+
+⬅️ [🔐 Sécurité: Liens et ressources complémentaires à lire](./liens-et-ressources.md) |
+➡️ [GIT](../git/git.md)

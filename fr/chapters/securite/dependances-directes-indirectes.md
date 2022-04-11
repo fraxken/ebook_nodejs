@@ -8,10 +8,11 @@ Les projets possédant des dépendances indirectes sont bien plus vulnérables c
 
 Le projet [nsecure](https://github.com/ES-Community/nsecure) permet d’analyser en profondeur les dépendances d’un projet ou d’un package npm.
 
-<img src="../../../assets/securite/nsecure.png" alt="Nsecure" width="600">
+<img src="../../../assets/securite/nsecure.png" alt="Nsecure" width="750">
 
 > ⛔ Attention à ne pas non plus tomber dans la parano. Il n’est pas non plus, tout le temps simple, de résoudre des problématiques en quelques packages. L’important est d’être conscient du problème et de faire attention.
 
 ---
-[Page précédente](./garder-sous-controle-environnement.md)
-[Page suivante](./faille-securite-courante.md)
+
+⬅️ [🔐 Sécurité: Garder sous contrôle votre Environnement](./garder-sous-controle-environnement.md) |
+➡️ [🔐 Sécurité: Faille de sécurité courante](./faille-securite-courante.md)

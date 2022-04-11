@@ -49,5 +49,6 @@ Si vous souhaitez continuer à réellement creuser la programmation orientée ob
 À partir de tout cela vous aurez moyen de retrouver plusieurs centaines de références. J’ai lu d’autres ouvrages mais je ne pense pas qu’ils aient une place ici (néanmoins je reste ouvert à la discussion si vous souhaitez vous-même approfondir cela avec mes recommandations).
 
 ---
-[Page précédente](./cleancode.md)
-[Page Suivante](./designpatterns.md)
+
+⬅️ [🌇 Architecture & Paradigmes: Clean code](./cleancode.md) |
+➡️ [🌇 Architecture & Paradigmes: Design patterns](./designpatterns.md)

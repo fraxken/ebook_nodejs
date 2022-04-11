@@ -8,9 +8,9 @@ Il est assez fréquent que les nouveaux développeurs commencent avec [express](
 
 <img src="./../../../assets/nodejs/download-framework.png" alt="download framework" width="600"/>
 
-Néanmoins [ce n’est pas forcément le meilleur choix](https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711) car l’équipe derrière **express** maintient difficilement le framework! (**une V5 attendu depuis six ans 🙊**) De plus, beaucoup des patterns qu’ils recommandent sont complètement démodés (toujours pas de support async/await …). Vous allez écrire du code qui n'inclut rien des pratiques modernes.
+Néanmoins [ce n’est pas forcément le meilleur choix](https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711) car l’équipe derrière **express** maintient difficilement le framework! (**<u>une V5 attendu depuis six ans</u> 🙊**) De plus, beaucoup des patterns qu’ils recommandent sont complètement démodés (toujours pas de support async/await …). Vous allez écrire du code qui n'inclut rien des pratiques modernes.
 
-**Comment choisir le bon framework alors ?** Eh bien il nous faut déjà essayer de segmenter ces frameworks par famille pour mieux comprendre et débattre des différents trade-offs que chaque solution implique.
+**<u>Comment choisir le bon framework alors ?</u>** Eh bien il nous faut déjà essayer de segmenter ces frameworks par famille pour mieux comprendre et débattre des différents trade-offs que chaque solution implique.
 
 Ces familles sont les suivantes;
 
@@ -18,7 +18,7 @@ Ces familles sont les suivantes;
 - Big scope
 - Full Stack scope
 
-> La segmentation est inspirée d’une explication de Romain Lanz dans un talk Adonis.js! (qu’il a repris lui-même d’Evan You).
+> La segmentation est inspirée d’une explication de [Romain Lanz](https://twitter.com/romainlanz) dans un talk [Adonis.js](https://anchor.fm/the-adonisjs-podcast/episodes/Overture---Why-Should-we-use-AdonisJS-emlgjg)! (qu’il a repris lui-même [d’Evan You](https://www.youtube.com/watch?v=ANtSWq-zI0s)).
 
 ### 💡 Serveur HTTP natif avec Node.js et un peu de liens sur le protocole
 
@@ -81,7 +81,7 @@ Comme pour le Small-scope ce sont des frameworks purement back-end. La liste des
 - [Adonis.js](https://adonisjs.com/)(Je vous recommande aussi de lire la page Why Adonis.js ?)
 - [Nest.js](https://nestjs.com/)
 
-⚠️ **Attention** car de nos jours beaucoup de vieux frameworks qui ne sont plus réellement maintenus sont toujours activement recommandés :
+⚠️ **<u>Attention</u>** car de nos jours beaucoup de vieux frameworks qui ne sont plus réellement maintenus sont toujours activement recommandés :
 
 - [Sails.js](https://sailsjs.com/) (même chose pour le fork Trails.js). Je vous recommande de lire [Don’t Use Sails (or Waterline)](https://kevin.burke.dev/kevin/dont-use-sails-or-waterline/).
 - [Loopback 3](https://loopback.io/) (je ne recommande pas non plus la version 4).
@@ -105,7 +105,7 @@ Liste des frameworks (uniquement ceux que je connais):
 - [Sapper](https://sapper.svelte.dev/) (Utilise Svelte.js pour le front).
 - [Gatsby](https://www.gatsbyjs.com/)
 
-> ⛔ Je vous recommande fortement d’éviter le framework Meteor (même délire que le chapitre précédent).
+> ⛔ <u>Je vous recommande fortement d’éviter le framework Meteor (même délire que le chapitre précédent)</u>.
 
 ### 🎯 Comment faire un choix
 
@@ -117,7 +117,7 @@ Si vous souhaitez plutôt vous spécialiser en back-end alors je vous recommande
 - EN [Adonis 5 Tour - Romain Lanz](https://www.youtube.com/watch?v=TysfaNcFX_Y&feature=emb_logo)
 - FR [**débutant**] [LMHB #3: MONTER UNE APP WEB RAPIDEMENT AVEC ADONIS.JS FEAT @ROMAINLANZ](https://www.youtube.com/watch?v=vcrjgZezaI0&feature=youtu.be)
 
-> 👀 Un récent article de Snyk parle d’ailleurs EN [du succès de Fastify](https://snyk.io/advisor/hub/what-makes-fastify-a-successful-project/).
+> 👀 Un récent article de Snyk parle d’ailleurs [du succès de Fastify](https://snyk.io/advisor/hub/what-makes-fastify-a-successful-project/) (en anglais).
 
 Si vous êtes plutôt un puriste ou un développeur bas niveau et que vous aimez bien tout maîtriser de A à Z, alors il est fort probable que la famille small-scope soit pour vous. Il peut être intéressant pour vous dès lors d’explorer les différentes solutions (même si elles ne sont pas forcément mainstream).
 
@@ -126,5 +126,6 @@ Si vous êtes plutôt un puriste ou un développeur bas niveau et que vous aimez
 Il existe un framework du nom de [Kuzzle](https://kuzzle.io/) que je ne savais pas trop comment classer (il représente certainement à lui seul une famille ^^). Je souhaitais tout de même en parler très rapidement sachant que le framework à un support non négligeable en France.
 
 ---
-[Page précédente](./ressources-debutant.md)
-[Page suivante](./conferences-et-articles.md)
+
+⬅️ [🐢 Node.js: 🐥 Ressources pour les débutants](./ressources-debutant.md) |
+➡️ [🐢 Node.js: 📰 Conférences et Articles](./conferences-et-articles.md)

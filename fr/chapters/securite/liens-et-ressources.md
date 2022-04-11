@@ -21,5 +21,6 @@ Autres ressources (articles, talks, études):
 Si vous êtes à la recherche d’une formation je vous recommande celle-ci faite par [Vladimir](https://twitter.com/poledesfetes) (collaborateur Node.js français): [Writing Secure Code in Node.js](https://www.infosecinstitute.com/skills/learning-paths/writing-secure-code-in-node-js/)
 
 ---
-[Page précédente](./analyse-statique-ast.md)
-[Page suivante](./securite-domaine-interesse.md)
+
+⬅️ [🔐 Sécurité: Analyse statique & AST](./analyse-statique-ast.md) |
+➡️ [🔐 Sécurité: Si la sécurité est un domaine qui vous intéresse](./securite-domaine-interesse.md)

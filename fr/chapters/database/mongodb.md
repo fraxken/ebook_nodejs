@@ -13,6 +13,7 @@ Néanmoins, j’ai moi-même pris dès le début le temps de bien lire la docume
 D’ailleurs je n'ai jamais compris le délire derrière Mongoose et l’idée de construire du relationnelle sur une base qui n’est pas relationnelle…
 
 <https://twitter.com/matteocollina/status/894488535595614208>
+<img src="../../../assets/matteo-mongoose.png">
 
 Après quelques années, je peux maintenant vous dire que je comprends très bien pourquoi beaucoup de développeurs et architectes râlent sur le fait de choisir MongoDB pour des projets où une base de données relationnelles aurait très largement fait le boulot.  
 
@@ -21,5 +22,6 @@ Il est vrai que beaucoup commencent des projets sur MongoDB alors qu’une base 
 Je pense qu'il ne faut pas être dans les extrêmes. Si vous êtes un développeur junior je vous recommande d’expérimenter le plus possible avec différentes bases de données.
 
 ---
-[Page précédente](./mysql-mariadb.md)
-[Page suivante](./redis.md)
+
+⬅️ [💾 Database: MySQL et MariaDB](./mysql-mariadb.md) |
+➡️ [💾 Database: Redis](./redis.md)

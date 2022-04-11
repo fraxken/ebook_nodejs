@@ -15,5 +15,6 @@ Autres liens que j’apprécie :
 * [Radical Simplicity in Software](https://www.radicalsimpli.city/)
 
 ---
-[Page précédente](./ddd.md)
-[Page suivante](../monitoring/monitoring.md)
+
+⬅️ [🌇 Architecture & Paradigmes: DDD (Domain Driven Design)](./ddd.md) |
+➡️ [🔬 Monitoring](../monitoring/monitoring.md)

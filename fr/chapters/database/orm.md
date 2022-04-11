@@ -16,5 +16,6 @@ A noter que si vous utilisez le framework Adonis.js ils ont aussi leur propre OR
 Il y a tout un tas de packages disponibles dans l’écosystème, mais je ne suis pas forcément convaincu par la plupart d’entre eux (Après il y en a sûrement que je n’ai moi-même pas encore découvert).
 
 ---
-[Page précédente](./autres-bdd.md)
-[Page suivante](../mqtt/introduction.md)
+
+⬅️ [💾 Database: SQLite](./autres-bdd.md) |
+➡️ [📡 MQTT (broker): Introduction](../mqtt/introduction.md)

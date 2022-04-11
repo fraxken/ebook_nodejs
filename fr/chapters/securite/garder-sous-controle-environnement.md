@@ -10,5 +10,6 @@ Dans le cadre de npm, nous vous conseillons d'utiliser [le guide suivant](https:
 
 
 ---
-[Page précédente](./audit.md)
-[Page suivante](./dependances-directes-indirectes.md)
+
+⬅️ [🔐 Sécurité: Audit](./audit.md) |
+➡️ [🔐 Sécurité: Dépendances directes et indirectes](./dependances-directes-indirectes.md)

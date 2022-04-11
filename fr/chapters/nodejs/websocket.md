@@ -14,8 +14,9 @@ Bref n’hésitez pas à vous intéresser à l’API native [WebSockets](https:/
 
 Si votre besoin nécessite de très haute performance je vous recommande de jeter un œil à [uWebSockets](https://github.com/uNetworking/uWebSockets.js) (qui possède un système de room minimaliste aussi).
 
-> Faite néanmoins attention à la mentalité abrasive du mainteneur (il n'est pas connu pour être un enfant de chœur et il peut être parfois assez méchant).
+> <u>Faite néanmoins attention à la mentalité abrasive du mainteneur (il n'est pas connu pour être un enfant de chœur et il peut être parfois assez méchant).</u>
 
 ---
-[Page précédente](./modules.md)
-[Page suivante](./test-unitaire-et-coverage.md)
+
+⬅️ [🐢 Node.js: Modules (CJS & ESM)](./modules.md) |
+➡️ [🐢 📊 Test unitaire et coverage](./test-unitaire-et-coverage.md)

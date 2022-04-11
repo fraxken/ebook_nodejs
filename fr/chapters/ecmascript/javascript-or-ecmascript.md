@@ -11,5 +11,6 @@ Le terme JavaScript est resté dans le vocabulaire courant, mais, en fait, il s�
 > Texte repris du chapitre FR [“Qu’est que JavaScript ?”](https://oncletom.io/node.js/chapter-03/#definition) du livre de Thomas Parisot.
 
 ---
-[Page précédente](../javascript/VM.md#-la-dangereuse-mode-des-benchmarks.md)
-[Page suivante](./ecmascript-6.md)
+
+⬅️ [JavaScript: 😡 La dangereuse mode des benchmarks](../javascript/VM.md#-la-dangereuse-mode-des-benchmarks.md) |
+➡️ [⚡ ECMAscript: ECMAScript 6 (ES2015)](./ecmascript-6.md)

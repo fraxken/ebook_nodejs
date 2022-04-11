@@ -8,9 +8,10 @@ L’exemple le plus parlant est certainement le framework Fastify.js. Néanmoins
 Le package [AJV](https://ajv.js.org/) est la solution incontournable si vous voulez expérimenter et travailler avec.
 
 ### Liens complémentaires
+
 - [Get started with validation in Node.js](https://simonplend.com/get-started-with-validation-in-node-js/)
 
 ---
 
-[Page précédente](./semver.md)
-[Page Suivante](./documentation.md)
+⬅️ [🌇 Architecture & Paradigmes: SemVer](./semver.md) |
+➡️ [🌇 Architecture & Paradigmes: Documentation](./documentation.md)

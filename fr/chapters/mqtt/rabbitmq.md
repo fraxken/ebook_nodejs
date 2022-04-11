@@ -11,7 +11,7 @@ J’ai personnellement un peu d’expérience avec ZeroMQ dans le cadre de mon p
 
 Néanmoins dans toute mon expérience professionnelle je n’ai que rarement vécu une production avec un réel besoin en matière de message broker. Il faut réellement rentrer dans des besoins de charges de classe mondiale.
 
-
 ---
-[Page précédente](./redis.md)
-[Page suivante](./autres.md)
+
+⬅️ [📡 MQTT (broker): Redis](./redis.md) |
+➡️ [📡 MQTT (broker): Autres](./autres.md)

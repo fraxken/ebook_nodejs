@@ -17,5 +17,6 @@ Néanmoins, je pense qu’il est important de dire qu’ici nous parlons de Type
 Il est vrai que, lorsqu’un code est proprement annoté avec des interfaces et types, il est souvent plus simple de maintenir le code (et certainement plus simple de lire et comprendre pour des développeurs avec moins d’expérience). Enfin cela reste évidemment un sentiment qui n’a certainement rien de concret (il faut aussi avoir confiance en ses collègues.. rien ne dit qu’ils ont annoté le code correctement ^^).
 
 ---
-[Page précédente](../ecmascript/tc39.md)
-[Page suivante](./typescript-est-secondaire.md)
+
+⬅️ [⚡ ECMAscript: TC39](../ecmascript/tc39.md) |
+➡️ [TypeScript: 🙊 TypeScript est secondaire](./typescript-est-secondaire.md)

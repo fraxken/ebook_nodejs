@@ -1,6 +1,7 @@
 # 🌇 Architecture & Paradigmes
 
 ## Documentation
+
 Pour moi, savoir construire une documentation **est une des compétences les plus rares et précieuses chez les développeurs**. C’est d’ailleurs pour moi un point critique de non-embauche chez les candidats juniors! Venir avec des projets qui n’ont strictement aucune documentation (markdown) n’est pas acceptable selon moi.
 
 Pour un projet sur github par exemple :
@@ -23,7 +24,7 @@ Exemple de projets pour vous inspirer: [JS-X-Ray](https://github.com/NodeSecure/
 
 Si vous construisez une API: avoir un [OpenAPI](https://swagger.io/specification/) avec par exemple une interface [Swagger](https://swagger.io/tools/swagger-ui/) peut-être un gros plus (une collection postman peut aussi faire l’affaire).
 
-
 ---
-[Page précédente](./jsonschema.md)
-[Page Suivante](./cleancode.md)
+
+⬅️ [🌇 Architecture & Paradigmes: JSON Schema](./jsonschema.md) |
+➡️ [🌇 Architecture & Paradigmes: Clean code](./cleancode.md)
