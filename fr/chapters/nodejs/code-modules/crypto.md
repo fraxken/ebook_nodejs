@@ -17,5 +17,5 @@ En ce qui me concerne j’utilise aussi souvent le module crypto pour générer 
 <img src="../../../../assets/nodejs/core-modules/core-crypto-1.png" alt="Example de code" width="600"/>
 
 ---
-[Page précédente](./asynnc.md)
+[Page précédente](./async.md)
 [Page suivante](../archive-packages-npm.md)

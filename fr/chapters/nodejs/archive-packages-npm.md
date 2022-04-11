@@ -26,3 +26,7 @@ Liste d’autres packages sur lesquels je garde un oeil :
 - [ms](https://github.com/vercel/ms#readme) (Tiny millisecond conversion utility)
 
 > 📌 Sentez-vous libre de me faire des propositions.
+
+---
+[Page précédente](.code-modules/crypto.md)
+[Page suivante](../database/introduction.md)
