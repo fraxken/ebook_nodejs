@@ -10,11 +10,12 @@ Bien souvent les développeurs n’utilisent pas ¼  des méthodes présentes da
 
 Quelques exemples;
 
-<img src="./../../../assets/nodejs/../../../assets/nodejs/core-modules/core-console-1.png" alt="Module count" width="600"/>
+<img src="../../../../assets/nodejs/core-modules/core-console-1.png" alt="Example de code" width="600"/>
 
 Connaître (approximativement) le temps d’exécution d’un code avec console.time.
 
-<img src="./../../../assets/nodejs/../../../assets/nodejs/core-modules/core-console-2.png" alt="Module count" width="600"/>
+<img src="../../../../assets/nodejs/core-modules/core-console-2.png" alt="Example de code" width="600"/>
 
+---
 [Page précédente](../test-unitaire-et-coverage.md)
 [Page suivante](./events.md)
