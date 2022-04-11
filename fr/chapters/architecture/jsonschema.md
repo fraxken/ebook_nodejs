@@ -12,4 +12,5 @@ Le package [AJV](https://ajv.js.org/) est la solution incontournable si vous vou
 
 ---
 
+[Page précédente](./semver.md)
 [Page Suivante](./documentation.md)

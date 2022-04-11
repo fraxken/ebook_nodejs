@@ -11,6 +11,6 @@ En premier lieu je vous recommande vraiment [la chaîne youtube](https://www.you
 Mon github [contient une section dédiée](https://github.com/fraxken/VM-Resources#papers-and-academic-research) à différentes recherches académiques sur des optimisations modernes de compilateurs.
 
 ---
-
+[Page précédente](./designpatterns.md)
 [Page Suivante](./ddd.md)
 

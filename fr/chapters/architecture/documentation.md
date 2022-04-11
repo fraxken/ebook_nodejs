@@ -25,5 +25,5 @@ Si vous construisez une API: avoir un [OpenAPI](https://swagger.io/specification
 
 
 ---
-
+[Page précédente](./jsonschema.md)
 [Page Suivante](./cleancode.md)

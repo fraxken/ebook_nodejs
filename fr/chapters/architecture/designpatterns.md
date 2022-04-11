@@ -15,5 +15,5 @@ J’utilise et je construis moi-même très régulièrement plusieurs de ces pat
 * [Design Patterns (Wiki C2)](https://wiki.c2.com/?DesignPatterns)
 
 ---
-
+[Page précédente](./oop.md)
 [Page Suivante](./compilator.md)

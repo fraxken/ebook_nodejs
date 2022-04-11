@@ -19,4 +19,5 @@ J’entends de plus en plus parler de [Calendar Versioning](https://calver.org/)
 
 ---
 
+[Page précédente](../git/git.md)
 [Page Suivante](./jsonschema.md)

@@ -15,5 +15,5 @@ Autres liens que j’apprécie :
 * [Radical Simplicity in Software](https://www.radicalsimpli.city/)
 
 ---
-
-[Retour au sommaire](../../README.md)
+[Page précédente](./ddd.md)
+[Page suivante](../monitoring/monitoring.md)
