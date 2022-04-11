@@ -115,7 +115,7 @@ Ce document n’est pas figé et il évoluera autant que je l’estime nécessai
   - [Analyse statique & AST](./chapters/securite/analyse-statique-ast.md)
   - [Liens et ressources complémentaires à lire](./chapters/securite/liens-et-ressources.md)
   - [Si la sécurité est un domaine qui vous intéressent](./chapters/securite/securite-domaine-interesse.md)
-- [GIT]()
+- [GIT](./chapters/git/git.md)
 - [🌇 Architecture & Paradigmes](./chapters/architecture/semver.md)
   - [SemVer]()
   - [CalVer]()
