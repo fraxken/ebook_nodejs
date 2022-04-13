@@ -1,6 +1,6 @@
 # 🐢 Node.js
 
-## 🌟 Les différents modules core
+## 🌟 The different core modules
 
 ### Console
 
@@ -35,4 +35,4 @@ console.timeEnd('100-elements'));
 [Next](./console.md)
 
 ⬅️ [📊 Unit testing and coverage](../unit-testing-and-coverage.md) |
-➡️ [🌟 Les différents modules core: Console](./console.md)
+➡️ [🌟 The different core modules: Events](./events.md)

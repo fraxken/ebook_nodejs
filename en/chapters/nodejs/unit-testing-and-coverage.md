@@ -43,5 +43,5 @@ In our field we talk very little about this so much that it is subject to extrem
 
 ---
 
-⬅️ [WebSocket](./websocket.md) |
-➡️ [🌟 Les différents modules core: Console](./core-modules/console.md)
+⬅️ [🐢 Node.js: WebSocket](./websocket.md) |
+➡️ [🌟 The different core modules: Console](./core-modules/console.md)

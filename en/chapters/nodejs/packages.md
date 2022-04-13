@@ -52,5 +52,5 @@ I am just starting to use them for different projects, so I will complete the se
 
 ---
 
-⬅️ [📟 CLI](./cli.md) |
-➡️ [🔍 Debugging & Profiling](./debugging-and-profiling.md)
+⬅️ [🐢 Node.js: 📟 CLI](./cli.md) |
+➡️ [🐢 Node.js: 🔍 Debugging & Profiling](./debugging-and-profiling.md)

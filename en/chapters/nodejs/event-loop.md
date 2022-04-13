@@ -117,5 +117,5 @@ Various talks on Node.js and libuv :
 [Previous](./conf-and-articles.md)
 [Next](./native-api.md)
 
-⬅️ [📰 Conférences and Articles](./conf-and-articles.md) |
-➡️ [👽 Native API (native addon creation in C and C++)](./native-api.md)
+⬅️ [🐢 Node.js: 📰 Conférences and Articles](./conf-and-articles.md) |
+➡️ [🐢 Node.js: 👽 Native API (native addon creation in C and C++)](./native-api.md)
