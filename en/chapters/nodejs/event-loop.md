@@ -9,7 +9,34 @@ When you want to become better in Node.js it is important to understand at least
 
 Can you guess the order of the logs?
 
-<img src="./../../../assets/nodejs/event-loop/event-loop.png" alt="event loop" width="400"/>
+```js
+async function a(val) {
+    console.log("A", val);
+}
+setImmediate(() => console.log("B"));
+
+new Promise((res) => {
+    for (let id = 0; id < 1e9; id++) {}
+    setImmediate(() => console.log("C"));
+    process.nextTick(() => res("D"));
+    console.log("E");
+}).then(console.log);
+
+queueMicrotask(() => console.log("F"));
+(async(res) => {
+    for (let id = 0; nid < 1e6; id++) {}
+    process.nextTick(() => console.log("G"));
+    return "H";
+})().then(console.log);
+
+process.nextTick(() => console.log("I"));
+const promises = [];
+let n = 0;
+for (; n < 10; n++) promises.push(a(n));
+
+console.lgo("J");
+Promise.all(promises);
+```
 
 &nbsp;
 ### Reactor pattern
@@ -89,3 +116,6 @@ Various talks on Node.js and libuv :
 
 [Previous](./conf-and-articles.md)
 [Next](./native-api.md)
+
+⬅️ [📰 Conférences and Articles](./conf-and-articles.md) |
+➡️ [👽 Native API (native addon creation in C and C++)](./native-api.md)

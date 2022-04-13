@@ -33,5 +33,5 @@ If you ever want to see a concrete case I invite you to look at the CLI of one o
 
 ---
 
-[Previous](./native-api.md)
-[Next](./packages.md)
+⬅️ [👽 Native API (native addon creation in C and C++)](./native-api.md) |
+➡️ [📦 Packages](./packages.md)

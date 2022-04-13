@@ -71,5 +71,5 @@ This is a field that will require you to work very seriously on mathematics and 
 
 ---
 
-[Previous](./reading.md)
-[Next](./online-courses-talks-articles.md)
+⬅️ [📕 Dedicate a daily time to reading](./reading.md) |
+➡️ [🌌 Online courses, talks and articles](./online-courses-talks-articles.md)

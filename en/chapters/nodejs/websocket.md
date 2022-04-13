@@ -16,5 +16,5 @@ If your need is very high performance I recommend you take a look at [uWebSocket
 
 ---
 
-[Previous](./modules.md)
-[Next](./unit-testing-and-coverage.md)
+⬅️ [Modules (CJS & ESM)](./modules.md) |
+➡️ [📊 Unit testing and coverage](./unit-testing-and-coverage.md)

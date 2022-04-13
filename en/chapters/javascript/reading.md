@@ -25,5 +25,5 @@ It is also possible to train effectively with the help of a book 😉. Just get 
 
 ---
 
-[Previous](./introduction.md)
-[Next](./challenge.md)
+⬅️ [JavaScript: 🌞 Introduction](./introduction.md) |
+➡️ [💪 Challenge yourself regularly](./challenge.md)

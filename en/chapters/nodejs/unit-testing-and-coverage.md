@@ -43,5 +43,5 @@ In our field we talk very little about this so much that it is subject to extrem
 
 ---
 
-[Previous](./websocket.md)
-[Next](./core-modules/console.md)
+⬅️ [WebSocket](./websocket.md) |
+➡️ [🌟 Les différents modules core: Console](./core-modules/console.md)

@@ -30,5 +30,5 @@ If you need to benchmark your tests then I recommend [autocannon.](https://githu
 
 ---
 
-[Previous](./packages.md)
-[Next](./modules.md)
+⬅️ [📦 Packages](./packages.md) |
+➡️ [Modules (CJS & ESM)](./modules.md)

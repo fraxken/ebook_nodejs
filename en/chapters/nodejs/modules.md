@@ -9,11 +9,23 @@ In Node.js there are two ways to manage modules:
 
 ESM is the new standard integrated since ECMAScript 6 for module management. However, historically Node.js has been using CJS since the beginning and at the time there were a lot of concerns about the ESM specification (which made the implementation in the Node js ecosystem complex).
 
-<img src="./../../../assets/nodejs/module-require.png" alt="Require module" width="400"/>
+```js
+const { foo } = require("mymodule");
+
+exports.foo = function boo() {
+    return foo();
+}
+```
 
 With CJS it is necessary to use the require() function and keywords like module.exports while in ESM you can use the import and export keywords.
 
-<img src="./../../../assets/nodejs/module-import.png" alt="Import module" width="400"/>
+```js
+import { foo } from "mymodule";
+
+export function boo() {
+    return foo();
+}
+```
 
 ESM support on Node.js is becoming more and more stable and it is therefore not surprising that it will become the default module system in the near future.
 
@@ -32,5 +44,5 @@ Articles related to ESM
 
 ---
 
-[Previous](./debugging-and-profiling.md)
-[Next](./websocket.md)
+⬅️ [🔍 Debugging & Profiling](./debugging-and-profiling.md) |
+➡️ [WebSocket](./websocket.md)

@@ -7,6 +7,8 @@ My experience and opinions will strongly influence this paper 👿 (so I invite 
 
 This document is not set in stone and will evolve as much as I deem necessary over time.
 
+<img src="../assets/nodejs_logo.png" alt="Logo de Node.js" width="500">
+
 # Summary
 
 - [👋 Introduction](./chapters/introduction/introduction.md)

@@ -52,5 +52,5 @@ I am just starting to use them for different projects, so I will complete the se
 
 ---
 
-[Previous](./cli.md)
-[Next](./debugging-and-profiling.md)
+⬅️ [📟 CLI](./cli.md) |
+➡️ [🔍 Debugging & Profiling](./debugging-and-profiling.md)

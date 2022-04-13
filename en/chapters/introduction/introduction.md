@@ -62,5 +62,5 @@ The ratings are not perfect and they are here mainly to try to guide you as much
 
 ---
 
-[Previous](../../README.md)
-[Next](./../javascript/introduction.md)
+⬅️ [Becoming a Node.js developer 🐢🚀](../../README.md) |
+➡️ [JavaScript: 🌞 Introduction](./../javascript/introduction.md)

@@ -132,5 +132,5 @@ Also an excellent developer and popularizer of concepts and features around the 
 
 ---
 
-[Previous](./challenge.md)
-[Next](./VM.md)
+⬅️ [💪 Challenge yourself regularly](./challenge.md) |
+➡️ [🔧 Engine & VM JavaScript (V8 etc)](./VM.md)

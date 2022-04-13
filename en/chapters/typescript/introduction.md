@@ -19,5 +19,5 @@ It is true that when a code is properly annotated with interfaces and types, it 
 
 ---
 
-[Previous](../ecmascript/tc39.md)
-[Next](./README.md)
+⬅️ [⚡ ECMAScript: TC39](../ecmascript/tc39.md) |
+➡️ [🙊 TypeScript is secondary](./typescript-is-secondary.md)

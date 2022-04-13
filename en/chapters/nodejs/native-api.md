@@ -43,5 +43,5 @@ Various links to make native addons with Rust rather than C and C++ :
 
 ---
 
-[Previous](./event-loop.md)
-[Next](./cli.md)
+⬅️ [🎡 Event-loop](./event-loop.md) |
+➡️ [📟 CLI](./cli.md)

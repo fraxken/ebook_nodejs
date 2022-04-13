@@ -129,5 +129,5 @@ There is a framework called [Kuzzle](https://kuzzle.io/) that I didn't really kn
 
 ---
 
-[Previous](./beginners-resources.md)
-[Next](./conf-and-articles.md)
+⬅️ [🐥 Resources for beginners](./beginners-resources.md) |
+➡️ [📰 Conférences and Articles](./conf-and-articles.md)
