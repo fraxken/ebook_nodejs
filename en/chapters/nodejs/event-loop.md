@@ -81,9 +81,9 @@ The diagram below is a diagram I built to represent the different phases of the 
 
 On the subject I recommend you to read first the following pages:
 
-- EN [Beginner] [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/) (official Node.js documentation).
-- EN [Beginner] [Libuv design overview](http://docs.libuv.org/en/v1.x/design.html) (official Libuv documentation).
-- EN [Advanced] [An introduction to libuv.](https://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf)
+- [Beginner] [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/) (official Node.js documentation).
+- [Beginner] [Libuv design overview](http://docs.libuv.org/en/v1.x/design.html) (official Libuv documentation).
+- [Advanced] [An introduction to libuv.](https://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf)
 
 &nbsp;
 ### 📜 Articles et talks

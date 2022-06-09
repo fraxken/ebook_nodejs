@@ -12,11 +12,11 @@ If you want to get started, I recommend [this little guide](https://x-team.com/b
 
 Other resources (talks and articles) on the subject:
 
-- EN [Building Great CLI Experiences in Node](https://www.youtube.com/watch?v=Izx3-KSuaM8&list=PLfMzBWSH11xaZvhv1X5Fq1H-oMdnAtG6k&index=45)
-- EN [Building Interactive npm Command Line Modules](https://www.youtube.com/watch?v=QLat0Y3jqUA)
-- EN [CLI Tools for All the Things](https://www.youtube.com/watch?v=E0Oz5s9ZjKY)
-- EN [My list of awesome crafted packages CLI](https://github.com/fraxken/awesome-crafted-nodejs#cli-tty-etc)
-- EN [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
+- [Building Great CLI Experiences in Node](https://www.youtube.com/watch?v=Izx3-KSuaM8&list=PLfMzBWSH11xaZvhv1X5Fq1H-oMdnAtG6k&index=45)
+- [Building Interactive npm Command Line Modules](https://www.youtube.com/watch?v=QLat0Y3jqUA)
+- [CLI Tools for All the Things](https://www.youtube.com/watch?v=E0Oz5s9ZjKY)
+- [My list of awesome crafted packages CLI](https://github.com/fraxken/awesome-crafted-nodejs#cli-tty-etc)
+- [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 
 Some packages I recommend:
 

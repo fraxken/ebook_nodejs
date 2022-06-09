@@ -19,13 +19,13 @@ If you have the opportunity or an idea of packages then I strongly recommend you
 &nbsp;
 ### Articles and talks
 
-- EN [Getting started NPM](https://docs.npmjs.com/getting-started)
-- EN [NodeSchool - How to NPM](https://github.com/workshopper/how-to-npm)
-- EN [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
-- EN [CJ Silverio, CTO of npm](https://www.youtube.com/watch?v=HH3aNjjhMg8)
-- EN [npm and the Future of JavaScript - Laurie Voss, npm, Inc.](https://www.youtube.com/watch?v=0PU-4GGLzGg)
-- EN [Radical Modularity - Aria Stewart, npm, Inc.](https://www.youtube.com/watch?v=SsIdWFtp2QA)
-- EN [Awesome npm](https://github.com/sindresorhus/awesome-npm)
+- [Getting started NPM](https://docs.npmjs.com/getting-started)
+- [NodeSchool - How to NPM](https://github.com/workshopper/how-to-npm)
+- [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
+- [CJ Silverio, CTO of npm](https://www.youtube.com/watch?v=HH3aNjjhMg8)
+- [npm and the Future of JavaScript - Laurie Voss, npm, Inc.](https://www.youtube.com/watch?v=0PU-4GGLzGg)
+- [Radical Modularity - Aria Stewart, npm, Inc.](https://www.youtube.com/watch?v=SsIdWFtp2QA)
+- [Awesome npm](https://github.com/sindresorhus/awesome-npm)
 
 It is possible to use the [npm link](https://docs.npmjs.com/cli/v6/commands/npm-link) command to work with packages or modules that are not yet published in the npm registry.
 
@@ -42,11 +42,11 @@ It can also be interesting to explore the monorepos and workspaces which are now
 
 It's a very interesting solution, especially to have only one git repo but still keeping the advantage of the segmentation in modules/packages. Some links to read more about this subject:
 
-- EN [Simplify your monorepo with npm 7 workspaces](https://dev.to/limal/simplify-your-monorepo-with-npm-7-workspaces-5gmj)
-- EN [npm Workspaces (RFC)](https://github.com/npm/rfcs/blob/latest/implemented/0026-workspaces.md)
-- EN [Workspaces in Yarn](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
-- EN [pnpm Workspace](https://pnpm.js.org/en/workspaces)
-- EN [🐉 A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna)
+- [Simplify your monorepo with npm 7 workspaces](https://dev.to/limal/simplify-your-monorepo-with-npm-7-workspaces-5gmj)
+- [npm Workspaces (RFC)](https://github.com/npm/rfcs/blob/latest/implemented/0026-workspaces.md)
+- [Workspaces in Yarn](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
+- [pnpm Workspace](https://pnpm.js.org/en/workspaces)
+- [🐉 A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna)
 
 I am just starting to use them for different projects, so I will complete the section in the next few months.
 

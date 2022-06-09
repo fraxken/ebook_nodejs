@@ -20,8 +20,8 @@ Drivers in the ecosystem:
 
 Articles or talks:
 
-- EN [Solving Head-Of-Line blocking with auto pipelining, NearForm](https://www.youtube.com/watch?v=0L0ER4pZbX4)
-- EN [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
+- [Solving Head-Of-Line blocking with auto pipelining, NearForm](https://www.youtube.com/watch?v=0L0ER4pZbX4)
+- [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
 
 For more talks around Redis, do not hesitate to consult the [Redis Labs](https://www.youtube.com/c/Redislabs/featured) youtube channel.
 

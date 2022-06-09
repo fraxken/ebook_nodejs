@@ -32,9 +32,8 @@ It can be interesting to [study and work on the functioning of a Native HTTP ser
 It is also interesting to have a better understanding of the [HTTP protocol](https://tools.ietf.org/html/rfc7231).
 
 Node.js talks around HTTP 1, 2 and 3 (QUIC) :
-- EN  [Implementing HTTP/2 for Node.js Core](https://www.youtube.com/watch?v=7uNGKCao8gA)
-- EN  [A QUIC Update](https://www.youtube.com/watch?v=Fu9i2knjq8g)
-- FR  [Beginner] [Workshop API REST, RPC & ResourceFUL (talk done by myself for a job)](https://www.dropbox.com/s/gdny6hc2calq0k5/Workshop%20API.mp4?dl=0)
+- [Implementing HTTP/2 for Node.js Core](https://www.youtube.com/watch?v=7uNGKCao8gA)
+- [A QUIC Update](https://www.youtube.com/watch?v=Fu9i2knjq8g)
 
 Documentation on how to write a Node.js HTTP server without frameworks:
 - [Node.js server without a framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
@@ -113,9 +112,8 @@ If you are a front-end developer with a little interest in the back-end, then it
 
 If you rather want to specialize in the back-end then I recommend you to look at both families (small & big scope). As far as I'm concerned I recommend you Fastify and [Adonis](https://adonisjs.com/) / [Nest.js](https://nestjs.com/).
 
-- EN  [Intro to Fastify - Matteo Collina](https://www.youtube.com/watch?v=FQu8FnTzOR0&feature=emb_logo) (podcast [bonus here](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina)).
-- EN  [Adonis 5 Tour - Romain Lanz](https://www.youtube.com/watch?v=TysfaNcFX_Y&feature=emb_logo)
-- FR  [Beginner] [LMHB #3: MONTER UNE APP WEB RAPIDEMENT AVEC ADONIS.JS FEAT @ROMAINLANZ](https://www.youtube.com/watch?v=vcrjgZezaI0&feature=youtu.be)
+- [Intro to Fastify - Matteo Collina](https://www.youtube.com/watch?v=FQu8FnTzOR0&feature=emb_logo) (podcast [bonus here](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina)).
+- [Adonis 5 Tour - Romain Lanz](https://www.youtube.com/watch?v=TysfaNcFX_Y&feature=emb_logo)
 
 👀 A recent article by Snyk talks about [the success of Fastify](https://snyk.io/advisor/hub/what-makes-fastify-a-successful-project/).
 

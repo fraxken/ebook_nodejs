@@ -13,13 +13,12 @@ Training through different exercises and challenges is important because it will
 
 The following links will allow you to do a set of workshops and challenges:
 
-- EN **[Beginner]** [freecodecamp](https://www.freecodecamp.org/)
-- EN|FR **[Beginner]** [nodeschool](https://nodeschool.io/)
-- EN **[Beginner]** [JavaScript Algorithms Crash Course - Learn Algorithms & "Big O" from the Ground Up!](https://www.youtube.com/watch?v=JgWm6sQwS_I) - Learning fundamentals of algorithms.
-- EN **[Intermediate]** [jskatas](https://jskatas.org/) 
-- EN **[Intermediate]** [warriorjs](https://warriorjs.com/) - Code your path through dungeons.
-- EN **[Intermediate]** [“Build Your Own Array in Javascript!”](https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js)
-- FR **[Advanced]** [Test challenge](https://github.com/fraxken/test-challenge) (Mini-challenges where the objective is the writing of unit tests... don't hesitate to contact me if needed).
+- **[Beginner]** [freecodecamp](https://www.freecodecamp.org/)
+-|FR **[Beginner]** [nodeschool](https://nodeschool.io/)
+- **[Beginner]** [JavaScript Algorithms Crash Course - Learn Algorithms & "Big O" from the Ground Up!](https://www.youtube.com/watch?v=JgWm6sQwS_I) - Learning fundamentals of algorithms.
+- **[Intermediate]** [jskatas](https://jskatas.org/) 
+- **[Intermediate]** [warriorjs](https://warriorjs.com/) - Code your path through dungeons.
+- **[Intermediate]** [“Build Your Own Array in Javascript!”](https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js)
 
 &nbsp;
 ### 🏫 Nodeschool
@@ -46,10 +45,10 @@ Among the workshops I recommend (more or less in order):
 
 Various websites offering various challenges and exercises:
 
-- EN [CodingGame](https://www.codingame.com/)
-- EN [CodeWars](https://www.codewars.com/)
-- EN [Leetcode](https://leetcode.com/)
-- EN [HackerRank](https://www.hackerrank.com/) (There are categories for Mathematics and Algo).
+- [CodingGame](https://www.codingame.com/)
+- [CodeWars](https://www.codewars.com/)
+- [Leetcode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/) (There are categories for Mathematics and Algo).
 
 I don't necessarily have a recommendation for these (as far as I'm concerned, I don't necessarily like these sites).
 
@@ -58,12 +57,12 @@ I don't necessarily have a recommendation for these (as far as I'm concerned, I 
 
 If some of you are highly motivated and want to get into code competitions (or math and algorithm solving is your thing ^^) well I recommend the following links:
 
-- EN [What is Competitive Programming?](https://www.youtube.com/watch?v=ueNT-w7Oluw)
-- EN [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
-- EN [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc)
-- EN [How to start Competitive Programming? For beginners!](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
-- EN [Fundamentals of algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- EN [Codeforces](https://codeforces.com/)
+- [What is Competitive Programming?](https://www.youtube.com/watch?v=ueNT-w7Oluw)
+- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+- [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc)
+- [How to start Competitive Programming? For beginners!](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+- [Fundamentals of algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [Codeforces](https://codeforces.com/)
 
 This is a field that will require you to work very seriously on mathematics and to study the various existing structures and algorithms at length.
 
