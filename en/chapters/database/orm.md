@@ -1,6 +1,6 @@
 # 💾 Database
 
-## Other databases
+## ORM or not ?
 
 This is a question that often comes up: should we use an ORM or not? **As far as I am concerned**, I try to do without it as much as possible when my need remains relatively simple (Nevertheless it is not always possible).
 
