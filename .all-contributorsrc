@@ -65,6 +65,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "vdeturckheim",
+      "name": "Vladimir de Turckheim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7135896?v=4",
+      "profile": "https://github.com/vdeturckheim",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
