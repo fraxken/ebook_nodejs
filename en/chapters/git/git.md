@@ -7,7 +7,7 @@ If you are a complete newbie 🐤 then I recommend git-it which is a pretty damn
 There are a few books that will go through a whole set of notions vis-à-vis GIT... I'll be honest I didn't learn everything myself but reading these ebooks was very beneficial for me to improve :
 
 - [Pro GIT](https://git-scm.com/book/en/v2)
-- [Mastering GIT (paying)](https://www.raywenderlich.com/books/mastering-git/v1.0)
+- [Mastering GIT (paying)](https://www.raywenderlich.com/4289-mastering-git)
 - [Git Immersion](https://gitimmersion.com/)
 
 We are lucky in France to have quality articles, talks and training thanks to Delicious insights (Christophe Porteneuve and his colleagues). Much of the content below is free, but if you can afford it, I highly recommend investing in a course:
