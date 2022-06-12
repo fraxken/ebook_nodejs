@@ -18,8 +18,9 @@ Autres liens que je vous recommande de lire :
 
 Conférence assez récente;
 
-* [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM&feature=emb_logo) (il y a plusieurs vidéos 1, 2, 3, 4, 5, …). 
+* [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM&feature=emb_logo) (il y a plusieurs vidéos 1, 2, 3, 4, 5, …).
 
 ---
 
-[Page Suivante](./oop.md)
+⬅️ [🌇 Architecture & Paradigmes: Documentation](./documentation.md) |
+➡️ [🌇 Architecture & Paradigmes: Programmation Orienté Objet](./oop.md)

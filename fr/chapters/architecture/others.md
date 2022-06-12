@@ -16,4 +16,5 @@ Autres liens que j’apprécie :
 
 ---
 
-[Retour au sommaire](../../README.md)
+⬅️ [🌇 Architecture & Paradigmes: DDD (Domain Driven Design)](./ddd.md) |
+➡️ [🔬 Monitoring](../monitoring/monitoring.md)

@@ -50,4 +50,5 @@ Si vous souhaitez continuer à réellement creuser la programmation orientée ob
 
 ---
 
-[Page Suivante](./designpatterns.md)
+⬅️ [🌇 Architecture & Paradigmes: Clean code](./cleancode.md) |
+➡️ [🌇 Architecture & Paradigmes: Design patterns](./designpatterns.md)

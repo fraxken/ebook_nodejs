@@ -16,4 +16,5 @@ J’utilise et je construis moi-même très régulièrement plusieurs de ces pat
 
 ---
 
-[Page Suivante](./compilator.md)
+⬅️ [🌇 Architecture & Paradigmes: Programmation Orienté Objet](./oop.md) |
+➡️ [🌇 Architecture & Paradigmes: Compilateur et Interpréteur](./compilator.md)

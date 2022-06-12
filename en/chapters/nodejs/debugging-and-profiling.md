@@ -1,0 +1,34 @@
+# 🐢 Node.js
+
+## 🔍 Debugging & Profiling
+
+Improving on topics like debugging is very important as a developer in order not to be lost on what to do when you encounter a hairy problem (which will require a little more than some console.log). 
+
+> Note however that if you need to go that far, there may be a problem in the way you architect your code.
+
+Here is a list of resources that you may need to read:
+
+- [Node.js debugging best practices - Joyent](https://www.joyent.com/node-js/production/debug)
+- [Node.js official debugging guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+- [Node.js debugger API](https://nodejs.org/api/debugger.html)
+- [VS Code integrated tools for Node.js](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_debugging-your-node-application)
+- [Easy profiling for Node.js Applications](https://nodejs.org/en/docs/guides/simple-profiling/)
+- [Create a Dump of the V8 Heap in Nodejs](https://medium.com/better-programming/make-a-dump-of-the-v8-heap-and-inspect-for-your-node-app-b69f7b68c162)
+- [Node.js console API](https://nodejs.org/api/console.html) (there is not only console.log ^^).
+- [Clinic.js rises to the top in diagnosing Node.js performance issues](https://www.nearform.com/blog/clinicjs-rises-top-diagnosing-nodejs-performance/)
+- [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
+
+If you are rather looking for tools (for flamegraphs generation for example).
+
+- [0x🔥](https://github.com/davidmarkclements/0x)
+- [Clinicjs Flame](https://clinicjs.org/flame/) (the tool has many other modes that I also recommend).
+- [Investigates v8/Node.js function deoptimizations.](https://github.com/thlorenz/deoptigate)
+- [Collect runtime type information 😻 of your JavaScript code.](https://github.com/fhinkel/type-profile)
+- [Why is node running](https://github.com/mafintosh/why-is-node-running) (cool to find alive event loop references).
+
+If you need to benchmark your tests then I recommend [autocannon.](https://github.com/mcollina/autocannon)
+
+---
+
+⬅️ [🐢 Node.js: 📦 Packages](./packages.md) |
+➡️ [🐢 Node.js: Modules (CJS & ESM)](./modules.md)
