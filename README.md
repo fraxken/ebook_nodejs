@@ -4,6 +4,16 @@ A Node.js Ebook by GENTILHOMME Thomas.
 - [French Version](./fr/README.md)
 - [English Version](./en/README.md)
 
+> **Note** I designed this ebook mainly for French developers (so the English version is less complete).
+
+I gave two live stream in **French** on the ebook, if you want to see/listen to them:
+- [Devenir un BON développeur NodeJS - Practical programming](https://www.youtube.com/watch?v=cErQtFzL_Uc)
+- [Devenir un(e) dévelopeur(se) Node.js avec @Fraxken - TonyGO](https://www.youtube.com/watch?v=SXk_yrRUPE8)
+
+## How to contribute ?
+
+I welcome contributions to complement the various links and resources already present in the ebook. I am open to new sections as long as they are in line with my vision of the ebook (so don't hesitate to ask me if you are not sure).
+
 ## Follow me on social network
 - [Twitter](https://twitter.com/fraxken)
 - [LinkedIn](https://www.linkedin.com/in/thomas-gentilhomme/)
