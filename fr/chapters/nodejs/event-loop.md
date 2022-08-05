@@ -96,6 +96,7 @@ Divers articles de vulgarisation. Ils peuvent vous permettre de mieux comprendre
 - **[Débutant]** [Timers, Immediates and Process.nextTick— NodeJS Event Loop Part 2](https://blog.insiderattack.net/timers-immediates-and-process-nexttick-nodejs-event-loop-part-2-2c53fd511bb3)
 - **[Débutant]** [Promises, Next-Ticks, and Immediates— NodeJS Event Loop Part 3](https://blog.insiderattack.net/promises-next-ticks-and-immediates-nodejs-event-loop-part-3-9226cbe7a6aa)
 - **[Débutant]** [JavaScript Visualized: Event Loop (pas forcément en lien direct avec Node.js)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- FR **[Débutant]** [Démystifions la boucle d’événement (event loop) de Node.js](https://www.codeheroes.fr/2017/10/05/demystifions-boucle-devenement-event-loop-de-node-js/)
 - **[Intermédiaire]** [Introduction to Event Loop Utilization in Node.js](https://nodesource.com/blog/event-loop-utilization-nodejs)
 
 Divers talks sur Node.js et libuv (les deux derniers sont en français) :
