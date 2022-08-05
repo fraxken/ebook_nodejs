@@ -37,6 +37,7 @@ Node.js talks around HTTP 1, 2 and 3 (QUIC) :
 
 Documentation on how to write a Node.js HTTP server without frameworks:
 - [Node.js server without a framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
+- [Node.js in 2022 - Creating and testing a complete Node.js Rest API (WITH NO FRAMEWORKS) - Erick Wendel](https://www.youtube.com/watch?v=xR4D2bp8_S0)
 
 I also recommend you to keep an eye on the [undici](https://github.com/nodejs/undici) project which should be the next HTTP Node.js client (rather than using got or axios).
 

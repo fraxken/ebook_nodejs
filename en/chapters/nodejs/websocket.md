@@ -14,6 +14,11 @@ In short, don't hesitate to take an interest in the native [WebSockets](https://
 
 If your need is very high performance I recommend you take a look at [uWebSockets](https://github.com/uNetworking/uWebSockets.js) (which has a minimalist room system too).
 
+### Additional Resources (articles, videos, talks)
+
+- **[Advanced]** [Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Erick Wendel](https://www.youtube.com/watch?v=qFoFKLI3O8w)
+
+
 ---
 
 ⬅️ [🐢 Node.js: Modules (CJS & ESM)](./modules.md) |

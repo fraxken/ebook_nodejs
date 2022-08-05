@@ -83,7 +83,6 @@ Also an excellent developer and popularizer of concepts and features around the 
 - **[Beginner]** [JavaScript Visualized: Generators and Iterators](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
 - **[Beginner]** [JavaScript Visualized: Hoisting](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
 
-
 &nbsp;
 #### <u>Other articles</u>
 
@@ -116,13 +115,14 @@ Also an excellent developer and popularizer of concepts and features around the 
 &nbsp;
 ### 📺 Talks
 
-- [Beginner] [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
-- [Beginner] [Immutable data structures for functional JS](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
-- [Beginner] [Wes Bos - Async + Await](https://www.youtube.com/watch?v=9YkUCxvaLEk)
-- [Beginner] [!!Con 2019- Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=-PX0BV9hGZY&feature=youtu.be)
-- [To know] [Navigating Numbers in JavaScript by Meggan Turner](https://www.youtube.com/watch?v=4zveh5TzB6U&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3&index=20)
-- [Intermediate] [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
-- [Advanced] [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
+- **[Beginner]** [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
+- **[Beginner]** [Immutable data structures for functional JS](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
+- **[Beginner]** [Wes Bos - Async + Await](https://www.youtube.com/watch?v=9YkUCxvaLEk)
+- **[Beginner]** [!!Con 2019- Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=-PX0BV9hGZY&feature=youtu.be)
+- **[To know]** [Navigating Numbers in JavaScript by Meggan Turner](https://www.youtube.com/watch?v=4zveh5TzB6U&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3&index=20)
+- **[Intermediate]** [Learn JavaScript Generators in practice - processing data on-demand with real-world examples - Erick Wendel](https://www.youtube.com/watch?v=edaYw9UhQ0M)
+- **[Intermediate]** [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
+- **[Advanced]** [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
 
 > The episodes of the EN [OpenHive.js](https://www.youtube.com/watch?v=OPLUfbaOYLQ&list=PL0CdgOSSGlBZZu6UQ8r0kAjf-EfyJTC2u) podcast are also quite interesting to follow (with interlocutors of great expertise each time).
 
