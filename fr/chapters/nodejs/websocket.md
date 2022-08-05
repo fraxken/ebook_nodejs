@@ -16,6 +16,10 @@ Si votre besoin nécessite de très haute performance je vous recommande de jete
 
 > <u>Faite néanmoins attention à la mentalité abrasive du mainteneur (il n'est pas connu pour être un enfant de chœur et il peut être parfois assez méchant).</u>
 
+### Resources complémentaires (articles, videos, talks)
+
+- EN  **[Avancé]** [Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Erick Wendel](https://www.youtube.com/watch?v=qFoFKLI3O8w)
+
 ---
 
 ⬅️ [🐢 Node.js: Modules (CJS & ESM)](./modules.md) |

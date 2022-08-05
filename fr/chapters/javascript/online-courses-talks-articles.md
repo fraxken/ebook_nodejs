@@ -127,6 +127,7 @@ Les autres talks
 - EN  **[Débutant]** [Wes Bos - Async + Await](https://www.youtube.com/watch?v=9YkUCxvaLEk)
 - EN  **[Débutant]** [!!Con 2019- Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=-PX0BV9hGZY&feature=youtu.be)
 - EN  **[À savoir]** [Navigating Numbers in JavaScript by Meggan Turner](https://www.youtube.com/watch?v=4zveh5TzB6U&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3&index=20)
+- EN  **[Intermédiaire]** [Learn JavaScript Generators in practice - processing data on-demand with real-world examples - Erick Wendel](https://www.youtube.com/watch?v=edaYw9UhQ0M)
 - FR  **[Intermédiaire]** [Les bases des fonctions generators (de moi et tonygo_)](https://www.youtube.com/watch?v=nrGpYTQW_O0&t=199s)
 - EN  **[Intermédiaire]** [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
 - EN  **[Avancé]** [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
