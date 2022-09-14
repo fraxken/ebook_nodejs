@@ -117,8 +117,8 @@ J’ai toujours beaucoup apprécié Christophe PORTENEUVE en tant qu’orateur �
 - FR  **[Débutant]** [ES6+ maintenant!](https://www.youtube.com/watch?v=KJzlllc7Jq8)
 - FR  **[Débutant]** [Deep dive dans async/await](https://www.youtube.com/watch?v=2P9fbuNEM5w)
 - FR  **[Débutant]** [Alors, quoi de neuf en ES2022 ?](https://www.youtube.com/watch?v=L2Ul--lVML4)
-- FR  **[Débutant]** [Writing Modern Async JavaScript (par Christophe Porteneuve)](https://screencasts.delicious-insights.com/writing-modern-async-javascript)
-- FR  [**Intermédiaire**] [Christophe Porteneuve - Fun and Games With ES Proxies](https://vimeo.com/364362111)
+- EN  **[Débutant]** [Writing Modern Async JavaScript (par Christophe Porteneuve)](https://screencasts.delicious-insights.com/writing-modern-async-javascript)
+- EN  [**Intermédiaire**] [Christophe Porteneuve - Fun and Games With ES Proxies](https://vimeo.com/364362111)
 
 Les autres talks
 
