@@ -1,0 +1,25 @@
+{
+  "name": "ebook_nodejs",
+  "version": "1.0.0",
+  "description": "A Node.js Ebook by GENTILHOMME Thomas.",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/ebook_nodejs.git"
+  },
+  "keywords": [],
+  "author": "GENTILHOMME Thomas <gentilhomme.thomas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraxken/ebook_nodejs/issues"
+  },
+  "homepage": "https://github.com/fraxken/ebook_nodejs#readme",
+  "dependencies": {
+    "@nodesecure/fs-walk": "^1.0.0",
+    "markdown-pdf": "^11.0.0",
+    "through2": "^4.0.2"
+  }
+}
