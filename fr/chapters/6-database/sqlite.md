@@ -12,6 +12,10 @@ Drivers disponible dans l’écosystème :
 - [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) (attention complètement synchrone).
 - 🆕 [esqlite](https://github.com/mscdex/esqlite) (driver en dev très récent par mscdex).
 
+Articles:
+
+- EN [Full Text Search With Sqlite](https://kimsereylam.com/sqlite/2020/03/06/full-text-search-with-sqlite.html#create-triggers)
+
 ---
 
 ⬅️ [💾 Database: Redis](./redis.md) |

@@ -1,5 +1,7 @@
 # 🌇 Architecture & Paradigmes
 
+> 👀 Voir ma vidéo [Object Oriented - Définition ? Ma vision ?](https://www.youtube.com/watch?v=jUOge0J7V-U)
+
 ## Programmation Orienté Objet
 En ce qui me concerne, j’étudie sérieusement les racines et la sémantique des langages OO depuis deux ans et j’ai le sentiment d’être un alien 👽 quand j’entends les autres parler du sujet.
 

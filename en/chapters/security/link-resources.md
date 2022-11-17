@@ -17,6 +17,9 @@ Other resources (articles, talks, studies):
 - [Securing Node.js and JavaScript - VLADIMIR DE TURKHEIM](https://www.youtube.com/watch?v=LJqw6oCW_YQ)
 - [NodeConf Remote 2020 - Matteo Collina - Why there are no incentives for security in Open Source](https://www.youtube.com/watch?v=l7EbDZRjwXA&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=12)
 - [Trojan Source - Invisible Source Code Vulnerabilities](https://www.trojansource.codes/)
+- [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
+- EN [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
+- EN [Char Wars: The Path Traversal Strikes Back - Liran Tal | NodeConf EU 2022](https://www.youtube.com/watch?v=WGCmjvq6A6w&list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ&index=11)
 
 If you are looking for a training I recommend this one made by [Vladimir](https://twitter.com/poledesfetes) (French Node.js collaborator): [Writing Secure Code in Node.js](https://www.infosecinstitute.com/skills/learning-paths/writing-secure-code-in-node-js/)
 

@@ -38,7 +38,9 @@ Various articles on fundamental notions in Node.js and on different core modules
 - [**To know**] [Memory Leaks Demystified](https://nodesource.com/blog/memory-leaks-demystified)
 - [**To know**] [Making Promises safer in Node.js](https://www.nearform.com/blog/making-promises-safer-in-node-js/)
 - [**To know**] [Adding a permission system to Node.js](https://www.nearform.com/blog/adding-a-permission-system-to-node-js/)
-- [**To know**] [Node.js sends warnings when you add too many listeners to an event emitter](https://www.stefanjudis.com/today-i-learned/nodejs-sends-warnings-when-you-add-too-many-listeners-to-an-event-emitter/)
+- [**To know**] [Node.js sends warnings when you add too many listeners to an event emitter](https://www.stefanjudis.com/
+today-i-learned/nodejs-sends-warnings-when-you-add-too-many-listeners-to-an-event-emitter/)
+- [**To know**] [Node.js Memory Limits - What You Should Know](https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html)
 - [**Intermediate**] [A Visual Guide to Node.js Streams](https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5)
 - [**Intermediate**] [Learning to Swim with Piscina, the node.js worker pool](https://www.nearform.com/blog/learning-to-swim-with-piscina-the-node-js-worker-pool/)
 - [**Intermediate**] [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs)

@@ -7,9 +7,23 @@ L’exemple le plus parlant est certainement le framework Fastify.js. Néanmoins
 
 Le package [AJV](https://ajv.js.org/) est la solution incontournable si vous voulez expérimenter et travailler avec.
 
+```js
+const headersJsonSchema = {
+  type: "object",
+  properties: {
+    Authorization: {
+      type: "string",
+      pattern: "Bearer .+"
+    }
+  },
+  required: ["Authorization"]
+};
+```
+
 ### Liens complémentaires
 
-- [Get started with validation in Node.js](https://simonplend.com/get-started-with-validation-in-node-js/)
+- [Get started with JSON Schema in Node.js](https://json-schema.org/blog/posts/get-started-with-json-schema-in-node-js)
+- [Fluent JSON schema](https://github.com/fastify/fluent-json-schema)
 
 ---
 

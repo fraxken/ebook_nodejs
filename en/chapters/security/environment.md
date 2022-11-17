@@ -8,6 +8,10 @@ This information must be stored in the local environment (it can be managed and 
 
 In the context of npm, we advise you to use the [following guide](https://snyk.io/blog/ten-npm-security-best-practices/) which will allow you to avoid different attack vectors.
 
+Possible alternative to the dotenv package:
+
+- [env-var](https://github.com/evanshortiss/env-var)
+
 ---
 
 ⬅️ [🔐 Security: Audit](./audit.md) |

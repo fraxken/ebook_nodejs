@@ -9,7 +9,7 @@ Le module [path](https://nodejs.org/api/path.html) fournit des utilitaires pour 
 Il sera la plupart du temps utilisé pour de la composition de chemin (si vous les faites à **<u>la main vous-même c’est que votre code n’est probablement pas cross-plateforme</u>**).
 
 ```js
-const path = require("path");
+const path = require("node:path");
 
 // ⛔️ BAD
 const bad = __dirname + "/" + "path";
@@ -27,6 +27,14 @@ const path = require("path");
 
 console.log(path.extname("boo.js")); // .js
 ```
+
+---
+
+Je vous invite à visionner ma vidéo Youtube qui couvre ce module core:
+
+<a href="https://www.youtube.com/watch?v=j3I3vJKg6cI" target="_blank">
+    <img src="../../../../assets/nodejs/core-modules/nodejs_path_miniature.jpg" alt="NodeSecure" width="450">
+</a>
 
 ---
 

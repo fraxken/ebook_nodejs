@@ -126,6 +126,11 @@ Si vous êtes plutôt un puriste ou un développeur bas niveau et que vous aimez
 
 Il existe un framework du nom de [Kuzzle](https://kuzzle.io/) que je ne savais pas trop comment classer (il représente certainement à lui seul une famille ^^). Je souhaitais tout de même en parler très rapidement sachant que le framework à un support non négligeable en France.
 
+### Liens supplémentaires pour apprendre à utiliser ces frameworks
+
+- FR [Logging Node.js avec Pino par ARKERONE](https://www.codeheroes.fr/2022/08/29/logging-nodejs-avec-pino/)
+- FR [Apprendre le JavaScript : Découverte de fastify](https://www.youtube.com/watch?v=YnWjki-M-7A)
+
 ---
 
 ⬅️ [🐢 Node.js: 🐥 Ressources pour les débutants](./ressources-debutant.md) |

@@ -32,5 +32,13 @@ Les opérations sur FS sont gérées en arrière fond par Libuv et distribuées 
 
 ---
 
+Je vous invite à visionner ma vidéo Youtube qui couvre ce module core:
+
+<a href="https://www.youtube.com/watch?v=N2s8sao1b6w" target="_blank">
+    <img src="../../../../assets/nodejs/core-modules/nodejs_fs_miniature.jpg" alt="NodeSecure" width="450">
+</a>
+
+---
+
 ⬅️ [🌟 Les différents modules core: Path](./path.md) |
 ➡️ [🌟 Les différents modules core: Timers)](./timers.md)
