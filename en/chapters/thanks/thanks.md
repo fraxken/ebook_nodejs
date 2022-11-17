@@ -11,7 +11,8 @@ Thanks to those who advised and helped me in writing and correcting the document
 - [Nadia](https://www.linkedin.com/in/nadiamedkouri/)
 - Koko (ES-Community mentor)
 - [Vincent Dhennin](https://www.linkedin.com/in/vincentdhennin/)
-- [Vladimir of Turckheim](https://twitter.com/poledesfetes)
+- [Vladimir de Turckheim](https://twitter.com/poledesfetes)
+- [Pierre Demailly](https://www.linkedin.com/in/pierre-demailly/)
 
 ---
 

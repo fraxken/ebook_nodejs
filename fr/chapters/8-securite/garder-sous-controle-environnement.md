@@ -8,6 +8,9 @@ Ces informations doivent être stockées dans l'environnement local (elles peuve
 
 Dans le cadre de npm, nous vous conseillons d'utiliser [le guide suivant](https://snyk.io/blog/ten-npm-security-best-practices/) qui va vous permettre d’éviter différents vecteurs d’attaques.
 
+Alternative possible au package dotenv:
+
+- [env-var](https://github.com/evanshortiss/env-var)
 
 ---
 

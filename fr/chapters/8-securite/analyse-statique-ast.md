@@ -12,6 +12,11 @@ Autres talks en lien avec les Abstract Syntax Trees :
 - EN [Machine Powered Refactoring: Leverage AST's to Push Your Legacy Code (& the Web) Forward](https://www.youtube.com/watch?v=s8g_cBfm9d0&list=PLfMzBWSH11xaZvhv1X5Fq1H-oMdnAtG6k&index=2)
 - EN [What the AST ?](https://www.youtube.com/watch?v=BtD2OrlLBhI&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=36)
 
+Articles écrivent par les membres core de l'équipe NodeSecure:
+
+- EN [A technical tale of NodeSecure - Chapter 2](https://dev.to/nodesecure/a-technical-tale-of-nodesecure-chapter-2-2p17)
+- EN [🕶 What it takes to build a Static Analysis tool](https://dev.to/antoinecoulon/what-it-takes-to-build-a-static-analysis-tool-4p40)
+
 ---
 
 ⬅️ [🔐 Sécurité: Faille de sécurité courante](./faille-securite-courante.md) |

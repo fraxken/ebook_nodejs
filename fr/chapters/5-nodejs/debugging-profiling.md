@@ -8,6 +8,7 @@ S’améliorer et s’éveiller sur des sujets comme le debug est très importan
 
 Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 
+- FR [Comment détecter un memory leak dans une application Node.Js ? PARTIE 1 `--trace-gc` flag (v8) par Tony Gorez](https://www.youtube.com/watch?v=nCamxCaLT2E)
 - EN [Node.js debugging best practices - Joyent](https://www.joyent.com/node-js/production/debug)
 - EN [Node.js official debugging guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 - EN [Node.js debugger API](https://nodejs.org/api/debugger.html)
@@ -17,6 +18,8 @@ Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 - EN [Node.js console API](https://nodejs.org/api/console.html) (there is not only console.log ^^).
 - EN [Clinic.js rises to the top in diagnosing Node.js performance issues](https://www.nearform.com/blog/clinicjs-rises-top-diagnosing-nodejs-performance/)
 - EN [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
+- EN [Node.js Memory Limits - What You Should Know](https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html)
+- EN [The Importance of Measuring Memory Allocation in Node.js Applications](https://www.nearform.com/blog/tracking-memory-allocation-node-js/)
 
 Si vous êtes plutôt à la recherche d’outils (pour de la génération de flamegraphs par exemple).
 

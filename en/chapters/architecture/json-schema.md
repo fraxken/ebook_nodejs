@@ -21,7 +21,10 @@ const headersJsonSchema = {
 };
 ```
 
-- [Get started with validation in Node.js](https://simonplend.com/get-started-with-validation-in-node-js/)
+### Additional links
+
+- [Get started with JSON Schema in Node.js](https://json-schema.org/blog/posts/get-started-with-json-schema-in-node-js)
+- [Fluent JSON schema](https://github.com/fastify/fluent-json-schema)
 
 ---
 

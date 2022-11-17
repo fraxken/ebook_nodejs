@@ -17,6 +17,9 @@ Autres ressources en lien avec le monitoring Node.js :
 - EN [Don’t Starve the Event Loop: Measuring and Monitoring Node.js for Performance](https://www.youtube.com/watch?v=9RhOGoChGqo)
 - EN [Node.js Monitoring, Alerting and Reliability 101 Ebook](https://risingstack.com/resources/node-js-monitoring-ebook)
 - EN [Module core Node.js V8](https://nodejs.org/dist/latest-v15.x/docs/api/v8.html)
+- EN [Investigating Node.js Performance: Event Loop and Network I/O (Part 1)](https://medium.com/airtable-eng/node-js-performance-event-loop-and-network-i-o-part-1-ed66076109d3)
+- EN [Investigating Node.js Performance: Event Loop and Network I/O (Part 2)](https://medium.com/airtable-eng/investigating-node-js-performance-event-loop-and-network-i-o-part-2-e9d1a8d4da8a)
+- EN [The Importance of Measuring Memory Allocation in Node.js Applications](https://www.nearform.com/blog/tracking-memory-allocation-node-js/)
 
 ## API
 Liens et ressources pour du monitoring d’API HTTP :

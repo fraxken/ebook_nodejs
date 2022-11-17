@@ -6,9 +6,9 @@ Projects with indirect dependencies are much more vulnerable as shown in this [r
 
 Avoid at all costs packages with dependencies exceeding a depth of 2-3 packages (this always introduces several indirect dependencies to maintain and secure which can very quickly become complex).
 
-The [nsecure](https://github.com/ES-Community/nsecure) project allows deep analysis of the dependencies of an npm project or package.
+The [NodeSecure](https://github.com/ES-Community/nsecure) project allows deep analysis of the dependencies of an npm project or package.
 
-<img src="../../../assets/securite/nsecure.png" alt="Nsecure" width="750">
+<img src="../../../assets/securite/nsecure.png" alt="NodeSecure" width="750">
 
 > ⛔ Be careful not to fall into paranoia either. Nor is it always easy to solve problems in a few packages. The important thing is to be aware of the problem and pay attention.
 

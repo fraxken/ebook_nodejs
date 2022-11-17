@@ -39,6 +39,7 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[À savoir]** [Making Promises safer in Node.js](https://www.nearform.com/blog/making-promises-safer-in-node-js/)
 - EN **[À savoir]** [Adding a permission system to Node.js](https://www.nearform.com/blog/adding-a-permission-system-to-node-js/)
 - EN **[À savoir]** [Node.js sends warnings when you add too many listeners to an event emitter](https://www.stefanjudis.com/today-i-learned/nodejs-sends-warnings-when-you-add-too-many-listeners-to-an-event-emitter/)
+- EN **[À savoir]** [Node.js Memory Limits - What You Should Know](https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html)
 - FR **[À savoir]** [Gérer le CORS avec Node.js](https://boutdecode.fr/article/cors-avec-nodejs)
 - EN **[Intermédiaire]** [A Visual Guide to Node.js Streams](https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5)
 - EN **[Intermédiaire]** [Learning to Swim with Piscina, the node.js worker pool](https://www.nearform.com/blog/learning-to-swim-with-piscina-the-node-js-worker-pool/)
