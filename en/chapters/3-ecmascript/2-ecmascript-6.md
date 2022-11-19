@@ -8,5 +8,5 @@ From 2015 it is common to use the year to designate the version of JavaScript...
 
 ---
 
-⬅️ [JavaScript or ECMAScript ?](./javascript-or-ecmascript.md) |
-➡️ [JavaScript: 20 years](./javascript-20years.md)
+⬅️ [JavaScript or ECMAScript ?](./1-javascript-or-ecmascript.md) |
+➡️ [JavaScript: 20 years](./3-javascript-20years.md)

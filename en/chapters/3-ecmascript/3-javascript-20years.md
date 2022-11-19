@@ -8,5 +8,5 @@ Not so long ago, Brendan Eich and [Allen Wirfs-brock](http://www.wirfs-brock.com
 
 ---
 
-⬅️ [ECMAScript 6 (ES2015)](./ecmascript-6.md) |
-➡️ [TC39](./tc39.md)
+⬅️ [ECMAScript 6 (ES2015)](./2-ecmascript-6.md) |
+➡️ [TC39](./4-tc39.md)

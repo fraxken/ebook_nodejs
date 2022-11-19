@@ -10,5 +10,5 @@ The term JavaScript has remained in the common vocabulary, but in fact it is ECM
 
 ---
 
-⬅️ [JavaScript: 🔧 Engine & VM JavaScript (V8 etc)](../javascript/VM.md) |
-➡️ [ECMAScript 6 (ES2015)](./ecmascript-6.md)
+⬅️ [JavaScript: 🔧 Engine & VM JavaScript (V8 etc)](../2-javascript/5-VM.md) |
+➡️ [ECMAScript 6 (ES2015)](./2-ecmascript-6.md)
