@@ -22,5 +22,5 @@ Fairly recent conference;
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: Documentation](./documentation.md) |
-➡️ [🌇 Architecture & Paradigms: Object Oriented Programming](./object-oriented-programming.md)
+⬅️ [🌇 Architecture & Paradigms: Documentation](./4-documentation.md) |
+➡️ [🌇 Architecture & Paradigms: Object Oriented Programming](./6-object-oriented-programming.md)

@@ -12,5 +12,5 @@ My github contains a [section dedicated](https://github.com/fraxken/VM-Resources
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: Design Pattern](./design-pattern.md) |
-➡️ [🌇 Architecture & Paradigms: DDD (Domain Driven Design)](./domain-driven-design.md)
+⬅️ [🌇 Architecture & Paradigms: Design Pattern](./7-design-pattern.md) |
+➡️ [🌇 Architecture & Paradigms: DDD (Domain Driven Design)](./9-domain-driven-design.md)

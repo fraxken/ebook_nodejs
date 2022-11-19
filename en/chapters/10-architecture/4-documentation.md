@@ -26,5 +26,5 @@ If you are building an API: having an [OpenAPI](https://swagger.io/specification
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: JSON Schema](./json-schema.md) |
-➡️ [🌇 Architecture & Paradigms: Clean Code](./clean-code.md)
+⬅️ [🌇 Architecture & Paradigms: JSON Schema](./3-json-schema.md) |
+➡️ [🌇 Architecture & Paradigms: Clean Code](./5-clean-code.md)

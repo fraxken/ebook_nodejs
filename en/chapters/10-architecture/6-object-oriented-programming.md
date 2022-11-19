@@ -50,5 +50,5 @@ From all this you will be able to find several hundred references. I have read o
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: Clean Code](./clean-code.md) |
-➡️ [🌇 Architecture & Paradigms: Design Pattern](./design-pattern.md)
+⬅️ [🌇 Architecture & Paradigms: Clean Code](./5-clean-code.md) |
+➡️ [🌇 Architecture & Paradigms: Design Pattern](./7-design-pattern.md)

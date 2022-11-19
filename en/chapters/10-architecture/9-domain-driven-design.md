@@ -14,5 +14,5 @@ More videos on the [Domain-Driven Design Europe youtube channel](https://www.you
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: Compiler & Interpreter](./compiler-interpreter.md) |
-➡️ [🌇 Architecture & Paradigms: Others](./others.md)
+⬅️ [🌇 Architecture & Paradigms: Compiler & Interpreter](./8-compiler-interpreter.md) |
+➡️ [🌇 Architecture & Paradigms: Others](./10-others.md)

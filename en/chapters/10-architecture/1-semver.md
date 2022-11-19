@@ -15,5 +15,5 @@ Other useful resources:
 
 ---
 
-⬅️ [Git](../git/git.md) |
-➡️ [🌇 Architecture & Paradigms: CalVer](./calver.md)
+⬅️ [Git](../9-git/1-git.md) |
+➡️ [🌇 Architecture & Paradigms: CalVer](./2-calver.md)

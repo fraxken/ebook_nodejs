@@ -6,5 +6,5 @@ I hear more and more about [Calendar Versioning](https://calver.org/). Although 
 
 ---
 
-⬅️ [🔐 Architecture & Paradigms: SemVer](./semver.md) |
-➡️ [🌇 Architecture & Paradigms: Json Schema](./json-schema.md)
+⬅️ [🔐 Architecture & Paradigms: SemVer](./1-semver.md) |
+➡️ [🌇 Architecture & Paradigms: Json Schema](./3-json-schema.md)

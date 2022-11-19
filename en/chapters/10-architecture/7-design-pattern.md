@@ -16,5 +16,5 @@ I use and build many of these patterns myself very regularly. Some links and res
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: Object Oriented Programming](./object-oriented-programming.md) |
-➡️ [🌇 Architecture & Paradigms: Compiler & Interpreter](./compiler-interpreter.md)
+⬅️ [🌇 Architecture & Paradigms: Object Oriented Programming](./6-object-oriented-programming.md) |
+➡️ [🌇 Architecture & Paradigms: Compiler & Interpreter](./8-compiler-interpreter.md)

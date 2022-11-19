@@ -12,5 +12,5 @@ There are a lot of things to learn that are not necessarily related to the code 
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: DDD (Domain Driven Design)](./domain-driven-design.md) |
-➡️ [🔬 Monitoring: Introduction](../monitoring/introduction.md)
+⬅️ [🌇 Architecture & Paradigms: DDD (Domain Driven Design)](./9-domain-driven-design.md) |
+➡️ [🔬 Monitoring: Introduction](../11-monitoring/1-introduction.md)

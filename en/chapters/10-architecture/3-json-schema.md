@@ -28,5 +28,5 @@ const headersJsonSchema = {
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: CalVer](./calver.md) |
-➡️ [🌇 Architecture & Paradigms: Documentation](./documentation.md)
+⬅️ [🌇 Architecture & Paradigms: CalVer](./2-calver.md) |
+➡️ [🌇 Architecture & Paradigms: Documentation](./4-documentation.md)
