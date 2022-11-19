@@ -18,5 +18,5 @@ We are lucky in France to have quality articles, talks and training thanks to De
 
 ---
 
-⬅️ [🔐 Security: If security is an area that interests you](../security/interested.md) |
-➡️ [🌇 Architecture & Paradigms: SemVer](../architecture/semver.md)
+⬅️ [🔐 Security: If security is an area that interests you](../8-security/8-interested.md) |
+➡️ [🌇 Architecture & Paradigms: SemVer](../10-architecture/1-semver.md)
