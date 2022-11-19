@@ -19,5 +19,5 @@ In short, I therefore strongly encourage you to take an interest in this databas
 
 ---
 
-⬅️ [💾 Database: The importance of learning SQL](./learning-sql.md) |
-➡️ [💾 Database: MySQL & MariaDB](./mysql-mariadb.md)
+⬅️ [💾 Database: The importance of learning SQL](./3-learning-sql.md) |
+➡️ [💾 Database: MySQL & MariaDB](./5-mysql-mariadb.md)

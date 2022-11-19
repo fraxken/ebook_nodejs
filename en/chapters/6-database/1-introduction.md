@@ -10,5 +10,5 @@ Each of them will have strengths and weaknesses (whether in the accessibility of
 
 ---
 
-⬅️ [🐢 Node.js: 📦 npm package archive](../nodejs/npm-package-archive.md) |
-➡️ [💾 Database: Influence of Node.js on the chapter](./influence-node.md)
+⬅️ [🐢 Node.js: 📦 npm package archive](../5-nodejs/14-npm-package-archive.md) |
+➡️ [💾 Database: Influence of Node.js on the chapter](./2-influence-node.md)

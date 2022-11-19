@@ -16,5 +16,5 @@ Also take the time to see if the database you are using does not offer guides on
 
 ---
 
-⬅️ [💾 Database: Influence of Node.js on the chapter](./influence-node.md) |
-➡️ [💾 Database: PostgreSQL](./postgres.md)
+⬅️ [💾 Database: Influence of Node.js on the chapter](./2-influence-node.md) |
+➡️ [💾 Database: PostgreSQL](./4-postgres.md)

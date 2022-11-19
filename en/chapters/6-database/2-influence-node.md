@@ -12,5 +12,5 @@ This does not imply at any time that it is not possible to use another base (let
 
 ---
 
-⬅️ [💾 Database: Introduction](./introduction.md) |
-➡️ [💾 Database: The importance of learning SQL](./learning-sql.md)
+⬅️ [💾 Database: Introduction](./1-introduction.md) |
+➡️ [💾 Database: The importance of learning SQL](./3-learning-sql.md)

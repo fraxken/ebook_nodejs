@@ -23,5 +23,5 @@ I don't think we should go to extremes. If you are a junior developer I recommen
 
 ---
 
-⬅️ [💾 Database: MySQL & MariaDB](./mysql-mariadb.md) |
-➡️ [💾 Database: Redis](./redis.md)
+⬅️ [💾 Database: MySQL & MariaDB](./5-mysql-mariadb.md) |
+➡️ [💾 Database: Redis](./7-redis.md)

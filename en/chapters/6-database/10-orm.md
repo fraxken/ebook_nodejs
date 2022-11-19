@@ -17,5 +17,5 @@ There are a whole bunch of packages available in the ecosystem, but I am not nec
 
 ---
 
-⬅️ [💾 Database: Other databases](./other-db.md) |
-➡️ [📡 MQTT (broker): Introduction](../mqtt/introduction.md)
+⬅️ [💾 Database: Other databases](./9-other-db.md) |
+➡️ [📡 MQTT (broker): Introduction](../7-mqtt/1-introduction.md)

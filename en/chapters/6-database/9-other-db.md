@@ -13,5 +13,5 @@ Do not hesitate to consult the [following awesome list](https://github.com/agarc
 
 ---
 
-⬅️ [💾 Database: SQLite](./sqlite.md) |
-➡️ [💾 Database: ORM or not ?](./orm.md)
+⬅️ [💾 Database: SQLite](./8-sqlite.md) |
+➡️ [💾 Database: ORM or not ?](./10-orm.md)

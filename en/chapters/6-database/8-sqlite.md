@@ -18,5 +18,5 @@ Articles:
 
 ---
 
-⬅️ [💾 Database: Redis](./redis.md) |
-➡️ [💾 Database: Other databases](./other-db.md)
+⬅️ [💾 Database: Redis](./7-redis.md) |
+➡️ [💾 Database: Other databases](./9-other-db.md)

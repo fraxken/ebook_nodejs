@@ -27,5 +27,5 @@ For more talks around Redis, do not hesitate to consult the [Redis Labs](https:/
 
 ---
 
-⬅️ [💾 Database: MongoDB](./mongodb.md) |
-➡️ [💾 Database: SQLite](./sqlite.md)
+⬅️ [💾 Database: MongoDB](./6-mongodb.md) |
+➡️ [💾 Database: SQLite](./8-sqlite.md)
