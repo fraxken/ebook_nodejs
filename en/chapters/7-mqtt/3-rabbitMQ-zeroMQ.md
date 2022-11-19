@@ -13,5 +13,5 @@ However, in all my professional experience, I have rarely experienced a producti
 
 ---
 
-⬅️ [📡 MQTT (broker): Redis](./redis.md) |
-➡️ [📡 MQTT (broker): Others](./others.md)
+⬅️ [📡 MQTT (broker): Redis](./2-redis.md) |
+➡️ [📡 MQTT (broker): Others](./4-others.md)

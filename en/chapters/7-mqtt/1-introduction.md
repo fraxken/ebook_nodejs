@@ -12,5 +12,5 @@ Note that we are often talking here about the MQTT protocol but there are many s
 
 ---
 
-⬅️ [💾 Database: ORM or not ?](../database/orm.md) |
-➡️ [📡 MQTT (broker): Redis](./redis.md)
+⬅️ [💾 Database: ORM or not ?](../6-database/10-orm.md) |
+➡️ [📡 MQTT (broker): Redis](./2-redis.md)

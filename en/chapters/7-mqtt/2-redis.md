@@ -8,5 +8,5 @@ In addition, the database can be used for other needs which often saves the need
 
 ---
 
-⬅️ [📡 MQTT (broker): Introduction](./introduction.md) |
-➡️ [📡 MQTT (broker): RabbitMQ, ZeroMQ](./rabbitMQ-zeroMQ.md)
+⬅️ [📡 MQTT (broker): Introduction](./1-introduction.md) |
+➡️ [📡 MQTT (broker): RabbitMQ, ZeroMQ](./3-rabbitMQ-zeroMQ.md)
