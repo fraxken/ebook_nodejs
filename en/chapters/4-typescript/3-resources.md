@@ -33,5 +33,5 @@ Some articles by Dr. Axel Rauschmayer:
 
 ---
 
-⬅️ [🙊 TypeScript is secondary](./typescript-is-secondary.md) |
-➡️ [🐢 Node.js: 🌝 Introduction](./../nodejs/introduction.md)
+⬅️ [🙊 TypeScript is secondary](./2-typescript-is-secondary.md) |
+➡️ [🐢 Node.js: 🌝 Introduction](./../5-nodejs/1-introduction.md)

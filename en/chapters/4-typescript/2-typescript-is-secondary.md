@@ -15,5 +15,5 @@ Take the time to build a foundation in JavaScript to better understand the advan
 
 ---
 
-⬅️ [Introduction](./introduction.md) |
-➡️ [🐲 Ressources on types](./resources.md)
+⬅️ [Introduction](./1-introduction.md) |
+➡️ [🐲 Ressources on types](./3-resources.md)
