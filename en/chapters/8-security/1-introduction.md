@@ -10,5 +10,5 @@ The use of third-party dependencies, in particular "packages" or portions of cod
 
 ---
 
-⬅️ [📡 MQTT (broker): Others](../mqtt/others.md) |
-➡️ [🔐 Security: Audit](./audit.md)
+⬅️ [📡 MQTT (broker): Others](../7-mqtt/4-others.md) |
+➡️ [🔐 Security: Audit](./2-audit.md)

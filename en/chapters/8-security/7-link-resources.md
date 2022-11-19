@@ -25,5 +25,5 @@ If you are looking for a training I recommend this one made by [Vladimir](https:
 
 ---
 
-⬅️ [🔐 Security: Static Analysis & AST](./ast.md) |
-➡️ [🔐 Security: If security is an area that interests you](./interested.md)
+⬅️ [🔐 Security: Static Analysis & AST](./6-ast.md) |
+➡️ [🔐 Security: If security is an area that interests you](./8-interested.md)

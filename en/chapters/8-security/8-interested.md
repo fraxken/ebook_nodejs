@@ -10,5 +10,5 @@ If some of you want to discover and take an interest in the world of security on
 
 ---
 
-⬅️ [🔐 Security: Additional links and resources to read](./link-resources.md) |
-➡️ [GIT](../git/git.md)
+⬅️ [🔐 Security: Additional links and resources to read](./7-link-resources.md) |
+➡️ [GIT](../9-git/1-git.md)

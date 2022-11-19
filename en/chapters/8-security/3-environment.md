@@ -14,5 +14,5 @@ Possible alternative to the dotenv package:
 
 ---
 
-⬅️ [🔐 Security: Audit](./audit.md) |
-➡️ [🔐 Security: Direct and indirect dependencies](./dependencies.md)
+⬅️ [🔐 Security: Audit](./2-audit.md) |
+➡️ [🔐 Security: Direct and indirect dependencies](./4-dependencies.md)

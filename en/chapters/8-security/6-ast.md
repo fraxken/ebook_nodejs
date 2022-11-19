@@ -20,5 +20,5 @@ Articles written by NodeSecure core members:
 
 ---
 
-⬅️ [🔐 Security: Common Security Breach](./common-breach.md) |
-➡️ [🔐 Security: Additional links and resources to read](./link-resources.md)
+⬅️ [🔐 Security: Common Security Breach](./5-common-breach.md) |
+➡️ [🔐 Security: Additional links and resources to read](./7-link-resources.md)

@@ -20,5 +20,5 @@ You can open one of the projects to have more information on the various current
 
 ---
 
-⬅️ [🔐 Security: Introduction](./introduction.md) |
-➡️ [🔐 Security: Keep your environment under control](./environment.md)
+⬅️ [🔐 Security: Introduction](./1-introduction.md) |
+➡️ [🔐 Security: Keep your environment under control](./3-environment.md)

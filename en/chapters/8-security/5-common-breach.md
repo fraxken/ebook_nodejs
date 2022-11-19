@@ -13,5 +13,5 @@ As a bonus, I recommend that you consult [the top 10 attacks listed by OWASP](ht
 
 ---
 
-⬅️ [🔐 Security: Direct and indirect dependencies](./dependencies.md) |
-➡️ [🔐 Security: Static Analysis & AST](./ast.md)
+⬅️ [🔐 Security: Direct and indirect dependencies](./4-dependencies.md) |
+➡️ [🔐 Security: Static Analysis & AST](./6-ast.md)

@@ -14,5 +14,5 @@ The [NodeSecure](https://github.com/ES-Community/nsecure) project allows deep an
 
 ---
 
-⬅️ [🔐 Security: Keep your environment under control](./environment.md) |
-➡️ [🔐 Security: Common Security Breach](./common-breach.md)
+⬅️ [🔐 Security: Keep your environment under control](./3-environment.md) |
+➡️ [🔐 Security: Common Security Breach](./5-common-breach.md)
