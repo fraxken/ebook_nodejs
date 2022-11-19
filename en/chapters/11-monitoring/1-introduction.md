@@ -30,5 +30,5 @@ Links and resources for HTTP API monitoring:
 
 ---
 
-⬅️ [🌇 Architecture & Paradigms: Others](../architecture/others.md) |
-➡️ [💻 System: Introduction](../system/introduction.md)
+⬅️ [🌇 Architecture & Paradigms: Others](../10-architecture/10-others.md) |
+➡️ [💻 System: Introduction](../12-system/1-introduction.md)
