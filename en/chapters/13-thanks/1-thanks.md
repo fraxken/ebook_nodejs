@@ -16,5 +16,5 @@ Thanks to those who advised and helped me in writing and correcting the document
 
 ---
 
-⬅️ [💻 System: Introduction](../system/scripting.md) |
+⬅️ [💻 System: Introduction](../12-system/2-scripting.md) |
 ➡️ [Becoming a Node.js developer 🐢🚀](../../README.md)
