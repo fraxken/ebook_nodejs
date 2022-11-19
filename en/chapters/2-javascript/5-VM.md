@@ -50,5 +50,5 @@ And even people with a lot of experience (including the contributors to the engi
 
 ---
 
-⬅️ [🌌 Online courses, talks and articles](./online-courses-talks-articles.md) |
-➡️ [⚡ ECMAScript: JavaScript or ECMAScript ?](../ecmascript/javascript-or-ecmascript.md)
+⬅️ [🌌 Online courses, talks and articles](./4-online-courses-talks-articles.md) |
+➡️ [⚡ ECMAScript: JavaScript or ECMAScript ?](../3-ecmascript/1-javascript-or-ecmascript.md)

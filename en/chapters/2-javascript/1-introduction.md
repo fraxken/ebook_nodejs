@@ -14,5 +14,5 @@ If you spend ten minutes remembering how to set a key in an object, **then you'v
 
 ---
 
-⬅️ [👋 Introduction](../introduction/introduction.md) |
-➡️ [📕 Dedicate a daily time to reading](./reading.md)
+⬅️ [👋 Introduction](../1-introduction/1-introduction.md) |
+➡️ [📕 Dedicate a daily time to reading](./2-reading.md)

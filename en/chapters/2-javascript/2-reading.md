@@ -25,5 +25,5 @@ It is also possible to train effectively with the help of a book 😉. Just get 
 
 ---
 
-⬅️ [JavaScript: 🌞 Introduction](./introduction.md) |
-➡️ [💪 Challenge yourself regularly](./challenge.md)
+⬅️ [JavaScript: 🌞 Introduction](./1-introduction.md) |
+➡️ [💪 Challenge yourself regularly](./3-challenge.md)
