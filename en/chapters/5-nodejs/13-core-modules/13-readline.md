@@ -46,5 +46,5 @@ function prompt(query) {
 
 ---
 
-⬅️ [🌟 The different core modules: Zlib](./zlib.md) |
-➡️ [🌟 The different core modules: perf_hooks](./perf_hooks.md)
+⬅️ [🌟 The different core modules: Zlib](./12-zlib.md) |
+➡️ [🌟 The different core modules: perf_hooks](./14-perf_hooks.md)

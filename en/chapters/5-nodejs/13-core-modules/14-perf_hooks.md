@@ -34,5 +34,5 @@ The perf_hooks module also allows you to monitor the event-loop (see the monitor
 
 ---
 
-⬅️ [🌟 The different core modules: Readline](./readline.md) |
-➡️ [🌟 The different core modules: async_hooks](./async_hooks.md)
+⬅️ [🌟 The different core modules: Readline](./13-readline.md) |
+➡️ [🌟 The different core modules: async_hooks](./15-async_hooks.md)

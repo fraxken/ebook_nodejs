@@ -18,5 +18,5 @@ The integration is in progress on different frameworks like Adonis.js:
 
 ---
 
-⬅️ [🌟 The different core modules: perf_hooks](./perf_hooks.md) |
-➡️ [🌟 The different core modules: Crypto](./crypto.md)
+⬅️ [🌟 The different core modules: perf_hooks](./14-perf_hooks.md) |
+➡️ [🌟 The different core modules: Crypto](./16-crypto.md)

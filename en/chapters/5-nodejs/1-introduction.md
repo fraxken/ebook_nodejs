@@ -12,5 +12,5 @@ Bonus: [Things to Love About Working with Node.js (Matteo Collina)](https://www.
 
 ---
 
-⬅️ [TypeScript: 🐲 Ressources on types](../typescript/resources.md) |
-➡️ [🐢 Node.js: 🐥 Resources for beginners](./beginners-resources.md)
+⬅️ [TypeScript: 🐲 Ressources on types](../4-typescript/3-resources.md) |
+➡️ [🐢 Node.js: 🐥 Resources for beginners](./2-beginners-resources.md)

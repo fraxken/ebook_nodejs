@@ -19,5 +19,5 @@ We had discussed about [NodeSchool](https://docs.google.com/document/d/1JHgmEFkc
 
 ---
 
-⬅️ [🐢 Node.js: 🌝 Introduction](./introduction.md) |
-➡️ [🐢 Node.js: 🌐 Discovery of the HTTP Node.js ecosystem](./node-http-ecosystem.md)
+⬅️ [🐢 Node.js: 🌝 Introduction](./1-introduction.md) |
+➡️ [🐢 Node.js: 🌐 Discovery of the HTTP Node.js ecosystem](./3-node-http-ecosystem.md)

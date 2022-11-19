@@ -34,5 +34,5 @@ log({ data: "..." });
 
 ---
 
-⬅️ [🌟 The different core modules: Child process](./child_process.md) |
-➡️ [🌟 The different core modules: VM](./vm.md)
+⬅️ [🌟 The different core modules: Child process](./8-child_process.md) |
+➡️ [🌟 The different core modules: VM](./10-vm.md)

@@ -32,5 +32,5 @@ Operations on FS are handled behind the scenes by Libuv and distributed over [Th
 
 ---
 
-⬅️ [🌟 The different core modules: Path](./path.md) |
-➡️ [🌟 The different core modules: Timers](./timers.md)
+⬅️ [🌟 The different core modules: Path](./3-path.md) |
+➡️ [🌟 The different core modules: Timers](./5-timers.md)

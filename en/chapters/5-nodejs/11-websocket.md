@@ -21,5 +21,5 @@ If your need is very high performance I recommend you take a look at [uWebSocket
 
 ---
 
-⬅️ [🐢 Node.js: Modules (CJS & ESM)](./modules.md) |
-➡️ [🐢 Node.js: 📊 Unit testing and coverage](./unit-testing-and-coverage.md)
+⬅️ [🐢 Node.js: Modules (CJS & ESM)](./10-modules.md) |
+➡️ [🐢 Node.js: 📊 Unit testing and coverage](./12-unit-testing-and-coverage.md)

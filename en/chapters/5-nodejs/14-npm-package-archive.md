@@ -29,5 +29,5 @@ List of other packages I'm keeping an eye on:
 
 ---
 
-⬅️ [🌟 The different core modules: Crypto](./core-modules/crypto.md) |
-➡️ [💾 Database: Introduction](../database/introduction.md)
+⬅️ [🌟 The different core modules: Crypto](./13-core-modules/16-crypto.md) |
+➡️ [💾 Database: Introduction](../6-database/1-introduction.md)

@@ -13,5 +13,5 @@ The core [OS](https://nodejs.org/api/os.html) module is made up of a set of util
 
 ---
 
-⬅️ [🌟 The different core modules: URL](./url.md) |
-➡️ [🌟 The different core modules: Child process](./child_process.md)
+⬅️ [🌟 The different core modules: URL](./6-url.md) |
+➡️ [🌟 The different core modules: Child process](./8-child_process.md)

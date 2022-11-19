@@ -49,5 +49,5 @@ Various articles on fundamental notions in Node.js and on different core modules
 
 ---
 
-⬅️ [🐢 Node.js: 🌐 Discovery of the HTTP Node.js ecosystem](./node-http-ecosystem.md) |
-➡️ [🐢 Node.js: 🎡 Event-loop](./event-loop.md)
+⬅️ [🐢 Node.js: 🌐 Discovery of the HTTP Node.js ecosystem](./3-node-http-ecosystem.md) |
+➡️ [🐢 Node.js: 🎡 Event-loop](./5-event-loop.md)

@@ -24,5 +24,5 @@ If you are looking for a module that simplifies these tasks, I recommend you tak
 
 ---
 
-⬅️ [🌟 The different core modules: OS](./os.md) |
-➡️ [🌟 The different core modules: Utilities](./utilities.md)
+⬅️ [🌟 The different core modules: OS](./7-os.md) |
+➡️ [🌟 The different core modules: Utilities](./9-utilities.md)

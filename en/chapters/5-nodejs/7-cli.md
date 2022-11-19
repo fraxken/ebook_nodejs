@@ -33,5 +33,5 @@ If you ever want to see a concrete case I invite you to look at the CLI of one o
 
 ---
 
-⬅️ [🐢 Node.js: 👽 Native API (native addon creation in C and C++)](./native-api.md) |
-➡️ [🐢 Node.js: 📦 Packages](./packages.md)
+⬅️ [🐢 Node.js: 👽 Native API (native addon creation in C and C++)](./6-native-api.md) |
+➡️ [🐢 Node.js: 📦 Packages](./8-packages.md)

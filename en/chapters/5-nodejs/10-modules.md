@@ -44,5 +44,5 @@ Articles related to ESM
 
 ---
 
-⬅️ [🐢 Node.js: 🔍 Debugging & Profiling](./debugging-and-profiling.md) |
-➡️ [🐢 Node.js: WebSocket](./websocket.md)
+⬅️ [🐢 Node.js: 🔍 Debugging & Profiling](./9-debugging-and-profiling.md) |
+➡️ [🐢 Node.js: WebSocket](./11-websocket.md)

@@ -30,5 +30,5 @@ console.log(crypto.randomUUID());
 
 ---
 
-⬅️ [🌟 The different core modules: async_hooks](./async_hooks.md) |
-➡️ [🐢 Node.js: 📦 npm package archive](../npm-package-archive.md)
+⬅️ [🌟 The different core modules: async_hooks](./15-async_hooks.md) |
+➡️ [🐢 Node.js: 📦 npm package archive](../14-npm-package-archive.md)

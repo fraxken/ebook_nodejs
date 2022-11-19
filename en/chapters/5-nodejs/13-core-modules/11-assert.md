@@ -17,5 +17,5 @@ assert.match("I will pass", /pass/);
 
 ---
 
-⬅️ [🌟 The different core modules: VM](./vm.md) |
-➡️ [🌟 The different core modules: Zlib](./zlib.md)
+⬅️ [🌟 The different core modules: VM](./10-vm.md) |
+➡️ [🌟 The different core modules: Zlib](./12-zlib.md)

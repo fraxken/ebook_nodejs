@@ -31,5 +31,5 @@ This is for example the case in the [SlimIO/Config](https://github.com/SlimIO/Co
 
 ---
 
-⬅️ [🌟 The different core modules: FileSystem](./fs.md) |
-➡️ [🌟 The different core modules: URL (API WHATWG)](./url.md)
+⬅️ [🌟 The different core modules: FileSystem](./4-fs.md) |
+➡️ [🌟 The different core modules: URL (API WHATWG)](./6-url.md)

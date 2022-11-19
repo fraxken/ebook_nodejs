@@ -30,5 +30,5 @@ console.log(path.extname("boo.js")); // .js
 
 ---
 
-⬅️ [🌟 The different core modules: Events](./events.md) |
-➡️ [🌟 The different core modules: FileSystem](./fs.md)
+⬅️ [🌟 The different core modules: Events](./2-events.md) |
+➡️ [🌟 The different core modules: FileSystem](./4-fs.md)

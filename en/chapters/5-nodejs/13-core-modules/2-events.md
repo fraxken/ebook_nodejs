@@ -68,5 +68,5 @@ for await (const [data] of on(ee, "data")) {
 
 ---
 
-⬅️ [🌟 The different core modules: Console](./console.md) |
-➡️ [🌟 The different core modules: Path](./path.md)
+⬅️ [🌟 The different core modules: Console](./1_console.md) |
+➡️ [🌟 The different core modules: Path](./3-path.md)

@@ -128,5 +128,5 @@ There is a framework called [Kuzzle](https://kuzzle.io/) that I didn't really kn
 
 ---
 
-⬅️ [🐢 Node.js: 🐥 Resources for beginners](./beginners-resources.md) |
-➡️ [🐢 Node.js: 📰 Conférences and Articles](./conf-and-articles.md)
+⬅️ [🐢 Node.js: 🐥 Resources for beginners](./2-beginners-resources.md) |
+➡️ [🐢 Node.js: 📰 Conférences and Articles](./4-conf-and-articles.md)

@@ -34,5 +34,5 @@ console.timeEnd('100-elements'));
 [Previous](../unit-testing-and-coverage.md)
 [Next](./console.md)
 
-⬅️ [📊 Unit testing and coverage](../unit-testing-and-coverage.md) |
-➡️ [🌟 The different core modules: Events](./events.md)
+⬅️ [📊 Unit testing and coverage](../12-unit-testing-and-coverage.md) |
+➡️ [🌟 The different core modules: Events](./2-events.md)

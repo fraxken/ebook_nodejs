@@ -30,5 +30,5 @@ If you have to manage archives in .tar or .zip I recommend the following package
 
 ---
 
-⬅️ [🌟 The different core modules: Assert](./assert.md) |
-➡️ [🌟 The different core modules: Readline](./readline.md)
+⬅️ [🌟 The different core modules: Assert](./11-assert.md) |
+➡️ [🌟 The different core modules: Readline](./13-readline.md)

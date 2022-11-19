@@ -37,5 +37,5 @@ Bonus: [How to migrate from querystring to URLSearchParams in Node.js](https://w
 
 ---
 
-⬅️ [🌟 The different core modules: Timers](./timers.md) |
-➡️ [🌟 The different core modules: OS](./os.md)
+⬅️ [🌟 The different core modules: Timers](./5-timers.md) |
+➡️ [🌟 The different core modules: OS](./7-os.md)
