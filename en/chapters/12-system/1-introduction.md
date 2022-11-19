@@ -10,5 +10,5 @@ It is nevertheless important to know how to manage at least (most of the time it
 
 ---
 
-⬅️ [🔬 Monitoring: Others](../monitoring/introduction.md) |
-➡️ [💻 System: Scripting: Shell, Bash & Powershell](./scripting.md)
+⬅️ [🔬 Monitoring: Others](../11-monitoring/1-introduction.md) |
+➡️ [💻 System: Scripting: Shell, Bash & Powershell](./2-scripting.md)

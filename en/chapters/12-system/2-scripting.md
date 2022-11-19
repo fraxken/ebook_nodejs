@@ -29,5 +29,5 @@ function probeList {
 
 ---
 
-⬅️ [💻 System: Introduction](./introduction.md) |
-➡️ [💖 Thanks](../thanks/thanks.md)
+⬅️ [💻 System: Introduction](./1-introduction.md) |
+➡️ [💖 Thanks](../13-thanks/1-thanks.md)
