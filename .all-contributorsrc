@@ -74,6 +74,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "alexandrecoin",
+      "name": "Alexandre Coin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36371437?v=4",
+      "profile": "https://alexandrecoin.hashnode.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -81,5 +90,6 @@
   "projectOwner": "fraxken",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
