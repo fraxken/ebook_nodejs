@@ -5,9 +5,13 @@
 &nbsp;
 ### Introduction
 
-When you want to become better in Node.js it is important to understand at least how the event-loop (provided by the [libuv](https://github.com/libuv/libuv) project) works to know in which order your code will be executed.
+When you want to become better in Node.js it is imperative to understand how the event-loop (provided by the [libuv](https://github.com/libuv/libuv) project) works and reacts for the following reasons;
 
-Can you guess the order of the logs?
+- Get a better understanding of the logic and execution order of your code.
+- Optimize and guarantee the performance of your application.
+- Simply deepen your knowledge of your technical stack.
+
+Here a little challenge, can you guess the order of the logs?
 
 ```js
 async function a(val) {
@@ -43,7 +47,7 @@ Promise.all(promises);
 
 When we talk about events-loop we often talk about the [Reactor pattern](https://en.wikipedia.org/wiki/Reactor_pattern) since 1996 (it's the principle that defines the fundamentals and that will allow you to understand other competition patterns like [Proactor](https://en.wikipedia.org/wiki/Proactor_pattern)).
 
-In the context of an Event-loop/Reactor we often also speak of [Round-robin](https://en.wikipedia.org/wiki/Round-robin_scheduling) and [Multiplexing](https://en.wikipedia.org/wiki/Multiplexing) (and Demultiplexing).
+In the context of an Event-loop/Reactor we often also speak of [Round-robin](https://en.wikipedia.org/wiki/Round-robin_scheduling) algorithm and Events demultiplexing.
 
 Simple diagram of a Reactor (events loop).
 

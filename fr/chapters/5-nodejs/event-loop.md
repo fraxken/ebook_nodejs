@@ -6,9 +6,13 @@
 
 ### Introduction
 
-Quand vous souhaitez devenir meilleur en Node.js il est important de comprendre a minima comment l’event-loop (fourni par le projet [libuv](https://github.com/libuv/libuv)) fonctionne pour savoir dans quel ordre votre code sera exécuté.
+Quand vous souhaitez devenir meilleur en Node.js il est impératif de comprendre comment l’event-loop (fourni par le projet [libuv](https://github.com/libuv/libuv)) fonctionne et réagit pour notamment:
 
-Pouvez-vous deviner l’ordre des logs ?
+- Mieux comprendre la logique et l'ordre d'exécution de votre code.
+- Optimiser et garantir les performances de votre application.
+- Tout simplement approfondir vos connaissances sur votre stack technique.
+
+Petit challenge, pouvez-vous deviner l’ordre des logs ?
 
 ```js
 async function a(val) {
@@ -43,11 +47,11 @@ Promise.all(promises);
 
 Quand il est question d’events-loop on parle souvent de [Reactor pattern](https://en.wikipedia.org/wiki/Reactor_pattern) depuis 1996 (c'est le principe qui définit les fondamentaux et qui pourra notamment vous permettre de comprendre d’autres pattern de concurrence comme [Proactor](https://en.wikipedia.org/wiki/Proactor_pattern)).
 
-Dans le cadre d’une Event-loop/Reactor on parlera souvent aussi de [Round-robin](https://en.wikipedia.org/wiki/Round-robin_scheduling) et de [Multiplexing](https://en.wikipedia.org/wiki/Multiplexing) (et Demultiplexing).
+Dans le cadre d’une Event-loop/Reactor on parlera souvent aussi d'algorithme [Round-robin](https://en.wikipedia.org/wiki/Round-robin_scheduling) et Demultiplexing d'évènements.
 
 Schéma simple d’un Reactor (events loop).
 
-<img src="./../../../assets/nodejs/event-loop/reactor-event-loop.png" alt="reactor event loop" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/reactor-event-loop.png" alt="reactor event loop" width="800"/>
 
 Le réacteur prend en input un évènement (lire un fichier, envoyer un paquet sur le réseau) qui aura un cycle de vie prédéfini au sein de la loop en fonction de sa nature (et de l’implémentation). Les I/O bloquant seront, la plupart du temps, gérés au sein d’abstractions bas niveau fournies par le système comme epoll, kqueue et event ports (tout dépend du système d’exploitation cible). Quand il n’est pas possible d’utiliser les ressources du système, des threads seront bien souvent créés.
 
@@ -57,7 +61,7 @@ Lien bonus pour les motivés: EN [Reactor - An Object Behavioral Pattern for Dem
 
 ### 🎥 Un peu d’histoire
 
-<img src="./../../../assets/nodejs/event-loop/event-loop-history.png" alt="event loop history" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/event-loop-history.png" alt="event loop history" width="800"/>
 
 La notion d'[event](<https://en.wikipedia.org/wiki/Event_(computing>), event-driven et [event-loop](https://en.wikipedia.org/wiki/Event_loop) ne date pas d’hier et les premières apparitions date des années 80 (même si le pattern est devenu fort populaire depuis une dizaine d’années grâce à l’apparition de lib comme Libuv ou plus récemment [Tokio](https://github.com/tokio-rs/tokio) sur Rust).
 
@@ -75,7 +79,7 @@ Il est important de comprendre comment elle fonctionne a minima car l’exécuti
 
 Le schéma ci-dessous est un schéma que j’ai construit pour représenter les différentes phases de l’event-loop (vous noterez la claire séparation entre votre code, la loop et le système d’exploitation).
 
-<img src="./../../../assets/nodejs/event-loop/event-loop-phase.png" alt="event loop phase" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/event-loop-phase.png" alt="event loop phase" width="800"/>
 
 Sur le sujet je vous recommande d’aller lire en premier lieu les pages suivantes :
 
@@ -87,7 +91,7 @@ Sur le sujet je vous recommande d’aller lire en premier lieu les pages suivant
 
 Node.js event-loop par moi ([version HD ici](https://docs.google.com/drawings/d/1UOJqpU8Zwju7kaPRFBOtbO0iRGBuzW_gr2zzKFOHaAU/edit?usp=sharing)).
 
-<img src="./../../../assets/nodejs/event-loop/Libuv-Event-loop-phases.png" alt="Libuv event loop phases" width="600"/>
+<img src="./../../../assets/nodejs/event-loop/Libuv-Event-loop-phases.png" alt="Libuv event loop phases" width="800"/>
 
 Divers articles de vulgarisation. Ils peuvent vous permettre de mieux comprendre divers sujets vus plus haut d’une façon plus abordable :
 
