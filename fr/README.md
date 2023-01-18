@@ -15,7 +15,7 @@ Ce document n’est pas figé et il évoluera autant que je l’estime nécessai
   - [👊 Pour qui ?](./chapters/1-introduction/introduction.md#-pour-qui-)
   - [💬 Pourquoi ?](./chapters/1-introduction/introduction.md#-pourquoi-)
   - [📌 Légendes](./chapters/1-introduction/introduction.md#-legendes)
-- [JavaScript](./chapters/2-javascript/introduction.md)
+- [JavaScript](./chapters/2-javascript/1-introduction.md)
   - [🌞 Introduction](./chapters/2-javascript/1-introduction.md)
   - [📕 Dédier un temps quotidien à la lecture](./chapters/2-javascript/2-lecture.md)
     - [📖📐 La pratique avec un livre](./chapters/2-javascript/2-lecture.md#-la-pratique-avec-un-livre)
