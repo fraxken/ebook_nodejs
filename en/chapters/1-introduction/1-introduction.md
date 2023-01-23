@@ -31,17 +31,6 @@ It is always a pleasure for me to help others and share my knowledge and referen
 
 It is also an opportunity for me to work on building a document that brings together much of what has made up my journey 📚 (**and potentially challenge myself and do some new research**). This should make it much easier for me personally to train juniors and mentees by helping them with my own document 💡.
 
-&nbsp;
-## 😬 The required investment
-
-Becoming a Node.js back-end developer requires a lot of courage 😳 and an investment often much more focused **on JavaScript** as well as various notions like architecture, testing etc. The front-end is very largely dominant in the JavaScript ecosystem and sometimes this can be a source of pressure for a beginner (even at my level of expertise it's not always obvious... Last year I was recommended to do front-end to have more missions 😒).
-
-There are inevitably fewer opportunities than on the front end, but on the other hand it also means that there are **far fewer Junior candidates who specialize** in JavaScript back-end. Many companies will find themselves in a position where the candidates for an offer are mostly developers with non-correlated back-end experience (or not enough 😱).
-
-Obviously you will have to invest a lot of time in learning and practicing to prove your motivation with actions. Nowadays this often starts by breaking the belief that doing a CRUD API with "**express**" will be enough to get you a job (this is less and less the case ⛔).
-
-The purpose of this document is to provide you with a set of references that will help you along the way (at least as much as possible... this document remains impregnated with my own strengths and weaknesses).
-
 ## 📌 Legends
 
 The document includes a set of references (links) to videos and articles that are segmented by level of difficulty and language (FR French or EN English). 
