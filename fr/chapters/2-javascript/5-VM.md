@@ -51,4 +51,4 @@ Et même les personnes ayant beaucoup d’expérience (dont notamment les contri
 ---
 
 ⬅️ [JavaScript: 🌌 Cours en ligne, talks et articles](./4-online-courses-talks-articles.md) |
-➡️ [⚡ ECMAscript](../3-ecmascript/javascript-or-ecmascript.md)
+➡️ [⚡ ECMAscript](../3-ecmascript/1-javascript-or-ecmascript.md)
