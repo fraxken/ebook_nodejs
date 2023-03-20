@@ -14,6 +14,7 @@ S'entraîner par le biais de différents exercices et challenges est important c
 Les liens suivant vous permettront d’effectuer un ensemble de workshops et challenges:
 - EN **[Débutant]** [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - FR **[Débutant]** [https://nodeschool.io/](https://nodeschool.io/) (Il y a plus d’une dizaine de workshops vraiment très intéressants à faire, **voir la section suivante**).
+- FR **[Débutant]** [https://www.thearenaproject.co/](https://www.thearenaproject.co/) Challenge tes compétences en shell, algorithme et TypeScript dans l'arène le tout accompagné d'une communauté française sur Discord.
 - EN 🆕 **[Débutant]** [JavaScript Algorithms Crash Course - Learn Algorithms & "Big O" from the Ground Up!](https://www.youtube.com/watch?v=JgWm6sQwS_I)
 - EN **[Intermédiaire]** [https://jskatas.org/](https://jskatas.org/)
 - EN **[Intermédiaire]** [https://warriorjs.com/](https://warriorjs.com/)
