@@ -19,7 +19,9 @@
   "homepage": "https://github.com/fraxken/ebook_nodejs#readme",
   "dependencies": {
     "@nodesecure/fs-walk": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
     "markdown-pdf": "^11.0.0",
+    "through": "^2.3.8",
     "through2": "^4.0.2"
   }
 }
