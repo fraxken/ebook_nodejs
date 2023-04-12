@@ -27,10 +27,11 @@ If you're a beginner or new to the [Nodeschool](https://nodeschool.io/) workshop
 
 Note that you're going to need to get comfortable with command line instructions 😬 (**this is a good opportunity to get started if you haven't yet**).
 
-Among the workshops I recommend (more or less in order):
+> ⚠️ Some workshops are no longer maintained
 
+Among the workshops I recommend (more or less in order):
 - **[Simple]** [JavaScripting](https://www.github.com/sethvincent/javascripting)
-- [Learnyounode](https://github.com/workshopper/learnyounode)
+- ~~[Learnyounode](https://github.com/workshopper/learnyounode)~~
 - **[Discovery]** [How to npm](https://github.com/workshopper/how-to-npm)
 - [Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
 - **[Discovery]** [Planet proto](https://github.com/sporto/planetproto)
@@ -38,7 +39,7 @@ Among the workshops I recommend (more or less in order):
 - **[Important]** [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt)
 - [Learn generators](https://github.com/isRuslan/learn-generators)
 - [Bytewiser](https://github.com/maxogden/bytewiser)
-- **[Hard]** [Stream Adventure](https://www.github.com/substack/stream-adventure)
+- **[Hard]** ~~[Stream Adventure](https://www.github.com/substack/stream-adventure)~~
 
 &nbsp;
 ### 🔎 The other websites
