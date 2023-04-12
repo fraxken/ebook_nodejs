@@ -42,6 +42,24 @@ Among the workshops I recommend (more or less in order):
 - **[Hard]** ~~[Stream Adventure](https://www.github.com/substack/stream-adventure)~~
 
 &nbsp;
+### Bradley challenges
+
+Beware these challenges are very difficult (and also require Node.js and V8 knowledge).
+
+- [Day 1: Surviving the Freeze (Warmup)](https://gist.github.com/bmeck/ad2a388aa67fea65bf58fe0c4b5ae64e)
+- [Day 2: Cleaning up the mess](https://gist.github.com/bmeck/7e84cf701b4b027384a1e22fedd67549)
+- [Day 3: Disappearing Act](https://gist.github.com/bmeck/92a0066a6fe19b0b465980663e080761)
+- [Day 4: Silent connection, holy connection](https://gist.github.com/bmeck/1240c7c7ad6c3ca7d2b6a851a8963550)
+- [Day 5: Are we done yet?](https://gist.github.com/bmeck/23974c8f5638f2e2c252a77af030d772)
+- [Day 6: Is anybody listening?](https://gist.github.com/bmeck/89fbf0bf9e2baa3b907be7f2bf1a1372)
+- [Day 7: Under the ice](https://gist.github.com/bmeck/56db23f5c55602d61c31e42e3e29911a)
+- [Day 8: Immaculate coercion](https://gist.github.com/bmeck/84138667da71b9264c701dcc2141433d)
+- [Day 9: Bundlers Hate This](https://gist.github.com/bmeck/01e1177129f58892a5764bf40df17d9c)
+- [Day 10: Back to Algorithms](https://gist.github.com/bmeck/7eb3ff3696bca969a44f058b80de3c05)
+- [Day 11: The old switcheroo](https://twitter.com/bradleymeck/status/1478501495695986688)
+- [Day 12: You say goodbye, I say hello](https://gist.github.com/bmeck/66261bee5c7f1228f70b0d733101de9c)
+
+&nbsp;
 ### 🔎 The other websites
 
 Various websites offering various challenges and exercises:

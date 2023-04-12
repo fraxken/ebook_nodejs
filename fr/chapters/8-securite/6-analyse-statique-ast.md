@@ -11,6 +11,8 @@ Autres talks en lien avec les Abstract Syntax Trees :
 
 - EN [Machine Powered Refactoring: Leverage AST's to Push Your Legacy Code (& the Web) Forward](https://www.youtube.com/watch?v=s8g_cBfm9d0&list=PLfMzBWSH11xaZvhv1X5Fq1H-oMdnAtG6k&index=2)
 - EN [What the AST ?](https://www.youtube.com/watch?v=BtD2OrlLBhI&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=36)
+- EN [What is an Abstract Syntax Tree? (Nearform)](https://www.nearform.com/blog/what-is-an-abstract-syntax-tree/)
+- FR [Sunrise #7 - AST avec Antoine COULON](https://www.youtube.com/watch?v=8l2ByutdFJ8)
 
 Articles écrivent par les membres core de l'équipe NodeSecure:
 

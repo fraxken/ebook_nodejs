@@ -24,6 +24,7 @@ Liste d’autres packages sur lesquels je garde un oeil :
 - [Private npm Registry](https://github.com/verdaccio/verdaccio)
 - [Node watch](https://github.com/yuanchuan/node-watch#readme) (A wrapper and enhancements for fs.watch)
 - [ms](https://github.com/vercel/ms#readme) (Tiny millisecond conversion utility)
+- [typebox](https://github.com/sinclairzx81/typebox) (JSON Schema Type Builder with Static Type Resolution for TypeScript)
 
 > 📌 Sentez-vous libre de me faire des propositions.
 

@@ -26,6 +26,7 @@ If you have the opportunity or an idea of packages then I strongly recommend you
 - [npm and the Future of JavaScript - Laurie Voss, npm, Inc.](https://www.youtube.com/watch?v=0PU-4GGLzGg)
 - [Radical Modularity - Aria Stewart, npm, Inc.](https://www.youtube.com/watch?v=SsIdWFtp2QA)
 - [Awesome npm](https://github.com/sindresorhus/awesome-npm)
+- EN [Super Fast & Efficient Package Manager with Zoltan Kochan, PNPM Creator](https://www.youtube.com/watch?v=r14BwUB6wZA)
 
 It is possible to use the [npm link](https://docs.npmjs.com/cli/v6/commands/npm-link) command to work with packages or modules that are not yet published in the npm registry.
 

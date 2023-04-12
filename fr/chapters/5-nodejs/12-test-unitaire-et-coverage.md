@@ -20,6 +20,8 @@ Talks et articles:
 - EN [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&feature=emb_logo)
 - EN [Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - EN [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- EN [Writing Tests With Fastify and Node Test Runner](https://www.nearform.com/blog/writing-tests-with-fastify-and-node-test-runner/)
+- EN [How to create E2E tests in Node.js with no frameworks - step by step!](https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step)
 
 ### 💃 Méthodologies
 

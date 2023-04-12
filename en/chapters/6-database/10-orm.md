@@ -15,6 +15,8 @@ Note that if you use the Adonis.js framework they also have their own ORM, [Luci
 
 There are a whole bunch of packages available in the ecosystem, but I am not necessarily convinced by most of them (Afterwards there are surely some that I myself have not yet discovered).
 
+> Bonus: [I would never use an ORM - Matteo Collina](https://www.youtube.com/watch?v=atABji4xqiI)
+
 ---
 
 ⬅️ [💾 Database: Other databases](./9-other-db.md) |

@@ -20,6 +20,7 @@ Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 - EN [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
 - EN [Node.js Memory Limits - What You Should Know](https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html)
 - EN [The Importance of Measuring Memory Allocation in Node.js Applications](https://www.nearform.com/blog/tracking-memory-allocation-node-js/)
+- EN [Monitoring Node.js Performance](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
 
 Si vous êtes plutôt à la recherche d’outils (pour de la génération de flamegraphs par exemple).
 
