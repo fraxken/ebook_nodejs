@@ -6,12 +6,10 @@ There are many conferences on Node.js but we will mainly focus on talks from the
 
 Most of these talks are available on the [Node.js](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ) youtube channel (there are several hundred talks so they are not all referenced below).
 
-- [**Beginner**] [Node.js 12: A Decade of Node.js by Beth Griggs](https://www.youtube.com/watch?v=HP4N0u_dEgI&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=53)
 - [**Beginner**] ["A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams](https://www.youtube.com/watch?v=aGJTXdXQN2o)
 - [**Beginner**] [The Module Ecosystem - The Stress of Success](https://www.youtube.com/watch?v=swHbRSzDZxY&feature=emb_logo)
 - [**Beginner**] [Modern JavaScript Infrastructures - Maël Nison](https://www.youtube.com/watch?v=F5OjiN9OcdQ&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=20)
 - [**Beginner**] [Bringing JavaScript Back to Life](https://www.youtube.com/watch?v=XQIo9knnb2s)
-- [**Beginner**] [Web APIs in Node.js Core: Past, Present, and Future](https://www.youtube.com/watch?v=ceiUozUFF3Y&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=41)
 - [**Beginner**] [Anna Henningsen - Node.js and the struggles of being an EventTarget](https://www.youtube.com/watch?v=SOPC3aLoD4U&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=10)
 - [**Beginner**] [Aligning Node.js with the Web Platform - James M Snell, NearForm](https://www.youtube.com/watch?v=6EDaayYnw6M)
 - [**To know**] [Broken Promises by James Snell](https://www.youtube.com/watch?v=XV-u_Ow47s0&feature=emb_logo)
@@ -20,12 +18,17 @@ Most of these talks are available on the [Node.js](https://www.youtube.com/chann
 - [**To know**] [Behind the Scenes of Node.js Distributions](https://www.youtube.com/watch?v=1nYswjtEUvE&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=13)
 - [**To know**] [Packaging a node.js binary for a platform or two - Irina Shestak](https://www.youtube.com/watch?v=1t1VgMaEs0I&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=21)
 - [**To know**] [Node.js startup performance - Joyee Cheung](https://www.youtube.com/watch?v=G36lrPrF09c&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=18)
+- [**To know**] [Road to a fast url parser in Node.js - Yagiz Nizipli](https://www.youtube.com/watch?v=hT25FOx5kNQ)
+- [**To know**] [The Life and Times of a Node.js Release - Danielle Adams](https://www.youtube.com/watch?v=OiSBodpU174)
+- [**Intermediate**] [The Secrets Behind High Performance With Node.js](https://www.nearform.com/blog/the-secrets-behind-high-performance-with-node-js/)
+- [**Intermediate**] [Managing load in Node.js with under-pressure](https://www.nearform.com/blog/managing-load-in-node-js-with-under-pressure/)
 - [**Intermediate**] [How Node.js bootstraps itself by Joyee Cheung](https://www.youtube.com/watch?v=bwiLlcGvFEk&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=52)
 - [**Intermediate**] [The Unsung Hero Story of Events, Streams and Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo)
 - [**Intermediate**] [Async Iterators: A New Future for Streams by Stephen Belanger](https://www.youtube.com/watch?v=YVdw1MDHVZs&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=37)
 - [**Intermediate**] [Stream into the Future - Matteo Collina, NearForm](https://www.youtube.com/watch?v=dEFdt_6fW-0&feature=emb_logo)
 - [**Intermediate**] [llhttp - new HTTP 1.1 parser for Node.js by Fedor Indutny](https://www.youtube.com/watch?v=x3k_5Mi66sY&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=15)
 - [**Intermediate**] [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
+- [**Intermediate**] [Node.js Multithreading, Part 1](https://www.nearform.com/blog/node-js-multithreading-part-1/)
 - [**Intermediate**] [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 - [**Advanced**] [Multithreaded Logging with Pino - Matteo Collina](https://www.youtube.com/watch?v=vETUVN-KEgc)
 

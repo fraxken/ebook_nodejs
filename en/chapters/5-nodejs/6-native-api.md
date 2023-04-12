@@ -34,12 +34,17 @@ Talks on the native Node.js API :
 - [Next Generation N-API: A Hands-on Workshop](https://www.youtube.com/watch?v=-v4Q0y4CeRA&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=44)
 - [N-API on JerryScript](https://www.youtube.com/watch?v=Pxabz_FA1IU&list=PLfMzBWSH11xaZvhv1X5Fq1H-oMdnAtG6k&index=69)
 
+Bonus:
+
+- EN [Introducing nsuv (NodeSource)](https://nodesource.com/blog/intro-nsuv)
+
 ### Rust
 
 Various links to make native addons with Rust rather than C and C++ :
 - [Node.js N-API for Rust.](https://www.youtube.com/watch?v=UzTPBy2acio)
 - [NAPI-RS](https://github.com/napi-rs)
 - [Supercharge Your Node.js With Rust](https://yieldcode.blog/supercharge-nodejs-with-rust/)
+- [Heavy computation in Node.js with Rust - Jean Burellier](https://www.youtube.com/watch?v=yme8ZZqa8NQ)
 
 ---
 

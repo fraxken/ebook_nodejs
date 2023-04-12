@@ -15,6 +15,8 @@ A noter que si vous utilisez le framework Adonis.js ils ont aussi leur propre OR
 
 Il y a tout un tas de packages disponibles dans l’écosystème, mais je ne suis pas forcément convaincu par la plupart d’entre eux (Après il y en a sûrement que je n’ai moi-même pas encore découvert).
 
+> Bonus: [I would never use an ORM - Matteo Collina](https://www.youtube.com/watch?v=atABji4xqiI)
+
 ---
 
 ⬅️ [💾 Database: SQLite](./9-autres-bdd.md) |

@@ -21,7 +21,14 @@ Autres ressources (articles, talks, études):
 - EN [Trojan Source - Invisible Source Code Vulnerabilities](https://www.trojansource.codes/)
 - EN [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
 - EN [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
-- EN [Char Wars: The Path Traversal Strikes Back - Liran Tal | NodeConf EU 2022](https://www.youtube.com/watch?v=WGCmjvq6A6w&list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ&index=11)
+- EN [Char Wars: The Path Traversal Strikes Back - Liran Tal](https://www.youtube.com/watch?v=WGCmjvq6A6w&list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ&index=11)
+- EN [Eval all the strings! Hardened JavaScript - Zbyszek Tenerowicz](https://www.youtube.com/watch?v=Qjeh7Qo2u28)
+
+## Ebooks
+
+- [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com/)
+
+---
 
 Si vous êtes à la recherche d’une formation je vous recommande celle-ci faite par [Vladimir](https://twitter.com/poledesfetes) (collaborateur Node.js français): [Writing Secure Code in Node.js](https://www.infosecinstitute.com/skills/learning-paths/writing-secure-code-in-node-js/)
 

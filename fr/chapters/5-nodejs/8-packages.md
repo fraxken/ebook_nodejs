@@ -25,6 +25,7 @@ Si vous avez l’occasion ou une idée de packages alors je vous recommande fort
 - EN [npm and the Future of JavaScript - Laurie Voss, npm, Inc.](https://www.youtube.com/watch?v=0PU-4GGLzGg)
 - EN [Radical Modularity - Aria Stewart, npm, Inc.](https://www.youtube.com/watch?v=SsIdWFtp2QA)
 - EN [Awesome npm](https://github.com/sindresorhus/awesome-npm)
+- EN [Super Fast & Efficient Package Manager with Zoltan Kochan, PNPM Creator](https://www.youtube.com/watch?v=r14BwUB6wZA)
 
 Il est possible d’utiliser la commande [npm link](https://docs.npmjs.com/cli/v6/commands/npm-link) pour travailler avec des packages ou des modules qui ne sont pas encore publiés sur le registre npm.
 
