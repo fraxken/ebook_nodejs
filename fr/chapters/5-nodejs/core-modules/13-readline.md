@@ -24,23 +24,20 @@ for await (const line of readFileByLine("./input.txt")) {
     console.log(line);
 }
 ```
+
+> **Note** Avec les versions récentes de Node.js il est possible d'utiliser la méthode **readLines()** de FS.
+
 Parce que process.stdin est un Stream Readable il est aussi possible de créer des CLI (ou tout simplement des prompts).
 
 ```js
-import readline from "readline";
+import readline from "node:readline/promises";
 
-function prompt(query) {
-    const rl = readline.createInterface({
-        input: process.stdin, output: process.stdout
-    });
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
 
-    return new Promise((resolve) => {
-        rl.question(query, (response) => {
-            rl.close();
-            resolve(reponse);
-        });
-    });
-}
+const response = await rl.question(query);
 ```
 
 ---

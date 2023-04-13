@@ -88,6 +88,7 @@ Ce document n’est pas figé et il évoluera autant que je l’estime nécessai
     - [perf_hooks](./chapters/5-nodejs/core-modules/14-perf_hooks.md)
     - [async_hooks](./chapters/5-nodejs/core-modules/15-async_hooks.md)
     - [Crypto](./chapters/5-nodejs/core-modules/16-crypto.md)
+    - [V8](./chapters/5-nodejs/core-modules/17-crypto.md)
   - [📦 Archive de packages npm](./chapters/5-nodejs/13-archive-packages-npm.md)
 - [💾 Database](./chapters/6-database/1-introduction.md)
   - [Introduction](./chapters/6-database/1-introduction.md)

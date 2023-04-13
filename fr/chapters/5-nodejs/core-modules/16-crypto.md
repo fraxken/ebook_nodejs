@@ -17,7 +17,7 @@ crypto.createHash("sha256").update("hello").digest("hex");
 En ce qui me concerne j’utilise aussi souvent le module crypto pour générer des valeurs aléatoires :
 
 ```js
-const crypto = require("crypto");
+import crypto from "node:crypto";
 
 console.log(crypto.randomBytes(16).toString("hex"));
 // 1a68967e44d1c1ad187f003ab95f3cd1
@@ -32,4 +32,4 @@ console.log(crypto.randomUUID());
 ---
 
 ⬅️ [🌟 Les différents modules core: async_hooks](./15-async_hooks.md) |
-➡️ [🐢 Node.js: 📦 Archive de packages npm](../13-archive-packages-npm.md)
+➡️ [🌟 Les différents modules core: v8](./17-v8.md)

@@ -13,8 +13,8 @@ Pour un junior ce module est une bonne opportunité pour s'entraîner sur la ma�
 Par exemple aller récupérer la taille d’un répertoire, les extensions de tous les fichiers dans le répertoire etc.. Et optimalement de manière asynchrone en évitant au possible de faire des séries (en utilisant des méthodes comme [Promise.all](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Promise/all) et [Promise.allSettled](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Promise/allSettled)).
 
 ```js
-import fs from "fs/promises";
-import path from "path";
+import fs from "node:fs/promises";
+import path from "node:path";
 
 const [location = process.cwd()] = process.argv.slice(2);
 

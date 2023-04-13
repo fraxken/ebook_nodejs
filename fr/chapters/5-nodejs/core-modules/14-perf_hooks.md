@@ -9,7 +9,7 @@ Ce [module](https://nodejs.org/api/perf_hooks.html) fournit une implémentation 
 C’est un module vraiment cool qui va vous permettre de mesurer bien plus précisément les performances de méthodes JavaScript. Il est d’ailleurs fortement recommandé d’utiliser [performance.now()](https://nodejs.org/api/perf_hooks.html#perf_hooks_performance_now) plutôt que Date.now(). 
 
 ```js
-import { performance, PerformanceObserver } from "perf_hooks";
+import { performance, PerformanceObserver } from "node:perf_hooks";
 
 function someFunction() {
     console.log("hello world");
@@ -27,7 +27,12 @@ obs.observe({ entryTypes: ['function'] });
 wrapped();
 ```
 
-Dans SlimIO [nous utilisons](https://github.com/SlimIO/Addon/blob/5c5963c36fca462452f04b724e6050664fb27efc/src/callback.class.js) le module en combinaison avec des hooks Asynchrone pour nous permettre de générer des métriques sur les temps d'exécution de nos callbacks (ce qui nous permet de faire du self monitoring).
+Voici quelques cas d'usages;
+
+- Dans SlimIO [nous utilisons](https://github.com/SlimIO/Addon/blob/5c5963c36fca462452f04b724e6050664fb27efc/src/callback.class.js) le module en combinaison avec des hooks Asynchrone pour nous permettre de générer des métriques sur les temps d'exécution de nos callbacks (ce qui nous permet de faire du self monitoring).
+- Récupérer le temps d'exécution des routes sur Fastify avec le module [@fastify/routes-stats](https://github.com/fastify/fastify-routes-stats) (Excellente démonstration de l'API).
+
+---
 
 Le module perf_hooks vous permet aussi de faire du monitoring sur l’event-loop (voir la section monitoring en bas pour plus de ressources sur le sujet).
 
