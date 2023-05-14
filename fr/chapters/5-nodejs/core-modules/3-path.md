@@ -9,7 +9,7 @@ Le module [path](https://nodejs.org/api/path.html) fournit des utilitaires pour 
 Il sera la plupart du temps utilisé pour de la composition de chemin (si vous les faites à **<u>la main vous-même c’est que votre code n’est probablement pas cross-plateforme</u>**).
 
 ```js
-const path = require("node:path");
+import path from "node:path";
 
 // ⛔️ BAD
 const bad = __dirname + "/" + "path";
@@ -23,7 +23,7 @@ Les chemins ne sont pas construits de la même manière selon le système d’ex
 Le module path possède aussi un ensemble de méthodes qui vont vous permettre de récupérer les différentes parties qui composent le chemin d’un fichier ou dossier. Comme par exemple l’extension d’un fichier (que tous les juniors s’amusent à récupérer avec une RegExp ou avec des bidouilles .split etc).
 
 ```js
-const path = require("path");
+import path from "node:path";
 
 console.log(path.extname("boo.js")); // .js
 ```

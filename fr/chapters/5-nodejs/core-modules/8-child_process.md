@@ -13,7 +13,7 @@ import { promisify } from "util";
 
 const execAsync = promisify(exec);
 
-const { stdout } await execAsync("ls");
+const { stdout } = await execAsync("ls");
 console.log(stdout);
 ```
 

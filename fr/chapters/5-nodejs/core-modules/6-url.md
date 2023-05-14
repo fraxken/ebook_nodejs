@@ -28,7 +28,7 @@ Le constructeur s’occupera de valider l’URL pour vous (une erreur sera throw
 URL peut être aussi utilisé en ESM avec import.meta.url pour remplacer `__dirname`.
 
 ```js
-import { readFileSync} from "fs";
+import { readFileSync } from "node:fs";
 
 const buffer = readFileSync(new URL("./data.proto", import.meta.url));
 ```

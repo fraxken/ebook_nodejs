@@ -29,6 +29,22 @@ console.timeEnd('100-elements'));
 // prints 100-elements: 225.438ms
 ```
 
+Il est possible de créer une nouvelle instance de Console avant un `stdout` et `stderr` personnalisé.
+
+```js
+import fs from "node:fs";
+
+const logger = new Console({
+  stdout: fs.createWriteStream("./stdout.log"),
+  stderr: fs.createWriteStream("./stderr.log")
+});
+logger.log("hello world!");
+```
+
+La création d'une nouvelle instance de Console avec des sorties personnalisées pour stdout et stderr peut être utile dans les cas où vous souhaitez rediriger les sorties de console vers des fichiers de journalisation plutôt que vers la console standard.
+
+Cela peut être particulièrement utile lorsque vous exécutez une application en production, car cela vous permet de stocker les messages de journalisation dans des fichiers, ce qui peut faciliter la surveillance et l'analyse ultérieure des problèmes.
+
 ---
 
 ⬅️ [🐢 Node.js: 📊 Test unitaire et coverage](../12-test-unitaire-et-coverage.md) |

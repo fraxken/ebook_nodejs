@@ -7,9 +7,9 @@
 Le module util contient différentes petites functions utilitaires. Nous l’utilisons le plus souvent pour récupérer promisify qui nous permettent de convertir un callback en Promise.
 
 ```js
-import { promisify } from "util";
-import stream from "stream";
-import fs from "fs";
+import { promisify } from "node:util";
+import stream from "node:stream";
+import fs from "node:fs";
 
 const pipeline = promisify(stream.pipeline);
 
@@ -26,7 +26,7 @@ La function [deprecate()](https://nodejs.org/api/util.html#util_util_deprecate_f
 La méthode [inspect()](https://nodejs.org/api/util.html#util_util_inspect_object_showhidden_depth_colors) peut-être utile si vous avez besoin de logs des objets d’une manière spécifique (avec différents niveaux de profondeur etc). C’est la méthode utilisée under the hood quand vous utilisez des méthodes console.
 
 ```js
-import { inspect} from "util";
+import { inspect } from "node:util";
 
 const log = (str) => console.log(inspect(str, { compact: false, colors: true }));
 log({ data: "..." });

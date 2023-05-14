@@ -8,19 +8,26 @@ S’améliorer et s’éveiller sur des sujets comme le debug est très importan
 
 Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 
-- FR [Comment détecter un memory leak dans une application Node.Js ? PARTIE 1 `--trace-gc` flag (v8) par Tony Gorez](https://www.youtube.com/watch?v=nCamxCaLT2E)
 - EN [Node.js debugging best practices - Joyent](https://www.joyent.com/node-js/production/debug)
 - EN [Node.js official debugging guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 - EN [Node.js debugger API](https://nodejs.org/api/debugger.html)
 - EN [VS Code integrated tools for Node.js](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_debugging-your-node-application)
 - EN [Easy profiling for Node.js Applications](https://nodejs.org/en/docs/guides/simple-profiling/)
-- EN [Create a Dump of the V8 Heap in Nodejs](https://medium.com/better-programming/make-a-dump-of-the-v8-heap-and-inspect-for-your-node-app-b69f7b68c162)
 - EN [Node.js console API](https://nodejs.org/api/console.html) (there is not only console.log ^^).
 - EN [Clinic.js rises to the top in diagnosing Node.js performance issues](https://www.nearform.com/blog/clinicjs-rises-top-diagnosing-nodejs-performance/)
 - EN [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
+
+- EN [Monitoring Node.js Performance](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
+
+Des ressources plutôt autour de la gestion et debug de la mémoire (memory leak ...).
+
+- FR [Comment détecter un memory leak dans une application Node.Js ? PARTIE 1 `--trace-gc` flag (v8) par Tony Gorez](https://www.youtube.com/watch?v=nCamxCaLT2E)
+- EN [Tracing garbage collection (Official Node.js Guide)](https://nodejs.org/en/docs/guides/diagnostics/memory/using-gc-traces)
 - EN [Node.js Memory Limits - What You Should Know](https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html)
 - EN [The Importance of Measuring Memory Allocation in Node.js Applications](https://www.nearform.com/blog/tracking-memory-allocation-node-js/)
-- EN [Monitoring Node.js Performance](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
+- EN [Create a Dump of the V8 Heap in Nodejs](https://medium.com/better-programming/make-a-dump-of-the-v8-heap-and-inspect-for-your-node-app-b69f7b68c162)
+- EN [Finding memory leaks and CPU bottlenecks with Node.js debug tools - Vladimir de Turckheim](https://www.youtube.com/watch?v=F_qshjijxlE)
+- EN [Demystifying Memory Leaks and Profiling in Node.js - Ruben Bridgewater ](https://www.youtube.com/watch?v=Xj1OQzptrjk)
 
 Si vous êtes plutôt à la recherche d’outils (pour de la génération de flamegraphs par exemple).
 

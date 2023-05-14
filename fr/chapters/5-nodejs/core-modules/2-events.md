@@ -9,7 +9,7 @@ Le module [Events](https://nodejs.org/api/events.html) va permettre de créer et
 Les différents modules de Node.js comme HTTP, Net, Child process ainsi que les Streams sont majoritairement construits à l’aide d’Event Emitter. 
 
 ```js
-const fs = require("fs");
+const fs = require("node:fs");
 
 const stream = fs.createReadStream("./myFile.txt");
 stream.on("data", (chunk) => console.log(chunk));
@@ -25,7 +25,7 @@ Cela va nous permettre de mettre en place diverses patterns ou le code fonctionn
 
 
 ```js
-import { EventEmitter, once } from "events";
+import { EventEmitter, once } from "node:events";
 
 const ee = new EventEmitter();
 setImmediate(() => ee.emit("foo", "hello world!"));
@@ -37,7 +37,7 @@ console.log(message);
 Une class en JavaScript peut s'étendre d’un EventEmitter.
 
 ```js
-import { EventEmitter } from "events";
+import { EventEmitter } from "node:events";
 
 class User extends EventEmitter {
     sayHello() {
@@ -54,7 +54,7 @@ C’est pratique si vous voulez construire un système modulaire ou différent o
 Il est aussi bon de noter que depuis quelques versions la méthode “on” d'events est AsyncIterable. 
 
 ```js
-import { EventEmitter, on } from "events";
+import { EventEmitter, on } from "node:events";
 
 const ee = new EventEmitter();
 setImmediate(() => {
