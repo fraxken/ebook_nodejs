@@ -27,6 +27,11 @@ Liens et ressources pour du monitoring d’API HTTP :
 
 - [Health Check Response Format for HTTP APIs](https://tools.ietf.org/id/draft-inadarei-api-health-check-01.html)
 
+## Logs
+Liens et ressources pour du monitoring de logs :
+
+- [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
+
 ---
 
 ⬅️ [🌇 Architecture & Paradigmes: Autres](../10-architecture/9-others.md) |

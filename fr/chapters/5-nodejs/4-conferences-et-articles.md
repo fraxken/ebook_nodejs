@@ -7,11 +7,8 @@ Il existe beaucoup de conférences sur Node.js mais nous allons principalement n
 La plupart de ces talks sont disponibles sur la chaîne youtube [Node.js](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ) ou [Nearform](https://www.youtube.com/c/nearForm/videos) (il y a plusieurs centaines de talks donc il ne sont pas tous référencés ci-dessous).
 
 - EN **[Débutant]** ["A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams](https://www.youtube.com/watch?v=aGJTXdXQN2o)
-- EN **[Débutant]** [The Module Ecosystem - The Stress of Success](https://www.youtube.com/watch?v=swHbRSzDZxY&feature=emb_logo)
-- EN **[Débutant]** [Modern JavaScript Infrastructures - Maël Nison](https://www.youtube.com/watch?v=F5OjiN9OcdQ&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=20)
 - EN **[Débutant]** [Bringing JavaScript Back to Life](https://www.youtube.com/watch?v=XQIo9knnb2s)
 - EN **[Débutant]** [Anna Henningsen - Node.js and the struggles of being an EventTarget](https://www.youtube.com/watch?v=SOPC3aLoD4U&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=10)
-- EN **[Débutant]** [Aligning Node.js with the Web Platform - James M Snell, NearForm](https://www.youtube.com/watch?v=6EDaayYnw6M)
 - EN **[À savoir]** [Broken Promises by James Snell](https://www.youtube.com/watch?v=XV-u_Ow47s0&feature=emb_logo)
 - EN **[À savoir]** [Broken Promises, The Workshop Edition - Matteo Collina and James Snell](https://www.youtube.com/watch?v=yRyfr1Qcf34&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=11)
 - EN **[À savoir]** [Lightning Talk: Everything you Didn't Want to Know about Source Maps](https://www.youtube.com/watch?v=JuKIUYi8-Ec)
@@ -51,6 +48,9 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[Intermédiaire]** [Node.js Multithreading, Part 1](https://www.nearform.com/blog/node-js-multithreading-part-1/)
 - FR **[Avancé]** [Implémenter et consommer les Streams « Readable » et « Writable » de Node.js](https://blog.engineering.publicissapient.fr/2020/02/19/implementer-et-consommer-les-streams-readable-et-writable-de-node-js/)
 - EN **[Avancé]** [Our Journey to a High-Performance Node.js Library](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)
+- EN **[Avancé]** [Developer Initiates I/O Operation. You Won't Believe What Happens Next.](https://cjihrig.com/node_libuv_io)
+- EN **[Avancé]** [HTTP Proxy Tunneling](https://blog.rafaelgss.com.br/http-proxy-tunneling)
+- EN **[Avancé]** [Implementing Node.js URL parser in WebAssembly with Rust](https://www.yagiz.co/implementing-node-js-url-parser-in-webassembly-with-rust)
 
 Vidéo sur ma chaine Youtube:
 - [AbortSignal avec Node.js](https://www.youtube.com/watch?v=oA4h10m_aZM)

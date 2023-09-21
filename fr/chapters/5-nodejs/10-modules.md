@@ -38,6 +38,7 @@ Je vous recommande d’écouter les talks suivant pour mieux comprendre le sujet
 
 Articles en lien avec ESM
 
+- FR **[Débutant]** [ESM et CJS - le match](https://www.audreydoyen.com/blog/ESM-et-CJS)
 - [Get Ready For ESM - Sindresorhus](https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77)
 - [Pure ESM package - Sindresorhus](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)
 - 🆕 [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)

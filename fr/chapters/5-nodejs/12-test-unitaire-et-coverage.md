@@ -4,22 +4,19 @@
 
 Réaliser des tests unitaires est une bonne solution pour s'entraîner et mieux comprendre comment un code X ou Y fonctionne (et vous force à étudier diverses fonctionnalités de JavaScript). Néanmoins il peut vite être difficile de s’y retrouver dans un écosystème où le choix de framework/lib est vaste :
 
-[Mocha](https://mochajs.org/), [Ava](https://github.com/avajs/ava), [Jest](https://jestjs.io/), [Japa](https://github.com/thetutlage/japa), [Tape](https://www.npmjs.com/package/tape), [uvu](https://github.com/lukeed/uvu) et beaucoup d’autres...
+[Mocha](https://mochajs.org/), [Ava](https://github.com/avajs/ava), [Japa](https://github.com/thetutlage/japa), [Tape](https://www.npmjs.com/package/tape) et beaucoup d’autres...
 
 Certains auront l’avantage d’être plus complet (plus lourd) et d’autres plus simpliste. Quelquefois cela se joue sur différents détails comme le choix de la librairie d’assertion ([Chai.js](https://www.chaijs.com/) par exemple) ou bien l’inclusion du coverage par défaut.
 
-En ce qui me concerne, après plusieurs années d’expérience avec ces différentes librairies, ma préférence penche plutôt pour [Jest](https://jestjs.io/) qui offre une expérience d’ensemble plutôt complète et agréable. Néanmoins, il m’arrive pour des projets très spécifiques, d’utiliser des libs de testing simples en combinaison avec C8 (de plus [Jest peut s’avérer problématique à cause de la réécriture du scope global sur Node.js](https://github.com/facebook/jest/issues/2549)).
+> [!WARNING]
+> L'utilisation de Jest pour du testing back-end n'est pas recommandé (mauvaise performance, ré-écriture des globals ..).
 
-Lorsque le coverage n’est pas inclus par défaut il vous faudra potentiellement réfléchir à l’inclure vous même avec [Nyc](https://github.com/istanbuljs/nyc) ou [C8](https://github.com/bcoe/c8) (petit frère plus récent et plus complet utilisant [le coverage natif de V8 Engine](https://v8.dev/blog/javascript-code-coverage)). C8 est notamment capable d’offrir le coverage même quand le code est exécuté au travers de différents child process (ou worker).
+Lorsque le coverage n’est pas inclus par défaut il vous faudra potentiellement réfléchir à l’inclure vous même avec [C8](https://github.com/bcoe/c8) (librairie utilisant [le coverage natif de V8 Engine](https://v8.dev/blog/javascript-code-coverage)). C8 est notamment capable d’offrir le coverage même quand le code est exécuté au travers de différents child process (ou worker).
 
 Talks et articles:
 
 - EN [Rethinking JavaScript Test Coverage](https://v8.dev/blog/javascript-code-coverage)
-- EN [Workshop: Dead-Simple Testing with Mocha](https://www.youtube.com/watch?v=JhQ-PuwoWAE&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=24)
-- EN [Rogelio Guzman - Jest Snapshots and Beyond](https://www.youtube.com/watch?v=HAuXJVI_bUs&feature=emb_logo)
-- EN [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&feature=emb_logo)
 - EN [Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)](https://github.com/goldbergyoni/javascript-testing-best-practices)
-- EN [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - EN [Writing Tests With Fastify and Node Test Runner](https://www.nearform.com/blog/writing-tests-with-fastify-and-node-test-runner/)
 - EN [How to create E2E tests in Node.js with no frameworks - step by step!](https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step)
 

@@ -16,6 +16,7 @@ Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 - EN [Node.js console API](https://nodejs.org/api/console.html) (there is not only console.log ^^).
 - EN [Clinic.js rises to the top in diagnosing Node.js performance issues](https://www.nearform.com/blog/clinicjs-rises-top-diagnosing-nodejs-performance/)
 - EN [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
+- EN [Node.js Performance Analysis Without Changing Your Code](https://dev.to/mmarchini/nodejs-performance-analysis-without-changing-your-code-90g)
 
 - EN [Monitoring Node.js Performance](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
 
@@ -32,7 +33,9 @@ Des ressources plutôt autour de la gestion et debug de la mémoire (memory leak
 Si vous êtes plutôt à la recherche d’outils (pour de la génération de flamegraphs par exemple).
 
 - EN [0x🔥](https://github.com/davidmarkclements/0x)
-- EN [Clinicjs Flame](https://clinicjs.org/flame/) (the tool has many other modes that I also recommend).
+- EN [Node-observe](https://github.com/mmarchini-oss/node-observe)
+- EN [ClinicJS](https://clinicjs.org/)
+- EN [trace GC](https://nodejs.org/fr/docs/guides/diagnostics/memory/using-gc-traces)
 - EN [Investigates v8/Node.js function deoptimizations.](https://github.com/thlorenz/deoptigate)
 - EN [Collect runtime type information 😻 of your JavaScript code.](https://github.com/fhinkel/type-profile)
 - EN [Why is node running](https://github.com/mafintosh/why-is-node-running) (cool to find alive event loop references).

@@ -39,6 +39,7 @@ Here are some articles to awaken you to the subject:
 - [Performance tuning as the art of weather forecast](https://mrale.ph/blog/2013/04/29/performance-tuning-as-weather-forecast.html)
 - [The Black Cat of Microbenchmarks](https://mrale.ph/blog/2014/02/23/the-black-cat-of-microbenchmarks.html)
 - [JavaScript MicroBenchmarks (from Benedikt Meurer)](https://github.com/bmeurer/js-micro-benchmarks)
+- [Preparing and Evaluating Benchmarks (from Rafael)](https://blog.rafaelgss.dev/preparing-and-evaluating-benchmarks)
 
 As hard as it may be to hear, I think that someone without a solid knowledge of how JavaScript engines work has no legitimacy to make conclusions based on benchmark results 💥.
 
