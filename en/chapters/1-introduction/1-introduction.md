@@ -2,7 +2,7 @@
 
 ## 👀 Who am I?
 
-My name is Thomas. I'm 26 years old and I've been independent (freelance) since the beginning of my career in 2015. Personally I've been developing since I was 10 years old (mainly around the web ecosystem 🌍).
+My name is Thomas. I'm 28 years old and I've been independent (freelance) since the beginning of my career in 2015. Personally I've been developing since I was 10 years old (mainly around the web ecosystem 🌍).
 
 I have been actively developing in Node.js since 2013 and consider myself as an Expert (I have to my credit several hundred projects in Node.js of which a major part is accessible and visible on my github).
 
@@ -10,9 +10,9 @@ I have worked on a lot of projects of various natures: APIs, CLI, native addon, 
 
 Beyond that I am also active in various projects, communities and groups:
 
-- Founder and Mentor of [ES-Community](https://github.com/ES-Community) 💪🚀 (French-speaking JavaScript and Node.js community on Discord [depuis 2015](https://dev.to/fraxken/communaute-javascript-es-community-4nm3)).
-- Lead maintainer of a large open-source project: [SlimIO](https://github.com/SlimIO) 😍. (A monitoring solution in Node.js and C++).
-- Node.js contributor 🐢 (Member of the [Security Working Group](https://github.com/nodejs/security-wg) 🔓). I work in on open-source projects related to security on Node.js: [Node-secure](https://github.com/ES-Community/nsecure), [JS-X-Ray](https://github.com/NodeSecure/js-x-ray)
+- Founder and Mentor of [ES-Community](https://github.com/ES-Community) 💪🚀 (French-speaking JavaScript and Node.js community on Discord [since 2015](https://dev.to/fraxken/communaute-javascript-es-community-4nm3)).
+- Lead maintainer of a large open-source project: [NodeSecure](https://github.com/NodeSecure), [TopCli](https://github.com/TopCli), [Dashlog](https://github.com/Dashlog), [Openally](https://github.com/Openally)
+- Node.js contributor 🐢 (Member of the [Security Working Group](https://github.com/nodejs/security-wg) 🔓).
 
 &nbsp;
 ## 👊 For whom?
