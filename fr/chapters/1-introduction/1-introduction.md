@@ -11,18 +11,19 @@ J’ai travaillé sur énormément de projets de diverses natures : APIs, CLI, A
 Au delà de tout cela je suis aussi actif sur divers projets, communautés et groupes:
 
 - Fondateur et Mentor d’[ES-Community](https://github.com/ES-Community) 💪🚀 (communauté francophone de JavaScript et Node.js sur Discord [depuis 2015](https://dev.to/fraxken/communaute-javascript-es-community-4nm3)).
-- Mainteneur principal d’un gros projet open-source: [SlimIO](https://github.com/SlimIO) 😍. (Une solution de monitoring en Node.js et C++).
-- Collaborateur Node.js 🐢 (Membre du [Security Working Group](https://github.com/nodejs/security-wg) 🔓). Je travaille notamment sur des projets open-source en lien avec la sécurité: [Node-secure](https://github.com/ES-Community/nsecure), [JS-X-Ray](https://github.com/fraxken/js-x-ray) (voir aussi l’organisation github NodeSecure [ici](https://github.com/NodeSecure)).
+- Mainteneur principal de gros plusieurs projets open-source: [NodeSecure](https://github.com/Nodesecure), [TopCli](https://github.com/topcli), [Dashlog](https://github.com/Dashlog), [OpenAlly](https://github.com/Openally) (et pas mal d'autres plus vieux comme SlimIO).
+- Collaborateur Node.js 🐢 (Membre du [Security Working Group](https://github.com/nodejs/security-wg) 🔓).
 - Lead API & Node.js chez [MyUnisoft](https://www.welcometothejungle.com/fr/companies/myunisoft). Je gère une dizaine de développeurs Node.js. J’ai fait [un article](https://dev.to/fraxken/myunisoft-l-aventure-node-js-12i3) sur mon équipe si cela t’intéresse.
 
-
->🐱 Sentez vous libre de me contacter sur [Linkedin](https://www.linkedin.com/in/thomas-gentilhomme/) si vous avez des questions ou que vous souhaitez revoir vos profils et projets avec moi.|
+> [!NOTE]
+> 🐱 Sentez vous libre de me contacter sur [Linkedin](https://www.linkedin.com/in/thomas-gentilhomme/) si vous avez des questions ou que vous souhaitez revoir vos profils et projets avec moi.|
 
 ## 👊 Pour qui ?
 
 Ce document s'adresse principalement à des développeurs (débutants ou non 🐣) qui souhaitent s’orienter vers une carrière **back-end** Node.js. Potentiellement à des personnes souhaitant établir une carrière en transverse ayant la motivation pour subir une montée en compétences aussi bien back que front.
 
-> 👀 En ce qui me concerne j’avais déjà une expérience non négligeable en front-end lors de mes débuts en 2013. Je ne peux donc pas vous en vouloir si vous souhaitez avoir les deux cordes à votre arc (**<u>mais attention c’est loin d’être simple</u>**).
+> [!IMPORTANT]
+> En ce qui me concerne j’avais déjà une expérience non négligeable en front-end lors de mes débuts en 2013. Je ne peux donc pas vous en vouloir si vous souhaitez avoir les deux cordes à votre arc (**<u>mais attention c’est loin d’être simple</u>**).
 
 Le document n’a pas forcément pour objectif de partir dans de la vulgarisation dès lors **que des ressources existantes le font déjà très bien** (sauf si je pense avoir une opportunité et les compétences nécessaires pour le faire mieux). Je préfère le voir comme **un portail vers un ensemble de références** de bien meilleure qualité.
 
@@ -51,6 +52,7 @@ A la différence d'intermédiaire, les ressources avancées sont beaucoup plus c
 - **[A savoir]**
 Ce sont des liens traitant de sujets qu’il est intéressant de connaître (souvent des détails sur le fonctionnement et les comportements peu compris etc). Ce sont des ressources bien souvent débutant/intermédiaire.
 
+> [!IMPORTANT]
 > Les notations **ne sont pas parfaites** et elles sont ici principalement pour essayer de vous guider <u>au maximum</u>.
 
 ---
