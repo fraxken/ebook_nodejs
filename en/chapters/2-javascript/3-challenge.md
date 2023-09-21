@@ -14,7 +14,7 @@ Training through different exercises and challenges is important because it will
 The following links will allow you to do a set of workshops and challenges:
 
 - **[Beginner]** [freecodecamp](https://www.freecodecamp.org/)
--|FR **[Beginner]** [nodeschool](https://nodeschool.io/)
+- **[Beginner]** [nodeschool](https://nodeschool.io/)
 - **[Beginner]** [JavaScript Algorithms Crash Course - Learn Algorithms & "Big O" from the Ground Up!](https://www.youtube.com/watch?v=JgWm6sQwS_I) - Learning fundamentals of algorithms.
 - **[Intermediate]** [jskatas](https://jskatas.org/) 
 - **[Intermediate]** [warriorjs](https://warriorjs.com/) - Code your path through dungeons.
