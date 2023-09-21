@@ -12,6 +12,7 @@ Les entretiens **se jouent majoritairement sur votre maîtrise du langage** (plu
 
 Si vous passez dix minutes pour vous souvenir de comment mettre une clé dans un objet, **alors il est fort probable que vous avez grillé votre entretien** 😭. Avoir de l’expérience avec un framework ou une librairie est une bonne chose, mais cela ne doit pas se faire au prix d’un manque de compétences en JavaScript.
 
+> [!IMPORTANT]
 > 💡 Les conseils et références qui seront abordés dans le chapitre JavaScript ont été “un peu” discutés dans [un talk](https://www.youtube.com/watch?v=k4cABQN46qE) entre Rayed Benbrahim et moi. Le format vidéo vous conviendra peut-être mieux pour une première approche.
 
 ---
