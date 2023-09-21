@@ -8,18 +8,15 @@ Performing unit tests is a good way to practice and better understand how X or Y
 
 Some will have the advantage of being more complete (heavier) and others more simplistic. Sometimes it comes down to details like the choice of the assertion library ([Chai.js](https://www.chaijs.com/) for example) or the inclusion of coverage by default.
 
-As far as I'm concerned, after several years of experience with these different libraries, my preference is for [Jest](https://jestjs.io/) which offers a rather complete and pleasant overall experience. Nevertheless, for very specific projects, I sometimes use simple testing libs in combination with C8 (moreover Jest can [be problematic because of the global scope rewriting on Node.js](https://github.com/facebook/jest/issues/2549)).
+> [!WARNING]
+> The use of Jest for back-end testing is not recommended (poor performance, rewriting of globals, etc.).
 
-When the coverage is not included by default you may have to think about including it yourself with [Nyc](https://github.com/istanbuljs/nyc) or [C8](https://github.com/bcoe/c8) (a more recent and complete brother using [the native coverage of V8 Engine](https://v8.dev/blog/javascript-code-coverage)). C8 is able to offer coverage even when the code is executed through different child processes (or workers).
+When the coverage is not included by default you may have to think about including it yourself with [C8](https://github.com/bcoe/c8) (a lib using [the native coverage of V8 Engine](https://v8.dev/blog/javascript-code-coverage)). C8 is able to offer coverage even when the code is executed through different child processes (or workers).
 
 Talks and articles:
 
 - [Rethinking JavaScript Test Coverage](https://v8.dev/blog/javascript-code-coverage)
-- [Workshop: Dead-Simple Testing with Mocha](https://www.youtube.com/watch?v=JhQ-PuwoWAE&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=24)
-- [Rogelio Guzman - Jest Snapshots and Beyond](https://www.youtube.com/watch?v=HAuXJVI_bUs&feature=emb_logo)
-- [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&feature=emb_logo)
 - [Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)](https://github.com/goldbergyoni/javascript-testing-best-practices)
-- [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Writing Tests With Fastify and Node Test Runner](https://www.nearform.com/blog/writing-tests-with-fastify-and-node-test-runner/)
 - [How to create E2E tests in Node.js with no frameworks - step by step!](https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step)
 
