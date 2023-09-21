@@ -4,7 +4,8 @@ A Node.js Ebook by GENTILHOMME Thomas.
 - [French Version](./fr/README.md)
 - [English Version](./en/README.md)
 
-> **Note** I designed this ebook mainly for French developers (so the English version is less complete).
+> [!NOTE]
+> I designed this ebook mainly for French developers (so the English version is less complete).
 
 I gave two live stream in **French** on the ebook, if you want to see/listen to them:
 - [Devenir un BON développeur NodeJS - Practical programming](https://www.youtube.com/watch?v=cErQtFzL_Uc)
