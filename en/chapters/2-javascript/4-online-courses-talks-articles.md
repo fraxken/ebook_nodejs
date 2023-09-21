@@ -86,29 +86,27 @@ Also an excellent developer and popularizer of concepts and features around the 
 &nbsp;
 #### <u>Other articles</u>
 
-- **[Beginner]** 13 useful JavaScript array tips and tricks you should know
-- **[To know]** Javascript and the next decade of data programming
-- **[To know]** JS classes are not “just syntactic sugar”
-- **[To know]** 10 Awesome Github Repos Every Web Developer Should Know
-- **[To know]** Expression versus structure de contrôle en JavaScript
-- **[To know]** Sometimes undefined is defined
-- **[To know]** +-0, NaN and Object.is in JavaScript
-- **[To know]** JSON.stringify takes toJSON methods into consideration
-- **[To know]** What is the difference between parseInt() and Number()?
-- **[To know]**  3 Ways to Clone Objects in JavaScript
-- **[To know]** When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings
-- **[To know]** Property order is predictable in JavaScript objects since ES2015
-- **[To know]** Quick tip: reusable Array search predicates
-- **[To know]** Javascript and the next decade of data programming
-- **[Intermediate]** What I Talk About When I Talk About Sorting: Untangling Array#sort
-- **[Intermediate]** This in JavaScript
-- **[Intermediate]** The global `Reflect` object, its use cases and things to watch out for
-- **[Intermediate]** Metaprogramming in ES6: Symbols and why they're awesome
-- **[Intermediate]** Localized Number Parsing
-- **[Intermediate]** Sorting JavaScript Arrays By Nested Properties
-- **[Advanced]** JavaScript's Promise Leaks Memory
-- **[Advanced]** A cartoon intro to ArrayBuffers and SharedArrayBuffers
-- **[Advanced]** JavaScript async iterators	
+- **[To know]** [Javascript and the next decade of data programming](<https://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/>)
+- **[To know]** [JS classes are not “just syntactic sugar”](<https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078>)
+- **[To know]** [10 Awesome Github Repos Every Web Developer Should Know](https://dev.to/simonholdorf/10-awesome-github-repos-every-web-developer-should-know-27oa)
+- **[To know]** [Sometimes undefined is defined](https://medium.com/@bmeurer/sometimes-undefined-is-defined-7701e1c9eff8)
+- **[To know]** [+-0, NaN and Object.is in JavaScript](https://www.stefanjudis.com/today-i-learned/0-nan-and-object-is-in-javascript/)
+- **[To know]** [JSON.stringify takes toJSON methods into consideration](https://medium.com/@bmeurer/sometimes-undefined-is-defined-7701e1c9eff8)
+- **[To know]** [What is the difference between parseInt() and Number()?](https://stackoverflow.com/questions/4090518/what-is-the-difference-between-parseint-and-number/4090577#4090577)
+- **[To know]** [3 Ways to Clone Objects in JavaScript](https://dev.to/samanthaming/3-ways-to-clone-objects-in-javascript-2oie)
+- **[To know]** [When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings](https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html)
+- **[To know]** [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
+- **[To know]** [Quick tip: reusable Array search predicates](https://jasonformat.com/reusable-array-search-predicates/)
+- **[To know]** [Javascript and the next decade of data programming](<https://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/>)
+- **[Intermediate]** [What I Talk About When I Talk About Sorting: Untangling Array#sort](https://alistapart.com/article/what-i-talk-about-when-i-talk-about-sorting/)
+- **[Intermediate]** [This in JavaScript](https://zellwk.com/blog/this/)
+- **[Intermediate]** [The global `Reflect` object, its use cases and things to watch out for](https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/)
+- **[Intermediate]** [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
+- **[Intermediate]** [Localized Number Parsing](https://observablehq.com/@mbostock/localized-number-parsing)
+- **[Intermediate]** [Sorting JavaScript Arrays By Nested Properties](https://elijahmanor.com/byte/js-array-sort-nest)
+- **[Advanced]** [JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
+- **[Advanced]** [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
+- **[Advanced]** [JavaScript async iteratorrs](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
 
 > 👀 If you are looking for beginner articles on JavaScript, I recommend you to take a look at the articles of Samantha Ming.
 
