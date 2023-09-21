@@ -10,8 +10,7 @@ Autres ressources (articles, talks, études):
 
 - FR [Présentation du projet NodeSecure - Thomas Gentilhomme - ParisJS #101](https://www.youtube.com/watch?v=hmrKI1jZLGc)
 - FR [Sécurité Node.js - les initiatives de 2022](https://www.youtube.com/watch?v=OUJ7fElfICc)
-- EN [The State of Open Source Security 2020 - Snyk](https://snyk.io/opensourcesecurity-2019/)
-- EN [The State of Open Source Security - Liran Tal, Snyk](https://www.youtube.com/watch?v=0-wuXhapMbE&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=23)
+- EN [The State of Open Source Security 2023 - Snyk](https://snyk.io/reports/open-source-security/)
 - EN [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 - EN [Top 11 Node.js security best practices - Sqreen](https://blog.sqreen.com/nodejs-security-best-practices/)
 - EN [Snyking in – Directory traversal vulnerability exploit in the st package](https://snyk.io/blog/snyking-in-directory-traversal-vulnerability-exploit-in-the-st-package/)
@@ -23,6 +22,16 @@ Autres ressources (articles, talks, études):
 - EN [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
 - EN [Char Wars: The Path Traversal Strikes Back - Liran Tal](https://www.youtube.com/watch?v=WGCmjvq6A6w&list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ&index=11)
 - EN [Eval all the strings! Hardened JavaScript - Zbyszek Tenerowicz](https://www.youtube.com/watch?v=Qjeh7Qo2u28)
+
+## Utile pour les mainteneurs de logiciels libres
+
+Initiatives à connaître et à mettre en œuvre
+
+- [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
+- [OSV - A distributed vulnerability database for Open Source](https://osv.dev/)
+- [SLSA - Safeguarding artifact integrity across any software supply chain](https://slsa.dev/)
+
+Si vous travaillez sur Github, je vous recommande également mon dernier article: [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
 
 ## Ebooks
 

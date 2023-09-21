@@ -8,8 +8,7 @@ I also recommend [Node.js Security Handbook](https://www.sqreen.com/resources/no
 
 Other resources (articles, talks, studies):
 
-- [The State of Open Source Security 2020 - Snyk](https://snyk.io/opensourcesecurity-2019/)
-- [The State of Open Source Security - Liran Tal, Snyk](https://www.youtube.com/watch?v=0-wuXhapMbE&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=23)
+- [The State of Open Source Security 2023 - Snyk](https://snyk.io/reports/open-source-security/)
 - [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 - [Top 11 Node.js security best practices - Sqreen](https://blog.sqreen.com/nodejs-security-best-practices/)
 - [Snyking in – Directory traversal vulnerability exploit in the st package](https://snyk.io/blog/snyking-in-directory-traversal-vulnerability-exploit-in-the-st-package/)
@@ -18,9 +17,18 @@ Other resources (articles, talks, studies):
 - [NodeConf Remote 2020 - Matteo Collina - Why there are no incentives for security in Open Source](https://www.youtube.com/watch?v=l7EbDZRjwXA&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=12)
 - [Trojan Source - Invisible Source Code Vulnerabilities](https://www.trojansource.codes/)
 - [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
-- [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
 - [Char Wars: The Path Traversal Strikes Back - Liran Tal](https://www.youtube.com/watch?v=WGCmjvq6A6w&list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ&index=11)
 - [Eval all the strings! Hardened JavaScript - Zbyszek Tenerowicz](https://www.youtube.com/watch?v=Qjeh7Qo2u28)
+
+## Useful for OSS maintainers
+
+Initiatives to learn about and implement
+
+- [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
+- [OSV - A distributed vulnerability database for Open Source](https://osv.dev/)
+- [SLSA - Safeguarding artifact integrity across any software supply chain](https://slsa.dev/)
+
+If you work on Github, I also recommend my latest article: [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
 
 ## Ebooks
 

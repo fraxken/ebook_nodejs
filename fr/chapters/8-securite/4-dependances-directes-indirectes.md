@@ -6,7 +6,7 @@ Les projets possédant des dépendances indirectes sont bien plus vulnérables c
 
 Évitez à tout prix les packages avec des dépendances dépassant une profondeur de 2-3 packages (cela introduit toujours plusieurs dépendances indirectes à maintenir et sécuriser ce qui peut très vite devenir complexe).
 
-Le projet [NodeSecure](https://github.com/ES-Community/nsecure) permet d’analyser en profondeur les dépendances d’un projet ou d’un package npm.
+Le projet [NodeSecure](https://github.com/NodeSecure/cli) permet d’analyser en profondeur les dépendances d’un projet ou d’un package npm.
 
 <img src="../../../assets/securite/nsecure.png" alt="NodeSecure" width="750">
 
