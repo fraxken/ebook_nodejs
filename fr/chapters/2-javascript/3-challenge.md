@@ -9,6 +9,7 @@ S'entraîner par le biais de différents exercices et challenges est important c
 - Pratiquer (et *potentiellement* découvrir) des fonctionnalités du langage. À noter que dans ce cas-là il est important de synchroniser la découverte avec une volonté de vous documenter (articles, talks, ebook).
 - Vous permettre de découvrir une part non négligeable de notre quotidien et des difficultés auxquelles nous devons faire face.
 
+> [!NOTE]
 > Je vous recommande de vous faire régulièrement des sessions de code plus ou moins intensives. Je vous joins une [vidéo de la chaîne de Tony](https://www.youtube.com/watch?v=8eBSC9o8fe8) qui parle de son expérience et son parcours sur son apprentissage autour des algorithmes.
 
 Les liens suivant vous permettront d’effectuer un ensemble de workshops et challenges:
@@ -28,7 +29,8 @@ Si vous êtes débutant ou que vous ne connaissez pas encore les workshops de [N
 
 Noter que vous allez devoir devenir à l’aise avec les instructions en ligne de commande 😬 (**c’est une bonne occasion pour vous y mettre si ce n’est pas encore le cas**).
 
-> ⚠️ Certains workshops ne sont plus maintenus à jour
+> [!WARNING]
+> Certains workshops ne sont plus maintenus à jour. En 2023 les workshops Nodeschool ne sont malheureusement plus très pertinent!
 
 Parmis les workshops que je vous recommande (plus ou moins dans l’ordre) :
 - [JavaScripting](https://www.github.com/sethvincent/javascripting) (relativement simple)
@@ -87,8 +89,6 @@ Si certains d’entre vous sont des grands motivés et que vous souhaitez vous o
 - EN  [Codeforces](https://codeforces.com/)
 
 C’est un domaine qui vous demandera de travailler très sérieusement les mathématiques et d’étudier très longuement les diverses structures et algorithmes existants.
-
-> 👀 À noter que j’ai moi-même pour objectif de monter dans le classement du site Codeforces et de participer à plusieurs rounds dans les prochaines années.
 
 ---
 
