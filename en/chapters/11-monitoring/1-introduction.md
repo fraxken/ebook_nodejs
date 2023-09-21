@@ -29,6 +29,14 @@ Links and resources for HTTP API monitoring:
 
 - [Health Check Response Format for HTTP APIs](https://tools.ietf.org/id/draft-inadarei-api-health-check-01.html)
 
+## Logs
+
+Links and resources for log monitoring :
+
+- [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
+- [Fastify.js - Unlock the Power of Runtime Log Level Control (by Manuel Spigolon)](https://www.nearform.com/blog/unlock-the-power-of-runtime-log-level-control/)
+- [pino-loki - This package provides a transport for pino that forwards messages to Loki.](https://github.com/Julien-R44/pino-loki)
+
 ---
 
 ⬅️ [🌇 Architecture & Paradigms: Others](../10-architecture/10-others.md) |
