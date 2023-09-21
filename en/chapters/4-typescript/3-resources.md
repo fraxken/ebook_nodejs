@@ -10,7 +10,6 @@ However, I think it's impossible to become a TypeScript Expert if you don't have
 
 Anyway, here are some links
 
-
 - **[Beginner]** [How does TypeScript work? The bird’s eye view](https://2ality.com/2020/04/typescript-workflows.html)
 - **[Beginner]** [The TypeScript handbook](https://www.typescriptlang.org/docs/handbook/intro.html) && [TypeScript new handbook](https://github.com/microsoft/TypeScript-New-Handbook)
 - **[Beginner]** [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/index.html)
@@ -30,6 +29,7 @@ Some articles by Dr. Axel Rauschmayer:
 - **[Intermediate]** [Computing with types in TypeScript](https://2ality.com/2020/06/computing-with-types.html)
 - **[Intermediate]** [TypeScript: narrowing types via type guards and assertion functions](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html)
 
+The youtube channel of [Matt Pocock](https://www.youtube.com/@mattpocockuk)
 
 ---
 
