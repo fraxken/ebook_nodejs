@@ -6,7 +6,7 @@ As a first step, it is really important to understand what Node.js is. Node.js i
 
 Node.js is a composition of code and libraries including Libuv, OpenSSL, Zlib ([full list here](https://nodejs.org/en/docs/meta/topics/dependencies/)). All this will allow us, as developers, to interact through different protocols (http, tcp/ip, udp). with the file system of your computer, the network etc…
 
-Node.js is like a toolbox that can allow you to realize a vast amount of projects of various nature (and not only http APIs as many think... for example [NodeSecure](https://github.com/ES-Community/nsecure) or [SlimIO](https://github.com/SlimIO)). That's why we'll talk about runtime environments.
+Node.js is like a toolbox that can allow you to realize a vast amount of projects of various nature (and not only http APIs as many think... for example [NodeSecure](https://github.com/NodeSecure)). That's why we'll talk about runtime environments.
 
 Bonus: [Things to Love About Working with Node.js (Matteo Collina)](https://www.youtube.com/watch?v=xdLfCCq2R4I)
 
