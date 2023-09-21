@@ -26,7 +26,8 @@ Quelques-uns de leur cours sur Javascript (je vous invite à regarder vous-même
 
 Quand il est question d'articles de qualité sur JavaScript, je vous recommande très fortement le [blog d’Axel Rauschmayer](https://2ality.com/).
 
-> ⚠️ Attention néanmoins il est tout de même nécessaire d’avoir bien souvent établi une fondation avant de pouvoir apprécier ces articles. ⚠️
+> [!WARNING]
+> Attention néanmoins il est tout de même nécessaire d’avoir bien souvent établi une fondation avant de pouvoir apprécier ces articles.
 
 Voici une liste d’articles de son blog que je vous recommande de lire:
 
@@ -60,7 +61,8 @@ J’ai tout récemment ré-exploré le blog de Jake et franchement je ne me souv
 - EN **[Intermédiaire]** [Iterators gonna iterate](https://jakearchibald.com/2014/iterators-gonna-iterate/)
 - EN **[Avancé]** [Streaming template literals](https://jakearchibald.com/2016/streaming-template-literals/)
 
-> 👀 Je vous recommande de lire ces articles plus orientés front-end si le sujet vous intéresse aussi.
+> [!NOTE]
+> Je vous recommande de lire ces articles plus orientés front-end si le sujet vous intéresse aussi.
 
 #### Surma
 
@@ -108,7 +110,8 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 - EN  **[Advanced]** [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 - EN  **[Advanced]** [JavaScript async iteratorrs](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
 
-> 👀 Si vous êtes à la recherche d'articles débutant sur JavaScript, je vous recommande de jeter un œil aux articles de [Samantha Ming](https://dev.to/samanthaming).
+> [!NOTE]
+> Si vous êtes à la recherche d'articles débutant sur JavaScript, je vous recommande de jeter un œil aux articles de [Samantha Ming](https://dev.to/samanthaming).
 
 ### 📺 Talks
 
@@ -132,6 +135,7 @@ Les autres talks
 - EN  **[Intermédiaire]** [Fast by default: algorithmic performance optimization in practice](https://www.youtube.com/watch?v=bwA9i6wjfhw&list=PLMW8Xq7bXrG5ifmqyUChS9buBfVnoa3wh&index=3)
 - EN  **[Avancé]** [Shared Memory & Parallel Programming with JavaScript](https://www.youtube.com/watch?v=vvqfmskTIjE&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=26)
 
+> [!IMPORTANT]
 > Les épisodes du podcast [OpenHive.js](https://www.youtube.com/watch?v=OPLUfbaOYLQ&list=PL0CdgOSSGlBZZu6UQ8r0kAjf-EfyJTC2u) sont aussi assez intéressants à suivre (avec des interlocuteurs d’une très grande expertise à chaque fois).
 
 ---
