@@ -16,9 +16,10 @@ Parmis les références que je vous recommande de lire 👇:
 - **[Intermédiaire]** [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/) par [Kyle Simpson](https://github.com/getify)
 - **[Avancé]** [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html) par [Axel Rauschmayer](http://dr-axel.de/)
 
-> ⚠️ L'intégralité des références et lectures ci-dessus sont en anglais
+> [!WARNING]
+> L'intégralité des références et lectures ci-dessus sont en anglais
 
-Le Dr. Axel Rauschmayer possède un style qui diffère de Kyle Simpson. Je vous invite à choisir le style d'écriture qui vous convient le mieux. **Attention à Kyle** qui a souvent des idées et un style de code considérés assez “**extrême**”.
+Le Dr. Axel Rauschmayer possède un style qui diffère de Kyle Simpson. Je vous invite à choisir le style d'écriture qui vous convient le mieux.
 
 ### 📖📐 La pratique avec un livre
 
