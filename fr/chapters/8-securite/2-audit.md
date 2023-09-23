@@ -12,11 +12,14 @@ Des outils tels que [Snyk](https://snyk.io/), [sqreen](https://www.sqreen.com/),
 
 Les vulnérabilités détectées pendant la phase de **runtime** sont bien **évidemment prioritaires**(**puisqu’elles concernent les codes exécutés en production**).
 
-> ⚠️ Cela ne veut pas pour autant dire que les vulnérabilités détectées sur les dépendances de développement ne sont pas importantes !
+> [!WARNING]
+> Cela ne veut pas pour autant dire que les vulnérabilités détectées sur les dépendances de développement ne sont pas importantes !
 
 Vous pouvez ouvrir l'un des projets pour avoir plus d'informations sur les différentes issues en cours. L'interface vous donnera tout un ensemble d'informations telles que des références et des explications sur le problème. Et, le cas échéant, des mesures correctives pour résoudre le problème.
 
 <img src="../../../assets/securite/intro-2.png" alt="Exemple" width="600">
+
+À noter que Snyk à aussi développer un outil en ligne "[Snyk Advisory](https://snyk.io/advisor/)" qui vous permet à tout moment de vérifier les métriques en lien avec un package NPM.
 
 ---
 

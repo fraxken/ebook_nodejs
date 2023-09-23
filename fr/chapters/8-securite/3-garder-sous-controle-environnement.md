@@ -12,6 +12,11 @@ Alternative possible au package dotenv:
 
 - [env-var](https://github.com/evanshortiss/env-var)
 
+Autres ressources qui pourraient vous intéresser:
+
+- [Safely store secrets in Git using Blackbox (by Ulises Gascon)](https://www.youtube.com/watch?v=beJT7wMvJo4)
+- [Managing Secrets in Node.js with HashiCorp Vault](https://codersociety.com/blog/articles/hashicorp-vault-node)
+
 ---
 
 ⬅️ [🔐 Sécurité: Audit](./2-audit.md) |

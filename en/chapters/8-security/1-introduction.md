@@ -8,6 +8,14 @@ The risks of attacks should not be underestimated or trivialised. In the case of
 
 The use of third-party dependencies, in particular "packages" or portions of code from the open source universe, must in particular be subject to significant monitoring.
 
+In addition, I invite you to read the following two documents:
+
+- [Node.js Threat model](https://github.com/nodejs/node/blob/main/SECURITY.md#the-nodejs-threat-model)
+- [Node.js Security Best Practices](https://nodejs.org/fr/docs/guides/security)
+
+> [!NOTE]
+> Threat modeling enables us to determine whether an identified flaw (vulnerability) is the responsibility of the runtime or the code developed by the user (the developer). This document is mainly intended for people working in security (researcher).
+
 ---
 
 ⬅️ [📡 MQTT (broker): Others](../7-mqtt/4-others.md) |
