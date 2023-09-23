@@ -36,8 +36,6 @@ Si vous êtes plutôt à la recherche d’outils (pour de la génération de fla
 - EN [Node-observe](https://github.com/mmarchini-oss/node-observe)
 - EN [ClinicJS](https://clinicjs.org/)
 - EN [trace GC](https://nodejs.org/fr/docs/guides/diagnostics/memory/using-gc-traces)
-- EN [Investigates v8/Node.js function deoptimizations.](https://github.com/thlorenz/deoptigate)
-- EN [Collect runtime type information 😻 of your JavaScript code.](https://github.com/fhinkel/type-profile)
 - EN [Why is node running](https://github.com/mafintosh/why-is-node-running) (cool to find alive event loop references).
 
 Si vous avez besoin de faire du benchmark vis à vis de vos tests alors je vous recommande [autocannon.](https://github.com/mcollina/autocannon).

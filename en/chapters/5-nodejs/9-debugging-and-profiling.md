@@ -24,9 +24,9 @@ Here is a list of resources that you may need to read:
 If you are rather looking for tools (for flamegraphs generation for example).
 
 - [0x🔥](https://github.com/davidmarkclements/0x)
-- [Clinicjs Flame](https://clinicjs.org/flame/) (the tool has many other modes that I also recommend).
-- [Investigates v8/Node.js function deoptimizations.](https://github.com/thlorenz/deoptigate)
-- [Collect runtime type information 😻 of your JavaScript code.](https://github.com/fhinkel/type-profile)
+- [Node-observe](https://github.com/mmarchini-oss/node-observe)
+- [ClinicJS](https://clinicjs.org/)
+- [trace GC](https://nodejs.org/fr/docs/guides/diagnostics/memory/using-gc-traces)
 - [Why is node running](https://github.com/mafintosh/why-is-node-running) (cool to find alive event loop references).
 
 If you need to benchmark your tests then I recommend [autocannon.](https://github.com/mcollina/autocannon)
