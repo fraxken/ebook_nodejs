@@ -112,6 +112,7 @@ Ce document n’est pas figé et il évoluera autant que je l’estime nécessai
   - [Audit](./chapters/8-securite/2-audit.md)
   - [Garder sous contrôle votre Environnement](./chapters/8-securite/3-garder-sous-controle-environnement.md)
   - [Dépendances directes et indirectes](./chapters/8-securite/4-dependances-directes-indirectes.md)
+  - [Supply Chain Attack](./chapters/8-securite/4-dependances-directes-indirectes.md#supply-chain-attack)
   - [Faille de sécurité courante](./chapters/8-securite/5-faille-securite-courante.md)
   - [Analyse statique & AST](./chapters/8-securite/6-analyse-statique-ast.md)
   - [Liens et ressources complémentaires à lire](./chapters/8-securite/7-liens-et-ressources.md)

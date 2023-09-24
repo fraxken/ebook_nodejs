@@ -18,6 +18,8 @@ You can open one of the projects to have more information on the various current
 
 <img src="../../../assets/securite/intro-2.png" alt="Exemple" width="600">
 
+Snyk has also developed an online tool "[Snyk Advisory](https://snyk.io/advisor/)" which lets you check the metrics related to an NPM package at any time.
+
 ---
 
 ⬅️ [🔐 Security: Introduction](./1-introduction.md) |

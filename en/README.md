@@ -102,6 +102,7 @@ This document is not set in stone and will evolve as much as I deem necessary ov
     - [Audit](chapters/8-security/2-audit.md)
     - [Keep your environment under control](chapters/8-security/3-environment.md)
     - [Direct and indirect dependencies](chapters/8-security/4-dependencies.md)
+    - [Supply Chain Attack](chapters/8-security/4-dependencies.md#supply-chain-attack)
     - [Common Security Breach](chapters/8-security/5-common-breach.md)
     - [Static Analysis & AST](chapters/8-security/6-ast.md)
     - [Additional links and resources to read](chapters/8-security/7-link-resources.md)

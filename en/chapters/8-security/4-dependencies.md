@@ -10,7 +10,16 @@ The [NodeSecure](https://github.com/NodeSecure/cli) project allows deep analysis
 
 <img src="../../../assets/securite/nsecure.png" alt="NodeSecure" width="750">
 
-> ⛔ Be careful not to fall into paranoia either. Nor is it always easy to solve problems in a few packages. The important thing is to be aware of the problem and pay attention.
+> [!WARNING]
+> Be careful not to fall into paranoia either. Nor is it always easy to solve problems in a few packages. The important thing is to be aware of the problem and pay attention.
+
+## Supply chain attack
+
+For a malicious actor, this means attacking a third-party component such as your dependencies, your CI or any other that could become vulnerable and give access to sensitive information.
+
+In the space of just a few years, this has become a major problem, and one that is widely exploited for a variety of attacks. Initiatives and tools such as [SLSA](https://slsa.dev/) and [Sigstore](https://www.sigstore.dev/) have been developed to guarantee the origin of artifacts (packages, etc.).
+
+Startups such as [Socket.dev](https://socket.dev/) have also emerged, with the aim of providing viable professional solutions to the problem.
 
 ---
 

@@ -33,13 +33,10 @@ Initiatives à connaître et à mettre en œuvre
 
 Si vous travaillez sur Github, je vous recommande également mon dernier article: [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
 
-## Ebooks
+## Ebooks et cours en ligne
 
-- [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com/)
-
----
-
-Si vous êtes à la recherche d’une formation je vous recommande celle-ci faite par [Vladimir](https://twitter.com/poledesfetes) (collaborateur Node.js français): [Writing Secure Code in Node.js](https://www.infosecinstitute.com/skills/learning-paths/writing-secure-code-in-node-js/)
+- [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities (by Liran TAL)](https://www.nodejs-security.com/)
+- [Writing Secure Code in Node.js (By Vladimir de Turckheim)](https://www.infosecinstitute.com/skills/learning-paths/writing-secure-code-in-node-js/)
 
 ---
 
