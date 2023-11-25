@@ -22,6 +22,7 @@
     "@nodesecure/fs-walk": "^1.0.0",
     "@rossbob/image-to-base64": "^2.0.0",
     "jsdom": "^22.1.0",
-    "marked": "^10.0.0"
+    "marked": "^10.0.0",
+    "marked-alert": "^2.0.1"
   }
 }
