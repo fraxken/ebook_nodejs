@@ -71,7 +71,7 @@ async function main(pdfOptions = {
         stringHTML += await readFile(file) + kPageBreak;
     }
 
-    const dom = new JSDOM(stringHTML, { contentType: "text/html" });
+    const dom = new JSDOM(marked.parse(stringHTML), { contentType: "text/html" });
 
     const regexPath = /^https?:\/\//i;
     const images = dom.window.document.getElementsByTagName("img");
@@ -87,7 +87,7 @@ async function main(pdfOptions = {
     const browser = await initBrowser();
 
     try {
-        await writeFile(path.join(kOutDir, `${lang}.pdf`), Readable.from(generatePDF(browser, [{ content: marked.parse(dom.serialize()) }], pdfOptions)))
+        await writeFile(path.join(kOutDir, `${lang}.pdf`), Readable.from(generatePDF(browser, [{ content: dom.serialize() }], pdfOptions)))
     }
     finally {
         await terminateBrowser(browser);
