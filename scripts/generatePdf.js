@@ -11,6 +11,7 @@ import { walkSync } from "@nodesecure/fs-walk";
 import { generatePDF, initBrowser, terminateBrowser } from "@myunisoft/html-to-pdf";
 import { toBase64 } from "@rossbob/image-to-base64";
 import { marked } from "marked";
+import markedAlert from "marked-alert";
 import { JSDOM } from "jsdom";
 
 // CONSTANTS
@@ -19,6 +20,8 @@ const kOutDir = path.join(__dirname, "..", "pdf");
 const kPageBreak = `\n\n<div style="page-break-before: always;"></div>\n\n`;
 const kAvailableLangs = new Set(["fr", "en"]);
 const kNumericCollator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
+
+marked.use(markedAlert());
 
 const start = performance.now();
 
