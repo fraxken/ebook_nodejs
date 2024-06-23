@@ -19,6 +19,7 @@ console.log(stdout);
 
 Si vous êtes à la recherche d’un module simplifiant ces tâches, je vous recommande de jeter un œil à [execa](https://github.com/sindresorhus/execa#readme). (il y aussi [cross-spawn](https://github.com/moxystudio/node-cross-spawn)).
 
+> [!CAUTION]
 > ⛔ Attention à ne pas exécuter des commandes à partir de chaîne de caractères venant de l’extérieur sans effectuer de vérification stricte (un attaquant pourrait s’en servir pour exécuter du code sur votre système).
 
 ---

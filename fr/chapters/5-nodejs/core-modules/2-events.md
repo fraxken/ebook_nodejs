@@ -67,6 +67,9 @@ for await (const [data] of on(ee, "data")) {
 }
 ```
 
+> [!NOTE]
+> Node.js supporte maintenant aussi l'API Web [EventTarget](https://nodejs.org/api/events.html#class-nodeeventtarget)
+
 ---
 
 ⬅️ [🌟 Les différents modules core: Console](./1-console.md) |

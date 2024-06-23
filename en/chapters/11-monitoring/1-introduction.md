@@ -2,8 +2,6 @@
 
 ## Introduction
 
-> ⚠️ The monitoring section is not yet very complete. Expect a multi-page improvement in the coming months.
-
 As a developer, it is important to know how to identify the metrics and practices that will allow us to reflect and build monitoring for our applications (web or desktop). **We will mainly talk about APM here**.
 
 Some modern frameworks like fastify already have [packages](https://www.npmjs.com/package/fastify-metrics) to export metrics (promeheus format).

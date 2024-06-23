@@ -1,10 +1,10 @@
 # Devenir un(e) développeur(se) Node.js 🐢🚀
 
-Ce document a pour objectif de livrer mon expérience **personnelle** et mes ressources à celles et ceux qui souhaiteraient devenir des développeurs back-end [Node.js](https://nodejs.org/fr/) 😎.
+Ce document a pour objectif de partager mon **expérience personnelle** et mes ressources avec celles et ceux qui souhaitent devenir des développeurs back-end [Node.js](https://nodejs.org/fr/) 😎.
 
-Mon expérience et mes opinions vont fortement influencer l’écriture du document 👿 (je vous invite donc à conserver un fort esprit critique envers moi pour vous construire votre propre chemin 🐤).
+Mon expérience et mes opinions influenceront fortement l’écriture de ce document  👿. Je vous invite donc à garder un esprit critique pour construire votre propre chemin 🐤.
 
-Ce document n’est pas figé et il évoluera autant que je l’estime nécessaire à travers le temps.
+Ce document n’est pas figé et évoluera au fil du temps, selon les besoins et les nouvelles connaissances acquises.
 
 <img src="../assets/nodejs_logo.png" alt="Logo de Node.js" width="500">
 

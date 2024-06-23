@@ -1,7 +1,5 @@
 # 🔬 Monitoring
 
-> ⚠️ La section monitoring n’est pas encore très complète. Attendez-vous à une amélioration de plusieurs pages dans les mois à venir.
-
 ## Introduction
 En tant que développeur il est important de savoir identifier les métriques et pratiques qui vont nous permettre de réfléchir et construire un monitoring pour nos applications (web ou desktop). **Nous parlerons surtout d’APM ici**.
 

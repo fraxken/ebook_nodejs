@@ -8,10 +8,10 @@ Ce qui est certain c’est qu’il faut arrêter d’utiliser [Sequelize](https:
 
 Je vous recommande plutôt de jeter un oeil aux projets suivants :
 
-- [TypeORM](https://typeorm.io/#/) (TypeORM supports both Active Record and Data Mapper patterns)
-- [MikroORM](https://mikro-orm.io/) (TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns).
+- [MikroORM](https://mikro-orm.io/) 
+- [Kysely](https://kysely.dev/) - Si vous êtes plutôt à la recherche d'un query builder.
 
-A noter que si vous utilisez le framework Adonis.js ils ont aussi leur propre ORM [Lucid](https://adonisjs.com/docs/4.0/lucid).
+A noter que si vous utilisez le framework Adonis.js ils ont aussi leur propre ORM [Lucid](https://lucid.adonisjs.com/docs/introduction).
 
 Il y a tout un tas de packages disponibles dans l’écosystème, mais je ne suis pas forcément convaincu par la plupart d’entre eux (Après il y en a sûrement que je n’ai moi-même pas encore découvert).
 

@@ -100,6 +100,9 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 - EN  **[A savoir]** [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
 - EN  **[A savoir]** [Quick tip: reusable Array search predicates](https://jasonformat.com/reusable-array-search-predicates/)
 - EN  **[A savoir]** [Javascript and the next decade of data programming](<https://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/>)
+- EN  **[A savoir]** [Thoughts On JavaScript Classes](https://jrfom.com/posts/2023/10/31/js-classes/)
+- EN  **[A savoir]** [When You Should Prefer Map Over Object In JavaScript](https://www.zhenghao.io/posts/object-vs-map)
+- EN  **[Intermédiaire]** [A Smarter JavaScript Mapper: array.flatMap()](https://dmitripavlutin.com/javascript-array-flatmap/)
 - EN  **[Intermédiaire]** [What I Talk About When I Talk About Sorting: Untangling Array#sort](https://alistapart.com/article/what-i-talk-about-when-i-talk-about-sorting/)
 - EN  **[Intermédiaire]** [This in JavaScript](https://zellwk.com/blog/this/)
 - EN  **[Intermédiaire]** [The global `Reflect` object, its use cases and things to watch out for](https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/)
@@ -125,6 +128,7 @@ J’ai toujours beaucoup apprécié Christophe PORTENEUVE en tant qu’orateur �
 
 Les autres talks
 
+- FR  **[Débutant]** [L'asynchrone en JS sans le cringe - Christophe Porteneuve](https://www.youtube.com/watch?v=GI6vm_NfqYg)
 - EN  **[Débutant]** [Apprentissage de la programmation fonctionnelle avec JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
 - EN  **[Débutant]** [Immutable data structures for functional JS](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
 - EN  **[Débutant]** [Wes Bos - Async + Await](https://www.youtube.com/watch?v=9YkUCxvaLEk)

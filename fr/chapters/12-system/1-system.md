@@ -6,6 +6,7 @@ Je vais sûrement en décevoir beaucoup, mais tout ce qui est en lien avec le sy
 
 Il est néanmoins important de savoir au minimum se démerder (la plupart du temps c’est juste une question de bonne volonté). En France nous avons l'excellente chaîne youtube de [Xavki](https://www.youtube.com/c/xavki-linux/videos) qui parle d’énormément de sujets autours de divers OS, Docker, etc… Par ailleurs, en ce qui me concerne je ne suis pas particulièrement un grand fan de tout ce qui est en lien avec la guerre fréquente entre les OS… En tant que développeur de solution de monitoring, j’ai le devoir de mettre les pieds sur les différentes solutions existantes ce qui fait que je suis amené à vivre différentes choses (pour avoir déjà un peu d’expérience en binding bas niveau sur les différents OS, je peux vous garantir qu’il y a toujours des trucs bien et des problèmes sur chaque système).
 
+> [!CAUTION]
 > ⛔ Je le dis souvent dans ce document mais ne vous enfermez jamais dans une bulle idéologique.
 
 ## Scripting: Shell, Bash et Powershell

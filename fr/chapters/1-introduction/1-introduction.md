@@ -26,22 +26,22 @@ Quelques articles sur mon équipe / mon travail;
 
 ## 👊 Pour qui ?
 
-Ce document s'adresse principalement à des développeurs (débutants ou non 🐣) qui souhaitent s’orienter vers une carrière **back-end** Node.js. Potentiellement à des personnes souhaitant établir une carrière en transverse ayant la motivation pour subir une montée en compétences aussi bien back que front.
+Ce document s'adresse principalement aux développeurs, débutants ou non 🐣, qui souhaitent s’orienter vers une carrière **back-end** Node.js. Il est aussi destiné à ceux qui souhaitent établir une carrière transverse, avec la motivation de monter en compétences aussi bien en back-end qu’en front-end.
 
 > [!IMPORTANT]
-> En ce qui me concerne j’avais déjà une expérience non négligeable en front-end lors de mes débuts en 2013. Je ne peux donc pas vous en vouloir si vous souhaitez avoir les deux cordes à votre arc (**<u>mais attention c’est loin d’être simple</u>**).
+> Pour ma part, j'avais déjà une expérience non négligeable en front-end lors de mes débuts en 2013. Je ne peux donc pas vous en vouloir si vous souhaitez maîtriser ces deux aspects (**<u>mais attention, ce n’est pas simple</u>**).
 
-Le document n’a pas forcément pour objectif de partir dans de la vulgarisation dès lors **que des ressources existantes le font déjà très bien** (sauf si je pense avoir une opportunité et les compétences nécessaires pour le faire mieux). Je préfère le voir comme **un portail vers un ensemble de références** de bien meilleure qualité.
+L'objectif de ce document n'est pas de vulgariser, car de nombreuses ressources existantes le font déjà très bien (sauf si je pense avoir une opportunité et les compétences nécessaires pour le faire mieux). Je préfère le voir comme un **portail vers un ensemble de références** de meilleure qualité.
 
-Beaucoup de références ne sont pas en français alors **<u>il est fortement recommandé d’avoir un bon niveau en anglais</u>** (si ce n’est pas le cas il va vous falloir apprendre).
+Beaucoup de références ne sont pas en français, **<u>Il est donc fortement recommandé d’avoir un bon niveau en anglais</u>** (si ce n’est pas le cas, il va vous falloir apprendre).
 
 ## 💬 Pourquoi ?
 
-C’est toujours un plaisir pour moi d’aider les autres et de partager mon savoir et mes références ❤️. Je le fais déjà au quotidien au travers des différentes communautés et groupes dans lesquelles je suis actif.
+C’est toujours un plaisir pour moi d’aider les autres et de partager mon savoir et mes références ❤️. Je le fais déjà au quotidien à travers les différentes communautés et groupes dans lesquels je suis actif.
 
-C’est aussi pour moi l’occasion de travailler à la construction d’un document rassemblant une majeure partie des éléments qui ont constitué mon parcours 📚 (et potentiellement **me remettre en question et faire un nouveau travail de recherche**). Cela devrait me permettre à titre personnel de former des juniors et mentee beaucoup plus facilement en les aidant avec mon propre document 💡.
+C’est aussi l’occasion pour moi de travailler à la construction d’un document rassemblant une majeure partie des éléments qui ont constitué mon parcours 📚. Cela pourrait potentiellement me remettre en question et me **pousser à faire un nouveau travail de recherche**. À titre personnel, cela devrait me permettre de former des juniors et des mentees beaucoup plus facilement en les aidant avec mon propre document 💡.
 
-De plus, je suis attristé de voir qu’en France __nous manquons encore cruellement de développeurs qualifiés en Node.js__. Beaucoup de mes clients ont un réel manque de candidats ayant une réelle connaissance ou intérêt envers le monde du back-end (la plupart des développeurs se concentrent bien souvent sur leur parcours front et/ou mobile).
+De plus, je suis attristé de voir qu’en France __nous manquons encore cruellement de développeurs qualifiés en Node.js__. Beaucoup de mes clients ont un réel manque de candidats ayant une véritable connaissance ou un intérêt envers le monde du back-end (la plupart des développeurs se concentrent bien souvent sur leur parcours front et/ou mobile).
 
 ## 📌 Légendes
 Le document comporte un ensemble de références (liens) vers des vidéos et articles qui sont segmentés par niveau de difficulté et langue ( FR  français ou  EN  anglais).

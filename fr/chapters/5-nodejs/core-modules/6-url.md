@@ -35,6 +35,25 @@ const buffer = readFileSync(new URL("./data.proto", import.meta.url));
 
 Bonus: [How to migrate from querystring to URLSearchParams in Node.js](https://www.linkedin.com/pulse/how-migrate-from-querystring-urlsearchparams-nodejs-vladim%25C3%25ADr-gorej/?trackingId=OEdtd%2BKZRxWNkgptsoWKlA%3D%3D)
 
+
+#### URL.parse
+
+```js
+// Avant
+let url = null;
+try {
+  url = new URL(input, base);
+} catch {}
+
+// Après
+const url = URL.parse(input, base);
+```
+
+#### Liens
+
+- [WHATWG-compliant and fast URL parser written in modern C++](https://github.com/ada-url/ada)
+- [Yagiz Nizipli & Daniel Lemire | Ada: Parsing Millions of URLs per Second](https://www.youtube.com/watch?v=tQ-6OWRDsZg)
+
 ---
 
 ⬅️ [🌟 Les différents modules core: Timers](./5-timers.md) |

@@ -29,6 +29,10 @@ Note that it is possible to call the unref method on a timer so that the event-l
 
 This is for example the case in the [SlimIO/Config](https://github.com/SlimIO/Config/blob/master/src/config.class.js#L272) package where a setInterval is used to constantly clean up Observables that have been closed (to avoid a memory-leak). However, I don't want the timer in question to prevent the event-loop from stopping if someone uses my package :)
 
+#### Links
+
+- [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
+
 ---
 
 ⬅️ [🌟 The different core modules: FileSystem](./4-fs.md) |

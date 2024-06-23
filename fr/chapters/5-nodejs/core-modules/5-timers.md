@@ -42,6 +42,10 @@ await timers.setTimeout(10_000, {
 });
 ```
 
+#### Liens
+
+- EN [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
+
 ---
 
 ⬅️ [🌟 Les différents modules core: FileSystem (fs)](./4-fs.md) |
