@@ -22,6 +22,7 @@ Autres ressources (articles, talks, études):
 - EN [OpenSSF Security Scorecards](https://github.com/ossf/scorecard)
 - EN [Char Wars: The Path Traversal Strikes Back - Liran Tal](https://www.youtube.com/watch?v=WGCmjvq6A6w&list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ&index=11)
 - EN [Eval all the strings! Hardened JavaScript - Zbyszek Tenerowicz](https://www.youtube.com/watch?v=Qjeh7Qo2u28)
+- EN [Stop Recommending JWTs (with symmetric keys)](https://trufflesecurity.com/blog/stop-recommending-jwts)
 
 ## Utile pour les mainteneurs de logiciels libres
 
@@ -35,8 +36,15 @@ Si vous travaillez sur Github, je vous recommande également mon dernier article
 
 ## Ebooks et cours en ligne
 
-- [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities (by Liran TAL)](https://www.nodejs-security.com/)
 - [Writing Secure Code in Node.js (By Vladimir de Turckheim)](https://www.infosecinstitute.com/skills/learning-paths/writing-secure-code-in-node-js/)
+
+Les différents ebooks de Liran TAL;
+
+- [Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com/book/command-injection)
+- [Mitigate and Weaponize Code Injection Vulnerabilities](https://www.nodejs-security.com/book/code-injection)
+- [Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal)
+- [Essential Node.js Security for Express Web Applications](https://www.nodejs-security.com/book/essential-nodejs-security)
+
 
 ---
 

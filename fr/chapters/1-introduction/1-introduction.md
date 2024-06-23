@@ -2,21 +2,27 @@
 
 ## 👀 Qui suis-je ?
 
-Moi c’est Thomas. J’ai 28 ans et je suis indépendant (freelance) depuis le début de ma carrière en 2015. À titre personnel je développe depuis l’âge de dix ans (principalement autour de l’écosystème Web 🌍).
+Moi c’est Thomas. J’ai 29 ans et je suis indépendant (freelance) depuis le début de ma carrière en 2015. À titre personnel je développe depuis l’âge de dix ans (principalement autour de l’écosystème Web 🌍).
 
-Je développe activement en Node.js depuis 2013 et me considère moi-même comme un Expert (J’ai à mon actif plusieurs centaines de projets en Node.js dont une majeure partie accessible et visible sur mon [github](https://github.com/fraxken)).
+Je développe activement en Node.js depuis 2013 et je me considère comme un Expert. J’ai à mon actif plusieurs centaines de projets en Node.js dont une majeure partie accessible est accessible et visible sur mon [GitHub](https://github.com/fraxken).
 
-J’ai travaillé sur énormément de projets de diverses natures : APIs, CLI, Addon natif, packages npm, compilateur etc.. Je m’oriente de plus en plus sur des projets bas niveau (C++ et Rust) en lien avec le monde du Software. Je suis par ailleurs de plus en plus amoureux de l’étude de la sémantique et de la grammaire des langages de programmation (domaine un peu scientifique / philosophique 😵).
+J’ai travaillé sur de nombreux projets de diverses natures : APIs, CLI, Addon natif, packages npm, compilateur, etc. Je m’oriente de plus en plus sur des projets bas niveau (C++ et Rust) en lien avec le monde du logiciel. Je suis par ailleurs de plus en plus passionné par l’étude de la sémantique et de la grammaire des langages de programmation.
 
-Au delà de tout cela je suis aussi actif sur divers projets, communautés et groupes:
+Au-delà de tout cela, je suis aussi actif sur divers projets, communautés et groupes :
 
 - Fondateur et Mentor d’[ES-Community](https://github.com/ES-Community) 💪🚀 (communauté francophone de JavaScript et Node.js sur Discord [depuis 2015](https://dev.to/fraxken/communaute-javascript-es-community-4nm3)).
 - Mainteneur principal de gros plusieurs projets open-source: [NodeSecure](https://github.com/Nodesecure), [TopCli](https://github.com/topcli), [Dashlog](https://github.com/Dashlog), [OpenAlly](https://github.com/Openally) (et pas mal d'autres plus vieux comme SlimIO).
 - Collaborateur Node.js 🐢 (Membre du [Security Working Group](https://github.com/nodejs/security-wg) 🔓).
-- Lead API & Node.js chez [MyUnisoft](https://www.welcometothejungle.com/fr/companies/myunisoft). Je gère une dizaine de développeurs Node.js. J’ai fait [un article](https://dev.to/fraxken/myunisoft-l-aventure-node-js-12i3) sur mon équipe si cela t’intéresse.
+- Lead API & Node.js chez [MyUnisoft](https://www.welcometothejungle.com/fr/companies/myunisoft). Je gère une dizaine de développeurs Node.js.
+
+Quelques articles sur mon équipe / mon travail;
+
+  - [MyUnisoft - l'aventure Node.js](https://dev.to/fraxken/myunisoft-l-aventure-node-js-12i3)
+  - [Moving MyUnisoft Node.js back to TypeORM](https://dev.to/fraxken/moving-myunisoft-nodejs-back-to-typeorm-3fok)
+  - [Designing MyUnisoft Next-Gen Accounting APIs](https://dev.to/fraxken/designing-myunisoft-next-gen-accounting-apis-1mn)
 
 > [!NOTE]
-> 🐱 Sentez vous libre de me contacter sur [Linkedin](https://www.linkedin.com/in/thomas-gentilhomme/) si vous avez des questions ou que vous souhaitez revoir vos profils et projets avec moi.|
+> 🐱 Sentez vous libre de me contacter sur [Linkedin](https://www.linkedin.com/in/thomas-gentilhomme/) si vous avez des questions ou que vous souhaitez revoir vos profils et projets avec moi.
 
 ## 👊 Pour qui ?
 

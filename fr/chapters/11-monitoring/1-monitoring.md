@@ -31,6 +31,7 @@ Liens et ressources pour du monitoring d’API HTTP :
 Liens et ressources pour du monitoring de logs :
 
 - EN [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
+- EN [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
 - EN [Fastify.js - Unlock the Power of Runtime Log Level Control (by Manuel Spigolon)](https://www.nearform.com/blog/unlock-the-power-of-runtime-log-level-control/)
 - [pino-loki - This package provides a transport for pino that forwards messages to Loki.](https://github.com/Julien-R44/pino-loki)
 

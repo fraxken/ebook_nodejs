@@ -2,7 +2,7 @@
 
 ## 👀 Who am I?
 
-My name is Thomas. I'm 28 years old and I've been independent (freelance) since the beginning of my career in 2015. Personally I've been developing since I was 10 years old (mainly around the web ecosystem 🌍).
+My name is Thomas. I'm 29 years old and I've been independent (freelance) since the beginning of my career in 2015. Personally I've been developing since I was 10 years old (mainly around the web ecosystem 🌍).
 
 I have been actively developing in Node.js since 2013 and consider myself as an Expert (I have to my credit several hundred projects in Node.js of which a major part is accessible and visible on my github).
 

@@ -38,6 +38,7 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[À savoir]** [Node.js sends warnings when you add too many listeners to an event emitter](https://www.stefanjudis.com/today-i-learned/nodejs-sends-warnings-when-you-add-too-many-listeners-to-an-event-emitter/)
 - EN **[À savoir]** [Node.js Memory Limits - What You Should Know](https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html)
 - FR **[À savoir]** [Gérer le CORS avec Node.js](https://boutdecode.fr/article/cors-avec-nodejs)
+- EN **[À savoir]** [How Node.js is helping you survive the IPv6 era](https://www.nearform.com/digital-community/how-node-js-is-helping-you-survive-the-ipv6-era/)
 - EN **[Intermédiaire]** [A Visual Guide to Node.js Streams](https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5)
 - EN **[Intermédiaire]** [The Secrets Behind High Performance With Node.js](https://www.nearform.com/blog/the-secrets-behind-high-performance-with-node-js/)
 - EN **[Intermédiaire]** [Managing load in Node.js with under-pressure](https://www.nearform.com/blog/managing-load-in-node-js-with-under-pressure/)
@@ -51,10 +52,17 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[Avancé]** [Developer Initiates I/O Operation. You Won't Believe What Happens Next.](https://cjihrig.com/node_libuv_io)
 - EN **[Avancé]** [HTTP Proxy Tunneling](https://blog.rafaelgss.com.br/http-proxy-tunneling)
 - EN **[Avancé]** [Implementing Node.js URL parser in WebAssembly with Rust](https://www.yagiz.co/implementing-node-js-url-parser-in-webassembly-with-rust)
+- EN **[Avancé]** [Memory leak regression testing with V8/Node.js, part 1 - memory usage-based testing](https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/)
 
 Vidéo sur ma chaine Youtube:
 - [AbortSignal avec Node.js](https://www.youtube.com/watch?v=oA4h10m_aZM)
 - [Node.js HTTP Agent](https://www.youtube.com/watch?v=cVM8FDSfx8s)
+
+Quelques blogs à suivre:
+
+- [Joyee Cheung](https://joyeecheung.github.io/blog/)
+- [Rafaelgss](https://blog.rafaelgss.com.br/)
+- [Yagiz Nizipli](https://www.yagiz.co/)
 
 ---
 

@@ -19,6 +19,7 @@ Talks et articles:
 - EN [Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - EN [Writing Tests With Fastify and Node Test Runner](https://www.nearform.com/blog/writing-tests-with-fastify-and-node-test-runner/)
 - EN [How to create E2E tests in Node.js with no frameworks - step by step!](https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step)
+- EN [Test Assertion Styles in JavaScript](https://blog.izs.me/2023/09/software-testing-assertion-styles/)
 
 ### 💃 Méthodologies
 

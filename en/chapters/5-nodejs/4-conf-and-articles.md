@@ -50,6 +50,12 @@ Various articles on fundamental notions in Node.js and on different core modules
 - [**Intermediate**] [How to improve JWT performance in Node.js](https://www.nearform.com/blog/improve-json-web-tokens-performance-in-node-js/)
 - [**Advanced**] [Our Journey to a High-Performance Node.js Library](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)
 
+Some Node.js TSC members blogs to follow:
+
+- [Joyee Cheung](https://joyeecheung.github.io/blog/)
+- [Rafaelgss](https://blog.rafaelgss.com.br/)
+- [Yagiz Nizipli](https://www.yagiz.co/)
+
 ---
 
 ⬅️ [🐢 Node.js: 🌐 Discovery of the HTTP Node.js ecosystem](./3-node-http-ecosystem.md) |
