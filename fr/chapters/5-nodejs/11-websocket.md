@@ -18,7 +18,8 @@ Si votre besoin nécessite de très haute performance je vous recommande de jete
 
 ### Resources complémentaires (articles, videos, talks)
 
-- EN  **[Avancé]** [Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Erick Wendel](https://www.youtube.com/watch?v=qFoFKLI3O8w)
+- EN **[Avancé]** [Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Erick Wendel](https://www.youtube.com/watch?v=qFoFKLI3O8w)
+- EN **[A savoir]** [James and Aaron Snell | The Journey to a new socketsAPI for JavaScript](https://www.youtube.com/watch?v=R0yh-E-f_dY&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=7)
 
 ---
 

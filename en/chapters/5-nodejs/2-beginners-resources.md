@@ -2,11 +2,10 @@
 
 ## 🐥 Resources for beginners
 
-Since a couple of years there has been the nodejs.dev website which offers an excellent way to start the adventure with Node.js. 
+Since a couple of years there has been the official Node.js [learn](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) course which offers an excellent way to start the adventure. 
 
 Among the other resources I recommend :
 
-- **[Intermediate]** [Official Node.js guides](https://nodejs.org/en/docs/guides/)
 - **[Beginner]** Liz Parody's article: [ABC’s of JavaScript and Node.js](https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs) to learn and understand the different keywords used in the Node ecosystem.
 - **[Beginner]** [Art of Node](https://github.com/maxogden/art-of-node) by Maxogden (not bad for those with programming experience).
 - **[Intermediate]** If you are looking for a more advanced reading I recommend: [Node.js design patterns](https://www.nodejsdesignpatterns.com/).

@@ -27,7 +27,7 @@ Quelques packages que je vous recommande :
 - [boxen](https://github.com/sindresorhus/boxen)
 - [Elegant terminal spinner](https://github.com/sindresorhus/ora)
 - [gauge](https://github.com/npm/gauge)
-- [qoa](https://github.com/klaussinani/qoa)
+- [@topcli/prompts](https://github.com/TopCli/prompts)
 
 Si jamais vous souhaitez voir un cas concret je vous invite à regarder le CLI d’un de mes projets [Node-secure](https://github.com/ES-Community/nsecure) ou bien [npq](https://github.com/lirantal/npq) de Liran tal.
 

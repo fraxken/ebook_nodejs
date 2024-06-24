@@ -4,7 +4,8 @@
 
 S’améliorer et s’éveiller sur des sujets comme le debug est très important en tant que développeur pour ne pas être perdu sur les actions à suivre lorsque l'on rencontre un souci un peu chevelu (qui demandera donc un peu plus que quelque console.log).
 
-> Notez tout de même que si vous avez besoin d’aller aussi loin, il y a peut-être un souci dans votre façon d 'architecturer votre code.
+> [!NOTE]
+> Si vous avez besoin d’aller aussi loin, il y a peut-être un souci dans votre façon d 'architecturer votre code.
 
 Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 
@@ -13,11 +14,11 @@ Voici une liste de ressources qui pourraient vous êtres nécessaire de lire :
 - EN [Node.js debugger API](https://nodejs.org/api/debugger.html)
 - EN [VS Code integrated tools for Node.js](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_debugging-your-node-application)
 - EN [Easy profiling for Node.js Applications](https://nodejs.org/en/docs/guides/simple-profiling/)
-- EN [Node.js console API](https://nodejs.org/api/console.html) (there is not only console.log ^^).
+- EN [Node.js console API](https://nodejs.org/api/console.html) (Il n'y a pas que `console.log` dans la vie ^^).
 - EN [Clinic.js rises to the top in diagnosing Node.js performance issues](https://www.nearform.com/blog/clinicjs-rises-top-diagnosing-nodejs-performance/)
 - EN [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
 - EN [Node.js Performance Analysis Without Changing Your Code](https://dev.to/mmarchini/nodejs-performance-analysis-without-changing-your-code-90g)
-
+- EN [Debugging Node.js using LLDB](https://mertcan.vercel.app/debugging-nodejs-with-lldb)
 - EN [Monitoring Node.js Performance](https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance/)
 
 Des ressources plutôt autour de la gestion et debug de la mémoire (memory leak ...).

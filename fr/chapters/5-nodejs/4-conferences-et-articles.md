@@ -2,21 +2,22 @@
 
 ## 📰 Conférences et Articles
 
-Il existe beaucoup de conférences sur Node.js mais nous allons principalement nous concentrer sur les interventions des conférences Node.js + interactive, [dotJS](https://www.youtube.com/user/dotconferences/playlists) et [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) (ou d’autres conférences avec des intervenants de qualité).
+Il existe beaucoup de conférences sur Node.js, mais nous allons principalement nous concentrer sur les interventions des conférences Node.js + Interactive, [dotJS](https://www.youtube.com/user/dotconferences/playlists) et [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) (ou d’autres conférences avec des intervenants de qualité).
 
-La plupart de ces talks sont disponibles sur la chaîne youtube [Node.js](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ) ou [Nearform](https://www.youtube.com/c/nearForm/videos) (il y a plusieurs centaines de talks donc il ne sont pas tous référencés ci-dessous).
+La plupart de ces talks sont disponibles sur les chaînes YouTube suivante :
+- [Node.js](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ)
+- [Nearform](https://www.youtube.com/c/nearForm/videos)
 
-- EN **[Débutant]** ["A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams](https://www.youtube.com/watch?v=aGJTXdXQN2o)
-- EN **[Débutant]** [Bringing JavaScript Back to Life](https://www.youtube.com/watch?v=XQIo9knnb2s)
-- EN **[Débutant]** [Anna Henningsen - Node.js and the struggles of being an EventTarget](https://www.youtube.com/watch?v=SOPC3aLoD4U&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=10)
+---
+
 - EN **[À savoir]** [Broken Promises by James Snell](https://www.youtube.com/watch?v=XV-u_Ow47s0&feature=emb_logo)
 - EN **[À savoir]** [Broken Promises, The Workshop Edition - Matteo Collina and James Snell](https://www.youtube.com/watch?v=yRyfr1Qcf34&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=11)
 - EN **[À savoir]** [Lightning Talk: Everything you Didn't Want to Know about Source Maps](https://www.youtube.com/watch?v=JuKIUYi8-Ec)
-- EN **[À savoir]** [Behind the Scenes of Node.js Distributions](https://www.youtube.com/watch?v=1nYswjtEUvE&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=13)
-- EN **[À savoir]** [Packaging a node.js binary for a platform or two - Irina Shestak](https://www.youtube.com/watch?v=1t1VgMaEs0I&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=21)
 - EN **[À savoir]** [Node.js startup performance - Joyee Cheung](https://www.youtube.com/watch?v=G36lrPrF09c&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=18)
-- EN **[À savoir]** [Road to a fast url parser in Node.js - Yagiz Nizipli](https://www.youtube.com/watch?v=hT25FOx5kNQ)
 - EN **[À savoir]** [The Life and Times of a Node.js Release - Danielle Adams](https://www.youtube.com/watch?v=OiSBodpU174)
+- EN **[À savoir]** [Yagiz Nizipli & Daniel Lemire | Ada: Parsing Millions of URLs per Second](https://www.youtube.com/watch?v=tQ-6OWRDsZg&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=10)
+- EN **[À savoir]** [Rafael Gonzaga | The Journey of the Node.js Permission Model](https://www.youtube.com/watch?v=9ntgUiQocTU&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=8)
+- EN **[Intermédiaire]** [Stephen Belanger | Node.js observability with diagnostics_channel and AsyncLocalStorage](https://www.youtube.com/watch?v=wqGlbxIHAwI&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=4)
 - EN **[Intermédiaire]** [How Node.js bootstraps itself by Joyee Cheung](https://www.youtube.com/watch?v=bwiLlcGvFEk&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=52)
 - EN **[Intermédiaire]** [The Unsung Hero Story of Events, Streams and Promises](https://www.youtube.com/watch?v=qOHgQAV2ydo)
 - EN **[Intermédiaire]** [Async Iterators: A New Future for Streams by Stephen Belanger](https://www.youtube.com/watch?v=YVdw1MDHVZs&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=37)
@@ -25,6 +26,13 @@ La plupart de ces talks sont disponibles sur la chaîne youtube [Node.js](https:
 - EN **[Intermédiaire]** [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
 - EN **[Intermédiaire]** [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 - EN **[Intermédiaire]** [Multithreaded Logging with Pino - Matteo Collina](https://www.youtube.com/watch?v=vETUVN-KEgc)
+- EN **[Avancé]** [Matteo Collina | Networkless HTTP](https://www.youtube.com/watch?v=65WoHVTwbtI&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=13)
+- EN **[Avancé]** [Paolo Insogna | Milo, a new HTTP parser for Node.js](https://www.youtube.com/watch?v=dcHbAeO_ccY&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=11)
+- EN **[Avancé]** [Igor Savin | Advanced caching in Node.js](https://www.youtube.com/watch?v=O0Nk3XhxxYg&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=14)
+- EN **[Avancé]** [Michael Dawson | Building native addons for Node.js (and more JavaScript engines) like it's 2023](https://www.youtube.com/watch?v=BEPTMiCNxlY&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=18)
+- EN **[Avancé]** [Joyee Cheung | JavaScript and C++ in Node.js core: how do they talk to each other?](https://www.youtube.com/watch?v=GrgMT5zMgF4&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=20)
+
+### Articles
 
 Divers articles sur des notions fondamentales en Node.js et sur différents modules du core.
 
@@ -54,15 +62,28 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[Avancé]** [Implementing Node.js URL parser in WebAssembly with Rust](https://www.yagiz.co/implementing-node-js-url-parser-in-webassembly-with-rust)
 - EN **[Avancé]** [Memory leak regression testing with V8/Node.js, part 1 - memory usage-based testing](https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/)
 
-Vidéo sur ma chaine Youtube:
-- [AbortSignal avec Node.js](https://www.youtube.com/watch?v=oA4h10m_aZM)
-- [Node.js HTTP Agent](https://www.youtube.com/watch?v=cVM8FDSfx8s)
+### Blogs 
 
-Quelques blogs à suivre:
+Je vous recommande chaudement de consulter les blogs de certains membres du TSC (Technical Steering Committee). Il n'est pas rare d'y lire des articles très intéressants, bien que parfois très techniques.
 
 - [Joyee Cheung](https://joyeecheung.github.io/blog/)
 - [Rafaelgss](https://blog.rafaelgss.com.br/)
 - [Yagiz Nizipli](https://www.yagiz.co/)
+
+### Autres
+
+Depuis fin 2023 Matteo collina fait aussi beaucoup de vidéos sur la chaîne YouTube Plaformatic :
+
+- [Node.js Configurations](https://www.youtube.com/watch?v=kVnh_tNYqxk)
+- [Unlocking Node.js' Power: A Journey into Fastify and Beyond](https://www.youtube.com/watch?v=x3SG71Ut2tA)
+- [Tackling the Hidden Time Cost in HTTP Clients](https://www.youtube.com/watch?v=LcBykd25NaU)
+- [A Deep Dive into Node.js Streams](https://www.youtube.com/watch?v=edB964-YYpE)
+
+Il m'arrive de temps à autres d'aussi faire des vidéos en Français sur Node.js :
+- [AbortSignal avec Node.js](https://www.youtube.com/watch?v=oA4h10m_aZM)
+- [Node.js HTTP Agent](https://www.youtube.com/watch?v=cVM8FDSfx8s)
+- [Sunrise #4 - CLI Node.js](https://www.youtube.com/watch?v=k4g3VwQSyfk)
+- [Sécurité Node.js - ReDos](https://www.youtube.com/watch?v=scW9rlEM2p0)
 
 ---
 
