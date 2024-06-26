@@ -43,7 +43,7 @@ Bonus:
 Various links to make native addons with Rust rather than C and C++ :
 - [Node.js N-API for Rust.](https://www.youtube.com/watch?v=UzTPBy2acio)
 - [NAPI-RS](https://github.com/napi-rs)
-- [Supercharge Your Node.js With Rust](https://yieldcode.blog/supercharge-nodejs-with-rust/)
+- [Supercharge Your Node.js With Rust](https://www.yieldcode.blog/post/supercharge-nodejs-with-rust/)
 - [Heavy computation in Node.js with Rust - Jean Burellier](https://www.youtube.com/watch?v=yme8ZZqa8NQ)
 
 ---

@@ -66,7 +66,7 @@ J’ai tout récemment ré-exploré le blog de Jake et franchement je ne me souv
 
 #### Surma
 
-Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités autour du Web (JavaScript et plus). Je vous recommande donc fortement d’aller lire son blog [surma.dev](https://surma.dev/things/index.htm>)!
+Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités autour du Web (JavaScript et plus). Je vous recommande donc fortement d’aller lire son blog [surma.dev](https://surma.dev/things/index.htm)!
 
 - EN **[A savoir]** [My most useful RegExp trick](https://surma.dev/things/regexp-quote/index.html)
 - EN **[Intermédiaire]** [Deep-copying in JavaScript](https://surma.dev/things/deep-copy/index.html)

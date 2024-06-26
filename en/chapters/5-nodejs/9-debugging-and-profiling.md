@@ -8,7 +8,7 @@ Improving on topics like debugging is very important as a developer in order not
 
 Here is a list of resources that you may need to read:
 
-- [Node.js debugging best practices - Joyent](https://www.joyent.com/node-js/production/debug)
+- [Node.js debugging best practices](https://www.tritondatacenter.com/node-js/production/debug)
 - [Node.js official debugging guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 - [Node.js debugger API](https://nodejs.org/api/debugger.html)
 - [VS Code integrated tools for Node.js](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_debugging-your-node-application)

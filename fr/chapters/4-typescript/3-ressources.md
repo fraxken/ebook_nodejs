@@ -18,7 +18,7 @@ Voici néanmoins quelques liens :
 - EN  **[Intermédiaire]** [Learn Advanced TypeScript Types](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab)
 - EN  **[Intermédiaire]** [Advanced TypeScript Types cheat sheet (with examples)](https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414)
 - EN  **[A savoir]** [JSDoc typings: all the benefits of TypeScript, with none of the drawbacks](https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks/)
-- EN  **[A savoir]** [Duck Typing in JavaScript and TypeScript](https://blog.bitsrc.io/duck-typing-in-javascript-and-typescript-7cc834fadd64)
+- EN  **[A savoir]** [Duck Typing in JavaScript and TypeScript](https://www.geeksforgeeks.org/typescript-duck-typing/)
 
 Quelques articles du Dr. Axel Rauschmayer:
 

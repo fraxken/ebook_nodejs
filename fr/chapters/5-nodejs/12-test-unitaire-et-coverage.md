@@ -34,7 +34,7 @@ Par exemple, apprendre TDD et autres méthodologies sera bénéfique pour ajoute
 Quelques liens pour vous faire une “opinion”:
 
 - FR [BDD, DDD, ATDD et TDD expliqués !](https://www.youtube.com/watch?v=jxBmKvS7lAo)
-- EN [Why Most Unit Testing is Waste](https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
+- EN [Why Most Unit Testing is Waste](https://gist.github.com/ktzar/596ee5aae7c41f2e585331e4b71d1e2c)
 - EN [Test-induced design damage.](https://dhh.dk/2014/test-induced-design-damage.html)
 - EN [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)
 - EN [TW Hangouts | Is TDD dead?.](https://www.youtube.com/watch?v=z9quxZsLcfo)

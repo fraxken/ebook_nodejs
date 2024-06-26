@@ -23,7 +23,7 @@ Autres ressources en lien avec le monitoring Node.js :
 ## API
 Liens et ressources pour du monitoring d’API HTTP :
 
-- [Health Check Response Format for HTTP APIs](https://tools.ietf.org/id/draft-inadarei-api-health-check-01.html)
+- [Health Check Response Format for HTTP APIs](https://datatracker.ietf.org/doc/html/draft-inadarei-api-health-check.html)
 
 ## Logs
 Liens et ressources pour du monitoring de logs :

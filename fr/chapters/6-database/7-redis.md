@@ -23,7 +23,7 @@ Articles ou talks:
 - EN [Solving Head-Of-Line blocking with auto pipelining, NearForm](https://www.youtube.com/watch?v=0L0ER4pZbX4)
 - EN 🆕 [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
 
-Pour plus de talks autour de Redis n’hésitez pas à consulter la chaine Youtube [Redis Labs](https://www.youtube.com/c/Redislabs/featured).
+Pour plus de talks autour de Redis n’hésitez pas à consulter la chaine Youtube [Redis Inc](https://www.youtube.com/@Redisinc).
 
 ---
 

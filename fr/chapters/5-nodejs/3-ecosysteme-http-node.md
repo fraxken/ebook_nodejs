@@ -8,7 +8,7 @@ Il est assez fréquent que les nouveaux développeurs commencent avec [express](
 
 <img src="./../../../assets/nodejs/download-framework.png" alt="download framework" width="600"/>
 
-Néanmoins [ce n’est pas forcément le meilleur choix](https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711) car l’équipe derrière **express** maintient difficilement le framework! (**<u>une V5 attendu depuis six ans</u> 🙊**) De plus, beaucoup des patterns qu’ils recommandent sont complètement démodés (toujours pas de support async/await …). Vous allez écrire du code qui n'inclut rien des pratiques modernes.
+Néanmoins [ce n’est pas forcément le meilleur choix](https://dev.to/ronanru/stop-using-expressjs-in-202-3kc) car l’équipe derrière **express** maintient difficilement le framework! (**<u>une V5 attendu depuis six ans</u> 🙊**) De plus, beaucoup des patterns qu’ils recommandent sont complètement démodés (toujours pas de support async/await …). Vous allez écrire du code qui n'inclut rien des pratiques modernes.
 
 **<u>Comment choisir le bon framework alors ?</u>** Eh bien il nous faut déjà essayer de segmenter ces frameworks par famille pour mieux comprendre et débattre des différents trade-offs que chaque solution implique.
 
@@ -118,7 +118,7 @@ Si vous souhaitez plutôt vous spécialiser en back-end alors je vous recommande
 - EN [Adonis 5 Tour - Romain Lanz](https://www.youtube.com/watch?v=TysfaNcFX_Y&feature=emb_logo)
 - FR [**débutant**] [LMHB #3: MONTER UNE APP WEB RAPIDEMENT AVEC ADONIS.JS FEAT @ROMAINLANZ](https://www.youtube.com/watch?v=vcrjgZezaI0&feature=youtu.be)
 
-> 👀 Un récent article de Snyk parle d’ailleurs [du succès de Fastify](https://snyk.io/advisor/hub/what-makes-fastify-a-successful-project/) (en anglais).
+> 👀 Un récent article de Snyk parle d’ailleurs [du succès de Fastify](https://snyk.io/blog/what-makes-fastify-a-successful-project/) (en anglais).
 
 Si vous êtes plutôt un puriste ou un développeur bas niveau et que vous aimez bien tout maîtriser de A à Z, alors il est fort probable que la famille small-scope soit pour vous. Il peut être intéressant pour vous dès lors d’explorer les différentes solutions (même si elles ne sont pas forcément mainstream).
 

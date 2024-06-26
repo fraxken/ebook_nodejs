@@ -40,7 +40,7 @@ If you want to continue to really dig into object-oriented programming, here are
 - [Inheritance Is Not Subtyping](https://www.cs.utexas.edu/~wcook/papers/InheritanceSubtyping90/CookPOPL90.pdf)
 - [A Behavioral Notion of Subtyping](https://www.cs.cmu.edu/~wing/publications/LiskovWing94.pdf)
 - [A Denotational Semantics of Inheritance](https://www.cs.utexas.edu/~wcook/papers/thesis/cook89.pdf)
-- [Representing Type Information in Dynamically Typed Languages](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.4394&rep=rep1&type=pdf)
+- [Representing Type Information in Dynamically Typed Languages](https://www.cs.arizona.edu/sites/default/files/TR93-27.pdf)
 - [Concurrent Object-Oriented Programming in Act 1](https://web.media.mit.edu/~lieber/Lieberary/OOP/Act-1/Concurrent-OOP-in-Act-1.html)
 - [The Power of Interoperability: Why Objects Are Inevitable](http://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf)
 - [Law of demeter](https://www2.ccs.neu.edu/research/demeter/papers/law-of-demeter/oopsla88-law-of-demeter.pdf)

@@ -20,7 +20,6 @@ Si vous avez l’occasion ou une idée de packages alors je vous recommande fort
 
 - EN [Getting started NPM](https://docs.npmjs.com/getting-started)
 - EN [NodeSchool - How to NPM](https://github.com/workshopper/how-to-npm)
-- EN [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
 - EN [CJ Silverio, CTO of npm](https://www.youtube.com/watch?v=HH3aNjjhMg8)
 - EN [npm and the Future of JavaScript - Laurie Voss, npm, Inc.](https://www.youtube.com/watch?v=0PU-4GGLzGg)
 - EN [Radical Modularity - Aria Stewart, npm, Inc.](https://www.youtube.com/watch?v=SsIdWFtp2QA)
@@ -42,7 +41,7 @@ C’est une solution très intéressante notamment pour n’avoir qu’un seul r
 - EN [Simplify your monorepo with npm 7 workspaces](https://dev.to/limal/simplify-your-monorepo-with-npm-7-workspaces-5gmj)
 - EN [npm Workspaces (RFC)](https://github.com/npm/rfcs/blob/latest/implemented/0026-workspaces.md)
 - EN [Workspaces in Yarn](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
-- EN [pnpm Workspace](https://pnpm.js.org/en/workspaces)
+- EN [pnpm Workspace](https://pnpm.io/workspaces)
 - EN [🐉 A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna)
 
 Je commence pour ma part à peine à les utiliser à travers différents projets, donc je compléterai la section au cours des prochains mois.
