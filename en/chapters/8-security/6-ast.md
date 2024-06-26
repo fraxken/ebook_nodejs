@@ -2,7 +2,7 @@
 
 ## Static Analysis & AST
 
-As part of my [NodeSecure](https://github.com/NodeSecure/cli) project, one of my objectives was to succeed in detecting various and varied “malicious” codes that have been listed through various attacks (several can be found on [badjs](https://badjs.org/)).
+As part of my [NodeSecure](https://github.com/NodeSecure/cli) project, one of my objectives was to succeed in detecting various and varied “malicious” codes that have been listed through various attacks.
 
 When we talk about static analysis, it is therefore a question of analyzing a source code without ever executing it (otherwise it is rather a dynamic analysis). For this we will transform the code into AST format which will make the analysis of the code much simpler.
 

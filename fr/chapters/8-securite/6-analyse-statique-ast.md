@@ -1,7 +1,7 @@
 # 🔐 Sécurité
 
 ## Analyse statique & AST
-Dans le cadre de mon projet [NodeSecure](https://github.com/NodeSecure/cli), un de mes objectifs était de réussir à détecter des codes “malicieux” divers et variés qui ont été répertoriés à travers diverses attaques (plusieurs peuvent être retrouvés sur [badjs](https://badjs.org/)).
+Dans le cadre de mon projet [NodeSecure](https://github.com/NodeSecure/cli), un de mes objectifs était de réussir à détecter des codes “malicieux” divers et variés qui ont été répertoriés à travers diverses attaques.
 
 Quand nous parlons d’analyse statique, il s’agit donc d’analyser un code source sans jamais l’exécuter (sinon c’est plutôt une analyse dynamique). Pour cela nous allons transformer le code en format AST ce qui va rendre l’analyse du code bien plus simple.
 
