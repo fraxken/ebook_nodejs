@@ -19,10 +19,10 @@
   "homepage": "https://github.com/fraxken/ebook_nodejs#readme",
   "dependencies": {
     "@myunisoft/html-to-pdf": "^1.6.1",
-    "@nodesecure/fs-walk": "^1.0.0",
-    "@rossbob/image-to-base64": "^2.0.0",
-    "jsdom": "^22.1.0",
-    "marked": "^10.0.0",
+    "@nodesecure/fs-walk": "^2.0.0",
+    "@rossbob/image-to-base64": "^3.0.1",
+    "jsdom": "^24.1.0",
+    "marked": "^13.0.2",
     "marked-alert": "^2.0.1"
   }
 }
