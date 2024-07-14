@@ -4,7 +4,8 @@
   "description": "A Node.js Ebook by GENTILHOMME Thomas.",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:pdf": "node scripts/generatePdf.js && node scripts/generatePdf.js --lang fr"
   },
   "repository": {
     "type": "git",
