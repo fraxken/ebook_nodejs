@@ -90,7 +90,6 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 - EN  **[A savoir]** [Javascript and the next decade of data programming](<https://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/>)
 - EN  **[A savoir]** [JS classes are not “just syntactic sugar”](<https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078>)
 - EN  **[A savoir]** [10 Awesome Github Repos Every Web Developer Should Know](https://dev.to/simonholdorf/10-awesome-github-repos-every-web-developer-should-know-27oa)
-- FR  **[A savoir]** [Expression versus structure de contrôle en JavaScript](https://blog.lesieur.name/expression-versus-structure-de-controle-en-javascript/)
 - EN  **[A savoir]** [Sometimes undefined is defined](https://medium.com/@bmeurer/sometimes-undefined-is-defined-7701e1c9eff8)
 - EN  **[A savoir]** [+-0, NaN and Object.is in JavaScript](https://www.stefanjudis.com/today-i-learned/0-nan-and-object-is-in-javascript/)
 - EN  **[A savoir]** [JSON.stringify takes toJSON methods into consideration](https://medium.com/@bmeurer/sometimes-undefined-is-defined-7701e1c9eff8)
