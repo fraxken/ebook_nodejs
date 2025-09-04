@@ -15,7 +15,6 @@ This document is not set in stone and will evolve as much as I deem necessary ov
     - [👀 Who am I?](./chapters/1-introduction/1-introduction.md#-Who-am-I-)
     - [👊 For whom?](./chapters/1-introduction/1-introduction.md#-For-whom-)
     - [💬 Why?](./chapters/1-introduction/1-introduction.md#-Why-)
-    - [😬 The required investment](./chapters/1-introduction/1-introduction.md#-The-required-investment-)
     - [📌 Legends](./chapters/1-introduction/1-introduction.md#📌-legends)
 - [JavaScript](./chapters/2-javascript/1-introduction.md)
   - [📕 Dedicate a daily time to reading](./chapters/2-javascript/2-reading.md)
