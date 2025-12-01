@@ -10,8 +10,8 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+    - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
     - name: 'restqa-404-links'
-      uses: restqa/404-links@dd7342182161a3b8562cb8f1ee094b1ee8311808 # 3.1.4
+      uses: restqa/404-links@2dddde704a1633e9a55ad78d36a0149de9c89d5a # 3.1.6
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
