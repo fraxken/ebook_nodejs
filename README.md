@@ -16,8 +16,9 @@ I gave two live stream in **French** on the ebook, if you want to see/listen to 
 I welcome contributions to complement the various links and resources already present in the ebook. I am open to new sections as long as they are in line with my vision of the ebook (so don't hesitate to ask me if you are not sure).
 
 ## Follow me on social network
-- [Twitter](https://twitter.com/fraxken)
+- [X](https://x.com/fraxken)
 - [LinkedIn](https://www.linkedin.com/in/thomas-gentilhomme/)
+- [Dev.to](https://dev.to/fraxken)
 
 ## ✨ Contributors 
 
