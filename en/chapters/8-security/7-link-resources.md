@@ -4,8 +4,6 @@
 
 The git [Awesome Node.js security repo](https://github.com/lirantal/awesome-nodejs-security) is a nugget not to be missed (it references a lot of projects, articles and other documents to help you wake up to security in Node.js).
 
-I also recommend [Node.js Security Handbook](https://www.sqreen.com/resources/nodejs-security-handbook) by the Sqreen company to learn how to better secure your Node.js applications.
-
 Other resources (articles, talks, studies):
 
 - [The State of Open Source Security 2023 - Snyk](https://snyk.io/reports/open-source-security/)

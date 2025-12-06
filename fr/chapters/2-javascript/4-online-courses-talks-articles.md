@@ -83,7 +83,6 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 
 #### Autres articles
 
-- EN  **[Débutant]** [13 useful JavaScript array tips and tricks you should know](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo)
 - FR  **[Débutant]** [Les propriétés et descripteurs de propriétés en JavaScript](<https://blog.lesieur.name/les-proprietes-et-descripteurs-de-proprietes/>)
 - FR  **[Débutant]** [19 JAVASCRIPT NUGGETS!](https://delicious-insights.com/en/posts/js-nuggets/)
 - FR  **[Débutant]** [Natively Format JavaScript Dates and Times](https://elijahmanor.com/blog/format-js-dates-and-times)

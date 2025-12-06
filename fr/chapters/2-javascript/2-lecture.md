@@ -8,10 +8,9 @@ Cela va vous permettre d’améliorer et d’acquérir tout un tas de compréhen
 
 Parmis les références que je vous recommande de lire 👇:
 
-- **[Débutant]** [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/index.html) par [Axel Rauschmayer](http://dr-axel.de/)
+- **[Débutant]** [Exploring JavaScript - ES2025 Edition](https://exploringjs.com/js/index.html)
 - **[Débutant]** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) par [Kyle Simpson](https://github.com/getify)
 - **[Débutant]** [Eloquent JavaScript](https://eloquentjavascript.net/) par [Marijn Haverbeke](https://marijnhaverbeke.nl/)
-- **[Débutant]** [JavaScript de ES1 à ES5](http://speakingjs.com/) par [Axel Rauschmayer](http://dr-axel.de/)
 - **[Intermédiaire]** [Speaking JavaScript: An In-Depth Guide](https://exploringjs.com/es5/) par [Axel Rauschmayer](http://dr-axel.de/)
 - **[Intermédiaire]** [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/) par [Kyle Simpson](https://github.com/getify)
 - **[Avancé]** [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html) par [Axel Rauschmayer](http://dr-axel.de/)

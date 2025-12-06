@@ -19,7 +19,6 @@ Other resources, tools and packages to build documentations:
 - [JSDoc](https://jsdoc.app/) (voir aussi [ESDoc](https://esdoc.org/)).
 - [TypeDoc](https://typedoc.org/) (pour TypeScript)
 - [Github Pages](https://pages.github.com/)
-- [What it takes to build great product documentation](https://blog.sqreen.com/great-product-documentation/)
 - [Beyond the README: Creating Effective Documentation for Your Project by Rand McKinney, IBM](https://www.youtube.com/watch?v=NwUWuD9Idv4)
 
 If you are building an API: having an [OpenAPI](https://swagger.io/specification/) with for example a [Swagger](https://swagger.io/tools/swagger-ui/) interface can be a big plus (a postman collection can also do the trick).

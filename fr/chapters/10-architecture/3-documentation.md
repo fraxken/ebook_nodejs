@@ -19,7 +19,6 @@ Exemple de projets pour vous inspirer: [JS-X-Ray](https://github.com/NodeSecure/
 - [JSDoc](https://jsdoc.app/) (voir aussi [ESDoc](https://esdoc.org/)).
 - [TypeDoc](https://typedoc.org/) (pour TypeScript)
 - [Github Pages](https://pages.github.com/)
-- [What it takes to build great product documentation](https://blog.sqreen.com/great-product-documentation/)
 - [Beyond the README: Creating Effective Documentation for Your Project by Rand McKinney, IBM](https://www.youtube.com/watch?v=NwUWuD9Idv4)
 
 Si vous construisez une API: avoir un [OpenAPI](https://swagger.io/specification/) avec par exemple une interface [Swagger](https://swagger.io/tools/swagger-ui/) peut-être un gros plus (une collection postman peut aussi faire l’affaire).

@@ -11,7 +11,6 @@ Néanmoins il faut comprendre qu’il ne faut pas appliquer bêtement ces règle
 Autres liens que je vous recommande de lire :
 
 * [Clean Code (Wiki C2)](https://wiki.c2.com/?CleanCode)
-* [Effects of Clean Code on Understandability](https://www.duo.uio.no/bitstream/handle/10852/51127/master.pdf?sequence=1)
 * [The Effect of Poor Source Code Lexicon and Readability on Developers’ Cognitive Load](http://veneraarnaoudova.ca/wp-content/uploads/2018/03/2018-ICPC-Effect-lexicon-cognitive-load.pdf)
 * [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 * [Clean Code JavaScript (github)](https://github.com/ryanmcdermott/clean-code-javascript)

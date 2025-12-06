@@ -8,7 +8,7 @@ La spécification est ensuite validée par l’organisme Ecma International en j
 
 Le terme JavaScript est resté dans le vocabulaire courant, mais, en fait, il s’agit bien d’ECMAScript 💃.
 
-> Texte repris du chapitre FR [“Qu’est que JavaScript ?”](https://oncletom.io/node.js/chapter-03/#definition) du livre de Thomas Parisot.
+> Texte repris du chapitre FR [“Qu’est que JavaScript ?”](https://apprendre-nodejs.fr/v1/chapter-03/#definition) du livre de Thomas Parisot.
 
 ---
 

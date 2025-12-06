@@ -8,10 +8,9 @@ This will allow you to improve and acquire a whole lot of understanding (like fo
 
 Among the references I recommend you to read 👇:
 
-- **[Beginner]** [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/index.html) by [Axel Rauschmayer](http://dr-axel.de/)
+- **[Beginner]** [Exploring JavaScript - ES2025 Edition](https://exploringjs.com/js/index.html)
 - **[Beginner]** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by [Kyle Simpson](https://github.com/getify)
 - **[Beginner]** [Eloquent JavaScript](https://eloquentjavascript.net/) by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
-- **[Beginner]** [JavaScript de ES1 à ES5](http://speakingjs.com/) by [Axel Rauschmayer](http://dr-axel.de/)
 - **[Intermediate]** [Speaking JavaScript: An In-Depth Guide](https://exploringjs.com/es5/) by [Axel Rauschmayer](http://dr-axel.de/)
 - **[Intermediate]** [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/) by [Kyle Simpson](https://github.com/getify)
 - **[Advanced]** [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html) by [Axel Rauschmayer](http://dr-axel.de/)

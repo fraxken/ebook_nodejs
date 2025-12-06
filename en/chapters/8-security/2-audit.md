@@ -4,7 +4,7 @@
 
 It becomes mandatory to set up automatic security audits on your dependencies in order to have even a minimal view of "known" vulnerabilities within each project. Of course, this is only the first step towards optimal security!
 
-Tools such as [Snyk](https://snyk.io/), [sqreen](https://www.sqreen.com/), [npm audit](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities) allow you to have an overview of active CVEs or possible attacks on your projects (snyk's free offer is rather generous).
+Tools such as [Snyk](https://snyk.io/), [npm audit](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities) allow you to have an overview of active CVEs or possible attacks on your projects (snyk's free offer is rather generous).
 
 *Example below of a snyk dashboard on the SlimIO project*
 

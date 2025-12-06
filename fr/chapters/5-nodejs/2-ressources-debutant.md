@@ -5,7 +5,7 @@
 En 2024, la meilleure ressource pour démarrer est le site officiel de Node.js. Il comporte une section d'introduction abordant tout un ensemble de notions : [Introduction à Node.js](https://nodejs.org/fr/learn/getting-started/introduction-to-nodejs)
 
 > [!NOTE]
-> En français, on m’a récemment recommandé [le livre "Node.js: apprendre par la pratique"](https://oncletom.io/node.js/#Chapitrage-et-contenu-du-livre) de Thomas Parisot que je trouve excellent (un Thomas, c’est normal 😆). Il couvre énormément de sujets et **c’est plutôt cool pour les débutants**.
+> En français, on m’a récemment recommandé [le livre "Node.js: apprendre par la pratique"](https://apprendre-nodejs.fr/v1/#Chapitrage-et-contenu-du-livre) de Thomas Parisot que je trouve excellent (un Thomas, c’est normal 😆). Il couvre énormément de sujets et **c’est plutôt cool pour les débutants**.
 
 Parmis les autres ressources que je vous recommande :
 

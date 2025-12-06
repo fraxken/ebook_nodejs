@@ -30,7 +30,6 @@ Most of these talks are available on the following YouTube channels:
 - [**Intermediate**] [Async Iterators: A New Future for Streams by Stephen Belanger](https://www.youtube.com/watch?v=YVdw1MDHVZs&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=37)
 - [**Intermediate**] [Stream into the Future - Matteo Collina, NearForm](https://www.youtube.com/watch?v=dEFdt_6fW-0&feature=emb_logo)
 - [**Intermediate**] [llhttp - new HTTP 1.1 parser for Node.js by Fedor Indutny](https://www.youtube.com/watch?v=x3k_5Mi66sY&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=15)
-- [**Intermediate**] [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
 - [**Intermediate**] [Node.js Multithreading, Part 1](https://www.nearform.com/blog/node-js-multithreading-part-1/)
 - [**Intermediate**] [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 - [**Advanced**] [Multithreaded Logging with Pino - Matteo Collina](https://www.youtube.com/watch?v=vETUVN-KEgc)
@@ -65,7 +64,6 @@ Various articles on fundamental notions in Node.js and on different core modules
 I highly recommend checking out the blogs of some members of the TSC (Technical Steering Committee). It is not uncommon to find very interesting, albeit sometimes very technical, articles there.
 
 - [Joyee Cheung](https://joyeecheung.github.io/blog/)
-- [Rafaelgss](https://blog.rafaelgss.com.br/)
 - [Yagiz Nizipli](https://www.yagiz.co/)
 
 ### Others

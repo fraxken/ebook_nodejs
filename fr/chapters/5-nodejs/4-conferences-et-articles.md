@@ -23,7 +23,6 @@ La plupart de ces talks sont disponibles sur les chaînes YouTube suivante :
 - EN **[Intermédiaire]** [Async Iterators: A New Future for Streams by Stephen Belanger](https://www.youtube.com/watch?v=YVdw1MDHVZs&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=37)
 - EN **[Intermédiaire]** [Stream into the Future - Matteo Collina, NearForm](https://www.youtube.com/watch?v=dEFdt_6fW-0&feature=emb_logo)
 - EN **[Intermédiaire]** [llhttp - new HTTP 1.1 parser for Node.js by Fedor Indutny](https://www.youtube.com/watch?v=x3k_5Mi66sY&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=15)
-- EN **[Intermédiaire]** [Experimenting with remote debugging: Node.js runtime code injection](https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/)
 - EN **[Intermédiaire]** [Using AbortSignal in Node.js](https://www.nearform.com/blog/using-abortsignal-in-node-js/)
 - EN **[Intermédiaire]** [Multithreaded Logging with Pino - Matteo Collina](https://www.youtube.com/watch?v=vETUVN-KEgc)
 - EN **[Avancé]** [Matteo Collina | Networkless HTTP](https://www.youtube.com/watch?v=65WoHVTwbtI&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=13)
@@ -55,10 +54,8 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 - EN **[Intermédiaire]** [Understanding Worker Threads in Node.js](https://nodesource.com/blog/worker-threads-nodejs)
 - EN **[Intermédiaire]** [How to improve JWT performance in Node.js](https://www.nearform.com/blog/improve-json-web-tokens-performance-in-node-js/)
 - EN **[Intermédiaire]** [Node.js Multithreading, Part 1](https://www.nearform.com/blog/node-js-multithreading-part-1/)
-- FR **[Avancé]** [Implémenter et consommer les Streams « Readable » et « Writable » de Node.js](https://blog.engineering.publicissapient.fr/2020/02/19/implementer-et-consommer-les-streams-readable-et-writable-de-node-js/)
 - EN **[Avancé]** [Our Journey to a High-Performance Node.js Library](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)
 - EN **[Avancé]** [Developer Initiates I/O Operation. You Won't Believe What Happens Next.](https://cjihrig.com/node_libuv_io)
-- EN **[Avancé]** [HTTP Proxy Tunneling](https://blog.rafaelgss.com.br/http-proxy-tunneling)
 - EN **[Avancé]** [Implementing Node.js URL parser in WebAssembly with Rust](https://www.yagiz.co/implementing-node-js-url-parser-in-webassembly-with-rust)
 - EN **[Avancé]** [Memory leak regression testing with V8/Node.js, part 1 - memory usage-based testing](https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/)
 
@@ -67,7 +64,6 @@ Divers articles sur des notions fondamentales en Node.js et sur différents modu
 Je vous recommande chaudement de consulter les blogs de certains membres du TSC (Technical Steering Committee). Il n'est pas rare d'y lire des articles très intéressants, bien que parfois très techniques.
 
 - [Joyee Cheung](https://joyeecheung.github.io/blog/)
-- [Rafaelgss](https://blog.rafaelgss.com.br/)
 - [Yagiz Nizipli](https://www.yagiz.co/)
 
 ### Autres

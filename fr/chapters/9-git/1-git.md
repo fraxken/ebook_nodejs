@@ -12,7 +12,6 @@ Il existe quelques ouvrages qui vont traverser tout un ensemble de notions vis-�
 
 Nous avons la chance en France d’avoir des articles, talks et formations de qualité grâce à Delicious insights (Christophe Porteneuve et ses collègues). Beaucoup du contenu ci-dessous **est gratuit**, mais si vous en avez les moyens, je vous recommande très fortement d’investir sur un cours :
 
-* FR [Les concepts clés de Git](https://cours-video.delicious-insights.com/git-concepts)
 * FR [Meilleures pratiques Git & GitHub par Christophe Porteneuve](https://www.youtube.com/watch?v=GH7wJ9voKK4)
 * FR [Git pro tips: Maîtrisez Git comme un pro !](https://www.youtube.com/watch?v=OgVQDtEf0w8)
 * FR [Bien utiliser Git merge et rebase](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
