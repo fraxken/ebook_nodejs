@@ -8,7 +8,7 @@ Ces outils sont très couramment utilisés et développés pour simplifier la vi
 
 Je recommande souvent au débutant de découvrir Node.js par le biais de la construction d’un CLI (par exemple un petit jeu RPG au format texte jouable avec des commandes.. c’est vraiment une idée de petit projet qui vous pousse à améliorer votre niveau de maîtrise en JavaScript).
 
-Si vous voulez vous y mettre, je vous recommande [ce petit guide](https://x-team.com/blog/a-guide-to-creating-a-nodejs-command/) ou également [Créer un outil en ligne de commande](https://oncletom.io/node.js/chapter-08/) (français) qui va vous apprendre à mettre en place une CLI simple. Aussi je vous recommande de lire la doc [npm link](https://docs.npmjs.com/cli/v6/commands/npm-link) ainsi que la doc sur le champ [bin](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin) du package.json.
+Si vous voulez vous y mettre, je vous recommande [ce petit guide](https://x-team.com/blog/a-guide-to-creating-a-nodejs-command/) ou également [Créer un outil en ligne de commande](https://apprendre-nodejs.fr/v1/chapter-08/) (français) qui va vous apprendre à mettre en place une CLI simple. Aussi je vous recommande de lire la doc [npm link](https://docs.npmjs.com/cli/v6/commands/npm-link) ainsi que la doc sur le champ [bin](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin) du package.json.
 
 D’autres ressources (talks et articles) sur le sujet :
 

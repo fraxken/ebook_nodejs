@@ -22,8 +22,8 @@
     "@myunisoft/html-to-pdf": "^1.6.1",
     "@nodesecure/fs-walk": "^2.0.0",
     "@rossbob/image-to-base64": "^3.0.1",
-    "jsdom": "^26.1.0",
-    "marked": "^15.0.12",
+    "jsdom": "^27.2.0",
+    "marked": "^17.0.1",
     "marked-alert": "^2.1.2"
   }
 }

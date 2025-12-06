@@ -14,8 +14,6 @@ Nous avons la chance en France d’avoir des articles, talks et formations de qu
 
 * FR [Meilleures pratiques Git & GitHub par Christophe Porteneuve](https://www.youtube.com/watch?v=GH7wJ9voKK4)
 * FR [Git pro tips: Maîtrisez Git comme un pro !](https://www.youtube.com/watch?v=OgVQDtEf0w8)
-* FR [Bien utiliser Git merge et rebase](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
-* FR [Git undo: ou le savoir-défaire](https://cours-video.delicious-insights.com/git-undo)
 * FR [Git reset : rien ne se perd, tout se transforme](https://www.paris-web.fr/2019/conferences/git-reset-rien-ne-se-perd-tout-se-transforme.php)
 * EN [Learn Git Branching](https://learngitbranching.js.org/?locale=fr_FR)
 

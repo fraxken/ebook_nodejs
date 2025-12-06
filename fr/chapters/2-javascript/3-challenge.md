@@ -15,14 +15,11 @@ S'entraîner par le biais de différents exercices et challenges est important c
 Les liens suivant vous permettront d’effectuer un ensemble de workshops et challenges:
 - EN **[Débutant]** [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - FR **[Débutant]** [https://nodeschool.io/](https://nodeschool.io/) (Il y a plus d’une dizaine de workshops vraiment très intéressants à faire, **voir la section suivante**).
-- FR **[Débutant]** [https://www.thearenaproject.co/](https://www.thearenaproject.co/) Challenge tes compétences en shell, algorithme et TypeScript dans l'arène le tout accompagné d'une communauté française sur Discord.
 - EN 🆕 **[Débutant]** [JavaScript Algorithms Crash Course - Learn Algorithms & "Big O" from the Ground Up!](https://www.youtube.com/watch?v=JgWm6sQwS_I)
 - EN **[Intermédiaire]** [https://jskatas.org/](https://jskatas.org/)
 - EN **[Intermédiaire]** [https://warriorjs.com/](https://warriorjs.com/)
 - EN **[Intermédiaire]** [Challenge “Build Your Own Array in Javascript!”](https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js)
 - FR **[Avancé]** [https://github.com/fraxken/test-challenge](https://github.com/fraxken/test-challenge) (Des mini-challenges où l’objectif est l’écriture de test unitaire.. n’hésitez pas à prendre contact avec moi si besoin).
-
-En France il y aussi le [Battle Dev](https://battledev.blogdumoderateur.com/) qui est organisé fréquemment. Les membres de la communauté JS participent depuis quelques éditions.
 
 ### 🏫 Nodeschool
 Si vous êtes débutant ou que vous ne connaissez pas encore les workshops de [Nodeschool](https://nodeschool.io/), je vais vous guider dans les différents choix qui s’offrent à vous.

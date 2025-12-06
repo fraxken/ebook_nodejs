@@ -4,13 +4,9 @@
 
 ### Udemy vs Frontend Masters
 
-Beaucoup de développeurs font l’erreur de choisir [Udemy](https://www.udemy.com/) comme plateforme d’apprentissage **pour JavaScript et Node.js**. La plateforme possède un modèle économique très peu recommandable et déjà plusieurs [scandales](https://www.troyhunt.com/the-piracy-paradox-at-udemy/) ont éclaté au travers du temps 😔.
+La qualité des cours sur Udemy est très variable.
 
-Il est important de comprendre, que quand votre objectif est de réussir à trouver un emploi dans les prochains mois, il est plutôt problématique de se baser sur du contenu **ayant une qualité très variable, peu ou pas à jour depuis des années et quelquefois à la limite de l’éthique 😮 (<u>ce qui ne veut pas non plus dire qu’il n’y a pas du bon contenu j’entends bien</u>**).
-
-Un exemple plutôt flagrant des mauvaises formations est bien souvent des croyances du genre “Une fonction async / une promesse génère un thread en arrière-fond 💩” (**phrase que j’ai moi-même entendue dans un cours d’un formateur réputé “<u>expérimenté</u>”**). Beaucoup ont pour habitude de diminuer les impacts de ses fausses croyances.. Néanmoins elles [ont des impacts réels en production](<https://www.youtube.com/watch?v=XV-u_Ow47s0>).
-
-Je vous recommande plutôt d’investir sur un compte [Frontend Masters](https://frontendmasters.com/) qui vous permettra d’avoir accès à un ensemble de cours à jour avec [**des experts** qui sont reconnus et qualifiés dans leurs domaines respectifs](<https://frontendmasters.com/teachers/>) (c’est d’autant plus nécessaire si vous visez le front et le back).
+Je vous recommanderais plutôt d’investir sur un compte [Frontend Masters](https://frontendmasters.com/) qui vous permettra d’avoir accès à un ensemble de cours à jour avec [**des experts** qui sont reconnus et qualifiés dans leurs domaines respectifs](<https://frontendmasters.com/teachers/>) (c’est d’autant plus nécessaire si vous visez le front et le back).
 
 [Les étudiants auront d’ailleurs bien souvent le droit à six mois gratuits.](https://frontendmasters.com/welcome/github-student-developers/)
 
@@ -74,6 +70,8 @@ Aussi un excellent développeur et vulgarisateur de concepts et fonctionnalités
 
 #### Lydia Hallie
 
+La reine de la vulgarisation par la visualisation ^-^
+
 - EN **[Débutant]** [JavaScript Promises: An introduction](https://web.dev/promises/)
 - EN **[Débutant]** [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - EN **[Débutant]** [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
@@ -121,7 +119,6 @@ J’ai toujours beaucoup apprécié Christophe PORTENEUVE en tant qu’orateur �
 - FR  **[Débutant]** [ES6+ maintenant!](https://www.youtube.com/watch?v=KJzlllc7Jq8)
 - FR  **[Débutant]** [Deep dive dans async/await](https://www.youtube.com/watch?v=2P9fbuNEM5w)
 - FR  **[Débutant]** [Alors, quoi de neuf en ES2022 ?](https://www.youtube.com/watch?v=L2Ul--lVML4)
-- EN  **[Débutant]** [Writing Modern Async JavaScript (par Christophe Porteneuve)](https://screencasts.delicious-insights.com/writing-modern-async-javascript)
 - EN  [**Intermédiaire**] [Christophe Porteneuve - Fun and Games With ES Proxies](https://vimeo.com/364362111)
 
 Les autres talks

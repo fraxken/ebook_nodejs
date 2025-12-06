@@ -4,5 +4,9 @@ ignore:
     - https://www.linkedin.com/in/nadiamedkouri/ #myterious reason the link return a 999
     - https://leetcode.com #website hates the crawler
     - https://www.udemy.com #website hates the crawler
+    - https://www.youtube.com #website hates the crawler
+    - https://medium.com #website hates the crawler
+    - https://www.npmjs.com #website hates the crawler
     - https://vimeo.com
+    - https://apprendre-nodejs.fr/
     - https://www2.ccs.neu.edu/research/demeter/papers/law-of-demeter/oopsla88-law-of-demeter.pdf

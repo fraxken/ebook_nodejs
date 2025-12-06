@@ -9,7 +9,6 @@ For starters, there's [no consensus on an exact definition of OO](https://wiki.c
 Below are two links that are rather important to read to start getting a good idea of ​​the fundamental principles of OO:
 
 - [The definitions of Alan Kays](https://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented) (the one many consider to be the founding father of OO with Smalltalk).
-- [A Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented"](https://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html) (the definition I find the most serious at the moment and which I discovered through Wirfs-brock).
 
 There are many other definitions and speculations that you can find [here](https://wiki.c2.com/?DefinitionsForOo). For my part, I also read a good part of [Theory of objects](http://lucacardelli.name/TheoryOfObjects.html) which allowed me to open my eyes to a lot of notions at a semantic level.
 

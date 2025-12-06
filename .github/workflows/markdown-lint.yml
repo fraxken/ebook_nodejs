@@ -10,7 +10,7 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+    - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
     - name: 'restqa-404-links'
       uses: restqa/404-links@dd7342182161a3b8562cb8f1ee094b1ee8311808 # 3.1.4
       env:

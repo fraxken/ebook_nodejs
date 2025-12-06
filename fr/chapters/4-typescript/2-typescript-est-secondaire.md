@@ -10,9 +10,10 @@ Il est important d’apprendre les choses dans le bon ordre… (ce qui ne veut p
 
 Prenez le temps de vous construire une fondation en JavaScript pour mieux comprendre les avantages et désavantages quand vous aurez à choisir TypeScript pour vos projets.
 
-> ✨ Je n’ai rien contre TypeScript et je l’utilise quotidiennement à travers divers projets d’entreprises et perso… même dans le cadre de projets purement écrits en JavaScript : TypeScript  reste omniprésent (VS Code, Définition de types, JSDoc …).
+> [!IMPORTANT]
+> Je n’ai rien contre TypeScript et je l’utilise quotidiennement à travers divers projets d’entreprises et perso… même dans le cadre de projets purement écrits en JavaScript : TypeScript  reste omniprésent (VS Code, Définition de types, JSDoc …).
 >
-> Mon objectif est de mettre en garde sur les raccourcis qui sont souvent faits et qui vont potentiellement nuire à la veille des plus débutants. ✨
+> Mon objectif est de mettre en garde sur les raccourcis qui sont souvent faits et qui vont potentiellement nuire à la veille des plus débutants.
 
 ---
 

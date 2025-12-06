@@ -8,7 +8,6 @@ Autres ressources (articles, talks, études):
 
 - EN [The State of Open Source Security 2023 - Snyk](https://snyk.io/reports/open-source-security/)
 - EN [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
-- EN [Top 11 Node.js security best practices - Sqreen](https://blog.sqreen.com/nodejs-security-best-practices/)
 - EN [Securing Node.js and JavaScript - VLADIMIR DE TURKHEIM](https://www.youtube.com/watch?v=LJqw6oCW_YQ)
 - EN [NodeConf Remote 2020 - Matteo Collina - Why there are no incentives for security in Open Source](https://www.youtube.com/watch?v=l7EbDZRjwXA&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=12)
 - EN [Trojan Source - Invisible Source Code Vulnerabilities](https://www.trojansource.codes/)
